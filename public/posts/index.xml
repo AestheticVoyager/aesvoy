@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AesVoy</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://aestheticvoyager.github.io/posts/</link>
     <description>Recent content in Posts on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dither</title>
-      <link>http://localhost:1313/posts/dither/</link>
+      <link>https://aestheticvoyager.github.io/posts/dither/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dither/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/dither/</guid>
       <description>Dither filter</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dither/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/dither/featured.png" />
     </item>
     
     <item>
       <title>Kuwahara</title>
-      <link>http://localhost:1313/posts/kuwahara/</link>
+      <link>https://aestheticvoyager.github.io/posts/kuwahara/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/kuwahara/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/kuwahara/</guid>
       <description>Kuwahara filter</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kuwahara/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/kuwahara/featured.png" />
     </item>
     
   </channel>

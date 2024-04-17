@@ -16,8 +16,8 @@ title = "AesVoy"
  [author]
    name = "Mahan"
    image = "profile.jpg"
-   headline = "Less is More"
-   bio = "Mastering Data Science."
+   headline = "Aesthetic Voyager"
+   bio = "Less is More"
    links = [
      { email = "mailto:sciredomir@tutanota.com" },
      { link = "https://aestheticvoyager.github.io/aesvoy/" },
