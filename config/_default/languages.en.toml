@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Aesthetic Voyager"
+title = "AesVoy"
 
 [params]
   displayName = "EN"
@@ -20,7 +20,7 @@ title = "Aesthetic Voyager"
    bio = "Mastering Data Science."
    links = [
      { email = "mailto:sciredomir@tutanota.com" },
-     { link = "https://aestheticvoyager.github.io/" },
+     { link = "https://aestheticvoyager.github.io/aesvoy/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
