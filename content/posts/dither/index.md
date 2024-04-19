@@ -89,3 +89,5 @@ Experimentation with different images and tweaking parameters can yield varying 
 In conclusion, by exploring dithering algorithms such as Floyd-Steinberg and Atkinson and leveraging the power of Numba for implementation, we've gained insights into enhancing image processing tasks with efficient and optimized code.
 
 [Link to Complete Implementation in GitHub](https://github.com/AestheticVoyager/dither-filter/tree/main)
+
+{{< github repo="aestheticvoyager/dither-filter" >}}

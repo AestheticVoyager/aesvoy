@@ -60,3 +60,5 @@ In-order to achieve High Contrast Visuals, it is better to apply the anisotropic
 ### My Personal Optimized Implementation of Kuwahara filter
 
 [Personal Implementation](https://github.com/AestheticVoyager/kuwahara-filter)
+{{< github repo="aestheticvoyager/kuwahara-filter" >}}
+

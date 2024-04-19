@@ -7,6 +7,7 @@ tags: ["ML", "AI", "Softmax"]
 ---
 
 # Introduction
+
 Over the past decade, several groundbreaking Neural Network models have emerged, reshaping the landscape of artificial intelligence and machine learning. Here's a curated list of the most impactful models released during this period:
 
 1. [**AlexNet (2012)**](https://en.wikipedia.org/wiki/AlexNet):
@@ -46,12 +47,14 @@ Over the past decade, several groundbreaking Neural Network models have emerged,
    - **Influence**: It highlighted the importance of model scaling for efficient and effective neural network design, inspiring research into scalable architectures.
 
 10. [**GPT-2 (2019)**](https://en.wikipedia.org/wiki/GPT-2):
-   - **Contribution**: GPT-2 introduced a large-scale transformer-based language model capable of generating coherent and contextually relevant text on a wide range of topics.
-   - **Influence**: It expanded the boundaries of language generation and showcased the capabilities of large-scale transformer models for natural language understanding and generation tasks.
+
+- **Contribution**: GPT-2 introduced a large-scale transformer-based language model capable of generating coherent and contextually relevant text on a wide range of topics.
+- **Influence**: It expanded the boundaries of language generation and showcased the capabilities of large-scale transformer models for natural language understanding and generation tasks.
 
 These models represent significant milestones in neural network research, each contributing unique advancements that have shaped the field and laid the groundwork for further innovation. Their interconnectedness underscores the iterative nature of deep learning research, where each advancement builds upon existing models to push the boundaries of what is possible.
 
 ## Role of Softmax in Model Architectures
+
 While not all models explicitly use the softmax function, many rely on it as a vital component for tasks like classification, probability estimation, and sequence generation. Let's explore how some of these models leverage and benefit from the softmax function:
 
 1. **AlexNet**:
@@ -75,13 +78,13 @@ While not all models explicitly use the softmax function, many rely on it as a v
 In all cases, the softmax function plays a pivotal role in converting raw model outputs into interpretable probability distributions, facilitating tasks like classification, sequence generation, and language modeling. Additionally, softmax activations produce gradients crucial for training via backpropagation and stochastic gradient descent, making it integral to the optimization process.
 
 ## Softmax Function and Its Relationship with Cross-Entropy Loss
+
 Understanding the relationship between the softmax function and the cross-entropy loss function is crucial for classification tasks in neural networks. Let's delve into this relationship using mathematical notation:
 
 1. **Softmax Function**:
    - The softmax function transforms a vector of real numbers into a probability distribution, commonly used in the output layer of neural networks for multi-class classification. It's defined as:
-     \[ \text{softmax}(\mathbf{z})_i = \frac{e^{z
+     \[ \text{softmax}(\mathbf{z})_i = \frac{e^{z_i}}{\sum_{j=1}^{K} e^{z_j}} \]
 
-_i}}{\sum_{j=1}^{K} e^{z_j}} \]
    - Where:
      - \( \mathbf{z} = [z_1, z_2, ..., z_K] \) is the input vector of raw output scores (logits).
      - \( K \) is the number of classes.
@@ -100,11 +103,13 @@ _i}}{\sum_{j=1}^{K} e^{z_j}} \]
    - The softmax function computes predicted probabilities of each class, while the cross-entropy loss evaluates how closely these predicted probabilities match the true labels. During training, minimizing cross-entropy loss encourages the model to produce predicted probabilities aligning with the true label distribution, facilitating accurate predictions in classification tasks.
 
 ## Softmax Function Definition
+
 The softmax function is a mathematical operation commonly used in machine learning and statistics to convert a vector of real numbers into a probability distribution. Its formula is:
 
 \[ \text{softmax}(\mathbf{z})_i = \frac{e^{z_i}}{\sum_{j=1}^{K} e^{z_j}} \]
 
 Where:
+
 - \( \mathbf{z} = [z_1, z_2, ..., z_K] \) is the input vector.
 - \( K \) denotes the number of elements in the vector.
 - \( e \) represents Euler's number (approximately 2.71828).
@@ -113,6 +118,7 @@ Where:
 The softmax function exponentiates each element of the input vector and normalizes these values by dividing them by the sum of all exponentials, ensuring the output vector sums to 1, thus forming a valid probability distribution.
 
 ## Mathematical Properties of Softmax
+
 The softmax function possesses several mathematical properties, making it a valuable tool in machine learning for multi-class classification tasks. These properties include:
 
 1. **Output as Probability Distribution**:
@@ -136,6 +142,7 @@ The softmax function possesses several mathematical properties, making it a valu
 These properties collectively make softmax a fundamental component in classification tasks, providing a means to convert raw scores into probabilities efficiently.
 
 ## Widespread Use of Softmax
+
 Softmax enjoys widespread adoption due to several factors:
 
 1. **Output Interpretation**: Softmax ensures neural network outputs represent probabilities, facilitating easy interpretation where each element denotes the probability of input belonging to a class.
@@ -149,6 +156,7 @@ Softmax enjoys widespread adoption due to several factors:
 5. **Probabilistic Representation**: Softmax naturally represents model outputs as probability distributions, making it suitable for tasks requiring probabilistic interpretations like classification.
 
 ## Alternatives to Softmax
+
 Several alternatives to softmax exist, each with unique advantages and disadvantages, catering to specific task requirements:
 
 1. **Sigmoid Function**: Suitable for binary classification tasks but requires modifications for multi-class classification.
@@ -168,4 +176,5 @@ Several alternatives to softmax exist, each with unique advantages and disadvant
 The choice of activation function depends on task requirements, data nature, and computational considerations, with softmax remaining a popular choice for its simplicity, interpretability, and compatibility with classification tasks.
 
 ### Summary
+
 Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities. Its widespread use is attributed to its compatibility with training algorithms, numerical stability, and natural integration with loss functions. Understanding softmax and its properties is essential for effectively leveraging it in classification tasks, contributing to the advancement of machine learning and artificial intelligence.
