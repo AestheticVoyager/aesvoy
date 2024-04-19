@@ -2,7 +2,8 @@
 title: "Dither"
 date: 2024-04-17
 draft: false
-summary: "Dither filter"
+summary: "In the realm of digital image processing, dithering algorithms play a crucial role in reducing the color palette of an image while maintaining visual quality."
+tags: ["fitler", "dither", "image processing"]
 ---
 
 # Introduction

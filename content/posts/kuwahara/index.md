@@ -2,8 +2,8 @@
 title : "Kuwahara"
 date : 2024-04-17
 draft : false
-summary: "Kuwahara filter"
-tags: ["filter"]
+summary: "Kuwahara was the world's first edge preserving de-noising image processing algorithm."
+tags: ["filter", "kuwahara", "image processing"]
 ---
 
 The **Kuwahara filter** is a non-linear smoothing filter used in [image processing](https://en.wikipedia.org/wiki/Image_processing "Image processing") for adaptive noise reduction. Most filters that are used for image smoothing are linear [low-pass filters](https://en.wikipedia.org/wiki/Low-pass_filters "Low-pass filters") that effectively reduce noise but also blur out the edges. However the Kuwahara filter is able to apply smoothing on the image while preserving the edges.
@@ -60,4 +60,3 @@ In-order to achieve High Contrast Visuals, it is better to apply the anisotropic
 ### My Personal Optimized Implementation of Kuwahara filter
 
 [Personal Implementation](https://github.com/AestheticVoyager/kuwahara-filter)
-

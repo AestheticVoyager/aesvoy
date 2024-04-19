@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Softmax</title>
+      <link>https://aestheticvoyager.github.io/posts/softmax/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/posts/softmax/</guid>
+      <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/softmax/featured.png" />
+    </item>
+    
     <item>
       <title>Dither</title>
       <link>https://aestheticvoyager.github.io/posts/dither/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aestheticvoyager.github.io/posts/dither/</guid>
-      <description>Dither filter</description>
+      <description>In the realm of digital image processing, dithering algorithms play a crucial role in reducing the color palette of an image while maintaining visual quality.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/dither/featured.png" />
     </item>
     
@@ -24,7 +34,7 @@
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aestheticvoyager.github.io/posts/kuwahara/</guid>
-      <description>Kuwahara filter</description>
+      <description>Kuwahara was the world&amp;rsquo;s first edge preserving de-noising image processing algorithm.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/kuwahara/featured.png" />
     </item>
     

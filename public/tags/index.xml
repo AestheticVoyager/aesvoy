@@ -7,13 +7,83 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://aestheticvoyager.github.io/tags/ai/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://aestheticvoyager.github.io/tags/ml/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Softmax</title>
+      <link>https://aestheticvoyager.github.io/tags/softmax/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/softmax/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dither</title>
+      <link>https://aestheticvoyager.github.io/tags/dither/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/dither/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Filter</title>
       <link>https://aestheticvoyager.github.io/tags/filter/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aestheticvoyager.github.io/tags/filter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fitler</title>
+      <link>https://aestheticvoyager.github.io/tags/fitler/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/fitler/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Image Processing</title>
+      <link>https://aestheticvoyager.github.io/tags/image-processing/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/image-processing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kuwahara</title>
+      <link>https://aestheticvoyager.github.io/tags/kuwahara/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/kuwahara/</guid>
       <description></description>
       
     </item>

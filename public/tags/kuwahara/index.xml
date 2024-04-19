@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kuwahara on AesVoy</title>
+    <link>https://aestheticvoyager.github.io/tags/kuwahara/</link>
+    <description>Recent content in Kuwahara on AesVoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Mahan</copyright>
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/kuwahara/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kuwahara</title>
+      <link>https://aestheticvoyager.github.io/posts/kuwahara/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/posts/kuwahara/</guid>
+      <description>Kuwahara was the world&amp;rsquo;s first edge preserving de-noising image processing algorithm.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/kuwahara/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
