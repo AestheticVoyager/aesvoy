@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fitler on AesVoy</title>
-    <link>https://aestheticvoyager.github.io/tags/fitler/</link>
+    <link>http://localhost:1313/tags/fitler/</link>
     <description>Recent content in Fitler on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/fitler/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/fitler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dither</title>
-      <link>https://aestheticvoyager.github.io/posts/dither/</link>
+      <link>http://localhost:1313/posts/dither/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://aestheticvoyager.github.io/posts/dither/</guid>
+      <guid>http://localhost:1313/posts/dither/</guid>
       <description>In the realm of digital image processing, dithering algorithms play a crucial role in reducing the color palette of an image while maintaining visual quality.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/dither/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dither/featured.png" />
     </item>
     
   </channel>

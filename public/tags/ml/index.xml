@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ML on AesVoy</title>
-    <link>https://aestheticvoyager.github.io/tags/ml/</link>
+    <link>http://localhost:1313/tags/ml/</link>
     <description>Recent content in ML on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Softmax</title>
-      <link>https://aestheticvoyager.github.io/posts/softmax/</link>
+      <link>http://localhost:1313/posts/softmax/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://aestheticvoyager.github.io/posts/softmax/</guid>
+      <guid>http://localhost:1313/posts/softmax/</guid>
       <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/softmax/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/softmax/featured.png" />
     </item>
     
   </channel>
