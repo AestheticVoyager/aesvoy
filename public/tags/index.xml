@@ -2,88 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AesVoy</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://aestheticvoyager.github.io/tags/</link>
     <description>Recent content in Tags on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://aestheticvoyager.github.io/tags/ai/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ML</title>
-      <link>http://localhost:1313/tags/ml/</link>
+      <link>https://aestheticvoyager.github.io/tags/ml/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ml/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/ml/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Softmax</title>
-      <link>http://localhost:1313/tags/softmax/</link>
+      <link>https://aestheticvoyager.github.io/tags/softmax/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/softmax/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/softmax/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dither</title>
-      <link>http://localhost:1313/tags/dither/</link>
+      <link>https://aestheticvoyager.github.io/tags/dither/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/dither/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/dither/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Filter</title>
-      <link>http://localhost:1313/tags/filter/</link>
+      <link>https://aestheticvoyager.github.io/tags/filter/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/filter/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/filter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fitler</title>
-      <link>http://localhost:1313/tags/fitler/</link>
+      <link>https://aestheticvoyager.github.io/tags/fitler/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/fitler/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/fitler/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Image Processing</title>
-      <link>http://localhost:1313/tags/image-processing/</link>
+      <link>https://aestheticvoyager.github.io/tags/image-processing/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/image-processing/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/image-processing/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kuwahara</title>
-      <link>http://localhost:1313/tags/kuwahara/</link>
+      <link>https://aestheticvoyager.github.io/tags/kuwahara/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/kuwahara/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/kuwahara/</guid>
       <description></description>
       
     </item>
