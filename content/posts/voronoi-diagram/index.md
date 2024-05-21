@@ -2,7 +2,7 @@
 title: "Voronoi Diagram"
 date: 2024-05-15
 draft: false
-summary: ""
+summary: "Voronoi diagrams, also known as Dirichlet tessellation or Thiessen polygons, are everywhere in nature. You’ve likely encountered them thousands of times, but perhaps didn’t know what they were called."
 tags: ["Explanation", "Voronoi", "Diagram", "Algorithm", "Image", "Computational Geometry"]
 ---
 
