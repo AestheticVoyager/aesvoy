@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Explanation on AesVoy</title>
+    <link>http://localhost:1313/tags/explanation/</link>
+    <description>Recent content in Explanation on AesVoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Mahan</copyright>
+    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/explanation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voronoi Diagram</title>
+      <link>http://localhost:1313/posts/voronoi-diagram/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/voronoi-diagram/</guid>
+      <description>The Art of Stippling # Stippling, a timeless artistic technique, traces its origins back through the annals of art history, where it emerged as a method of creating texture, depth, and form through the precise placement of dots.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voronoi-diagram/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
