@@ -8,7 +8,7 @@ tags: ["Supervised Learning", "ML", "AI", "Encoder", "Decoder", "Vector", "Compr
 
 # The Magic of Variational Auto-Encoders: Unleashing the Power of Continuous Representation
 
-In the world of deep learning, [Auto-Encoders](https://aestheticvoyager.github.io/aesvoy/posts/Auto-Encoder/) (AE) have long been a staple in our quest to understand and generate complex data distributions. By encoding and decoding input data, AE models can learn compact representations that capture essential features of the underlying distribution. This process is akin to compressing an image into a smaller format, such as JPEG, which retains most of the original information while reducing its size.
+In the world of deep learning, [Auto-Encoders](https://aestheticvoyager.github.io/aesvoy/posts/auto-encoder/) (AE) have long been a staple in our quest to understand and generate complex data distributions. By encoding and decoding input data, AE models can learn compact representations that capture essential features of the underlying distribution. This process is akin to compressing an image into a smaller format, such as JPEG, which retains most of the original information while reducing its size.
 
 In essence, Auto-Encoders are neural networks composed of two main components: the encoder and the decoder. The encoder takes in input data, transforms it into a lower-dimensional representation (also known as the bottleneck or latent space), and then passes this compacted information to the decoder. The decoder, on the other hand, uses this compressed representation to reconstruct the original input data.
 
@@ -16,7 +16,7 @@ This process of encoding and decoding allows AE models to learn meaningful repre
 
 ## The Limitations of Traditional Auto-Encoders
 
-While traditional [Auto-Encoders](https://aestheticvoyager.github.io/aesvoy/posts/Auto-Encoder/) have been incredibly successful in various applications, they do come with some limitations. One major drawback is their inability to generate new samples from the learned representation. This is because AE models are designed primarily for reconstruction and not generation. When we try to sample vectors randomly from the latent space, we're essentially "blindfolded" without any prior knowledge of where these vectors lie within the distribution.
+While traditional [auto-encoders](https://aestheticvoyager.github.io/aesvoy/posts/auto-encoder/) have been incredibly successful in various applications, they do come with some limitations. One major drawback is their inability to generate new samples from the learned representation. This is because AE models are designed primarily for reconstruction and not generation. When we try to sample vectors randomly from the latent space, we're essentially "blindfolded" without any prior knowledge of where these vectors lie within the distribution.
 
 This limitation becomes particularly problematic when we want to generate novel images or samples that are coherent with the learned representation. Traditional Auto-Encoders simply aren't designed for this task, and their generated outputs often lack the desired level of realism and diversity.
 
