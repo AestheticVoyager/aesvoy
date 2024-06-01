@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VAE on AesVoy</title>
+    <link>http://localhost:1313/tags/vae/</link>
+    <description>Recent content in VAE on AesVoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Mahan</copyright>
+    <lastBuildDate>Tue, 28 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/variational-auto-encoder/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/variational-auto-encoder/</guid>
+      <description>The Magic of Variational Auto-Encoders: Unleashing the Power of Continuous Representation # In the world of deep learning, Auto-Encoders (AE) have long been a staple in our quest to understand and generate complex data distributions.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/variational-auto-encoder/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

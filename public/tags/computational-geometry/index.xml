@@ -14,8 +14,18 @@
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/voronoi-diagram/</guid>
-      <description>The Art of Stippling # Stippling, a timeless artistic technique, traces its origins back through the annals of art history, where it emerged as a method of creating texture, depth, and form through the precise placement of dots.</description>
+      <description>Voronoi diagrams, also known as Dirichlet tessellation or Thiessen polygons, are everywhere in nature. You’ve likely encountered them thousands of times, but perhaps didn’t know what they were called.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voronoi-diagram/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Delaunay Triangulation</title>
+      <link>http://localhost:1313/posts/delaunay-triangulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/delaunay-triangulation/</guid>
+      <description>Delaunay triangulation is a process that takes a set of points in n-dimensional space (n-D) as input and returns a network of triangles connecting these points. The resulting structure is called a triangulation or mesh. Each triangle is formed by three vertices, which are the closest neighbors to each other.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/delaunay-triangulation/featured.png" />
     </item>
     
   </channel>

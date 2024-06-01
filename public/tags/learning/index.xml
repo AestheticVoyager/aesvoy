@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on AesVoy</title>
+    <link>http://localhost:1313/tags/learning/</link>
+    <description>Recent content in Learning on AesVoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Mahan</copyright>
+    <lastBuildDate>Mon, 27 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auto-Encoder</title>
+      <link>http://localhost:1313/posts/auto-encoder/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/auto-encoder/</guid>
+      <description>An autoencoder begins its journey by compressing input data into a lower dimension. It then endeavors to reconstruct the original input from this compressed representation. The crux of its functionality lies in minimizing the difference between the attempted recreation and the original input, known as the reconstruction error.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/auto-encoder/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

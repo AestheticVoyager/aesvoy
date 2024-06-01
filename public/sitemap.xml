@@ -4,18 +4,48 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/posts/less-is-more/</loc>
-    <lastmod>2024-05-05T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/posts/paltering/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/done-manifesto/</loc>
+    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/weigthed-voronoi-stippling/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/hidden-markov-models/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/voronoi-diagram/</loc>
+    <lastmod>2024-05-15T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/less-is-more/</loc>
     <lastmod>2024-05-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -47,6 +77,11 @@
   <url>
     <loc>http://localhost:1313/posts/kuwahara/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/delaunay-triangulation/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

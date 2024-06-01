@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DCGAN on AesVoy</title>
+    <link>http://localhost:1313/tags/dcgan/</link>
+    <description>Recent content in DCGAN on AesVoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Mahan</copyright>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/dcgan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generative Adversarial Network</title>
+      <link>http://localhost:1313/posts/xz/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/xz/</guid>
+      <description>In practice, a GAN&amp;rsquo;s generator creates fake images, which are then mixed with real images. The discriminator randomly selects an image from this mix to determine whether it is real or generated. Based on the discriminator&amp;rsquo;s accuracy, both the generator and discriminator are adjusted. After numerous iterations, the generator becomes proficient at producing realistic images.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/xz/featured.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

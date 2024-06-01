@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/stipple/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/stipple/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weighted Voronoi Stippling</title>
-      <link>http://localhost:1313/posts/voronoi-diagram/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      <link>http://localhost:1313/posts/weigthed-voronoi-stippling/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/voronoi-diagram/</guid>
-      <description>The Art of Stippling # Stippling, a timeless artistic technique, traces its origins back through the annals of art history, where it emerged as a method of creating texture, depth, and form through the precise placement of dots.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voronoi-diagram/featured.jpg" />
+      <guid>http://localhost:1313/posts/weigthed-voronoi-stippling/</guid>
+      <description>Stippling, a timeless artistic technique, traces its origins back through the annals of art history, where it emerged as a method of creating texture, depth, and form through the precise placement of dots.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/weigthed-voronoi-stippling/featured.jpg" />
     </item>
     
   </channel>

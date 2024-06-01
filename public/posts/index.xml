@@ -7,7 +7,97 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Generative Adversarial Network</title>
+      <link>http://localhost:1313/posts/generative-adversarial-network/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/generative-adversarial-network/</guid>
+      <description>In practice, a GAN&amp;rsquo;s generator creates fake images, which are then mixed with real images. The discriminator randomly selects an image from this mix to determine whether it is real or generated. Based on the discriminator&amp;rsquo;s accuracy, both the generator and discriminator are adjusted. After numerous iterations, the generator becomes proficient at producing realistic images.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/generative-adversarial-network/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Variational-Auto-Encoder</title>
+      <link>http://localhost:1313/posts/variational-auto-encoder/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/variational-auto-encoder/</guid>
+      <description>The beauty of VAEs lies in their ability to generate new samples by randomly sampling vectors from this known region and then passing them through the generator part of our model. The resulting images are not only realistic but also continuous, allowing us to subtly alter the vector&amp;rsquo;s values to produce novel yet valid-looking outputs.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/variational-auto-encoder/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Auto-Encoder</title>
+      <link>http://localhost:1313/posts/auto-encoder/</link>
+      <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/auto-encoder/</guid>
+      <description>An autoencoder begins its journey by compressing input data into a lower dimension. It then endeavors to reconstruct the original input from this compressed representation. The crux of its functionality lies in minimizing the difference between the attempted recreation and the original input, known as the reconstruction error.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/auto-encoder/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>Delaunay Triangulation</title>
+      <link>http://localhost:1313/posts/delaunay-triangulation/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/delaunay-triangulation/</guid>
+      <description>Delaunay triangulation is a process that takes a set of points in n-dimensional space as input and returns a network of triangles connecting these points. The resulting structure is called a triangulation or mesh.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/delaunay-triangulation/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Paltering</title>
+      <link>http://localhost:1313/posts/paltering/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/paltering/</guid>
+      <description>Paltering reminds us that even truthful statements can be used to mislead. Understanding the context and limitations of facts, and the role of scientific method in informing but not dictating actions, is essential.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/paltering/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Done Manifesto</title>
+      <link>http://localhost:1313/posts/done-manifesto/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/done-manifesto/</guid>
+      <description>In today&amp;rsquo;s fast-paced world, getting things done is crucial. The Done manifesto is all about embracing this mindset and applying it to your work.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/done-manifesto/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Weighted Voronoi Stippling</title>
+      <link>http://localhost:1313/posts/weigthed-voronoi-stippling/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/weigthed-voronoi-stippling/</guid>
+      <description>Stippling, a timeless artistic technique, traces its origins back through the annals of art history, where it emerged as a method of creating texture, depth, and form through the precise placement of dots.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/weigthed-voronoi-stippling/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Voyage through Hidden Markov Models</title>
+      <link>http://localhost:1313/posts/hidden-markov-models/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/hidden-markov-models/</guid>
+      <description>Hidden Markov Models (HMMs) are statistical models used for sequential data analysis, where underlying states are inferred from observed data. Employed in speech recognition, bioinformatics, and more.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hidden-markov-models/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Voronoi Diagram</title>
+      <link>http://localhost:1313/posts/voronoi-diagram/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/voronoi-diagram/</guid>
+      <description>Voronoi diagrams, also known as Dirichlet tessellation or Thiessen polygons, are everywhere in nature. You’ve likely encountered them thousands of times, but perhaps didn’t know what they were called.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voronoi-diagram/featured.jpg" />
+    </item>
+    
     <item>
       <title>Less is More Paper Review</title>
       <link>http://localhost:1313/posts/less-is-more/</link>
