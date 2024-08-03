@@ -16,7 +16,7 @@ Although PageRank isn't the only algorithm Google uses to rank search results, i
 
 The PageRank algorithm creates a probability distribution representing the likelihood that a user, randomly clicking on links, will land on any particular page. This can be applied to collections of documents of any size. Initially, the probability distribution is assumed to be evenly divided among all documents in the collection. The computation of PageRank involves multiple iterations through the document collection to adjust the PageRank values progressively, making them more accurate.
 
-[page rank explanation](https://github.com/AestheticVoyager/aesvoy/tree/main/content/posts/image.png/ "PageRank")
+[Drawn Explanation of PageRank Algorithm](https://github.com/AestheticVoyager/aesvoy/tree/main/content/posts/pagerank/image.png/ "PageRank")
 
 ### The Role of Linear Algebra in PageRank
 

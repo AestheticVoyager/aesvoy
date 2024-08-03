@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/posts/pagerank/</guid>
       <description>PageRank, created by Google founders Larry Page and Sergey Brin, changed the web by ranking pages based on the quality and quantity of their links, rather than just keywords. It evaluates a page’s authority through its endorsements, improving the relevance and trustworthiness of search results.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pagerank/featured.jpg" />
     </item>
     
   </channel>
