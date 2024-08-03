@@ -7,11 +7,191 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algorithm</title>
+      <link>http://localhost:1313/tags/algorithm/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/algorithm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>http://localhost:1313/tags/google/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/google/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linear Algebra</title>
+      <link>http://localhost:1313/tags/linear-algebra/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/linear-algebra/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PageRank</title>
+      <link>http://localhost:1313/tags/pagerank/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pagerank/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Search Engine</title>
+      <link>http://localhost:1313/tags/search-engine/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/search-engine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Austrian</title>
+      <link>http://localhost:1313/tags/austrian/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/austrian/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>http://localhost:1313/tags/economics/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/economics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Keynesian</title>
+      <link>http://localhost:1313/tags/keynesian/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/keynesian/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Monetarist</title>
+      <link>http://localhost:1313/tags/monetarist/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/monetarist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Supply</title>
+      <link>http://localhost:1313/tags/supply/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/supply/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Theory</title>
+      <link>http://localhost:1313/tags/theory/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/theory/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>http://localhost:1313/tags/data/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>http://localhost:1313/tags/data-analysis/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Engineer</title>
+      <link>http://localhost:1313/tags/data-engineer/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-engineer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/data-science/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>http://localhost:1313/tags/content/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/content/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Context</title>
+      <link>http://localhost:1313/tags/context/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/context/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Creation</title>
+      <link>http://localhost:1313/tags/creation/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/creation/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>AI</title>
       <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
@@ -21,7 +201,7 @@
     <item>
       <title>AlexNet</title>
       <link>http://localhost:1313/tags/alexnet/</link>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/alexnet/</guid>
       <description></description>
@@ -31,7 +211,7 @@
     <item>
       <title>Deep Learning</title>
       <link>http://localhost:1313/tags/deep-learning/</link>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/deep-learning/</guid>
       <description></description>
@@ -41,7 +221,7 @@
     <item>
       <title>ML</title>
       <link>http://localhost:1313/tags/ml/</link>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/ml/</guid>
       <description></description>
@@ -259,26 +439,6 @@
     </item>
     
     <item>
-      <title>Content</title>
-      <link>http://localhost:1313/tags/content/</link>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/content/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Context</title>
-      <link>http://localhost:1313/tags/context/</link>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/context/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Mislead</title>
       <link>http://localhost:1313/tags/mislead/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
@@ -319,16 +479,6 @@
     </item>
     
     <item>
-      <title>Algorithm</title>
-      <link>http://localhost:1313/tags/algorithm/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/algorithm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Image</title>
       <link>http://localhost:1313/tags/image/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
@@ -364,16 +514,6 @@
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/stipple/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data Analysis</title>
-      <link>http://localhost:1313/tags/data-analysis/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/data-analysis/</guid>
       <description></description>
       
     </item>
@@ -519,16 +659,6 @@
     </item>
     
     <item>
-      <title>Google</title>
-      <link>http://localhost:1313/tags/google/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/google/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>LLM</title>
       <link>http://localhost:1313/tags/llm/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
@@ -594,16 +724,6 @@
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/kuwahara/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Creation</title>
-      <link>http://localhost:1313/tags/creation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/creation/</guid>
       <description></description>
       
     </item>
