@@ -2,7 +2,7 @@
 title: "Variational-Auto-Encoder"
 date: 2024-05-28
 draft: false
-summary: "The beauty of VAEs lies in their ability to generate new samples by randomly sampling vectors from this known region and then passing them through the generator part of our model. The resulting images are not only realistic but also continuous, allowing us to subtly alter the vector's values to produce novel yet valid-looking outputs."
+summary: "The beauty of VAEs lies in their ability to generate new samples by randomly sampling vectors from this known region and then passing them through the generator part of our model."
 tags: ["Supervised Learning", "ML", "AI", "Encoder", "Decoder", "Vector", "Compression", "Auto-Encoder", "Variational-Auto-Encoder", "VAE", "AE", "Machine Learning", "Learning"]
 ---
 

@@ -7,7 +7,257 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AlexNet</title>
+      <link>http://localhost:1313/tags/alexnet/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/alexnet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/tags/deep-learning/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>http://localhost:1313/tags/ml/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CoGAN</title>
+      <link>http://localhost:1313/tags/cogan/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cogan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DCGAN</title>
+      <link>http://localhost:1313/tags/dcgan/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/dcgan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Decoder</title>
+      <link>http://localhost:1313/tags/decoder/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/decoder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Encoder</title>
+      <link>http://localhost:1313/tags/encoder/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/encoder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GAN</title>
+      <link>http://localhost:1313/tags/gan/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/tags/machine-learning/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PGGAN</title>
+      <link>http://localhost:1313/tags/pggan/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/pggan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SGAN</title>
+      <link>http://localhost:1313/tags/sgan/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/sgan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vector</title>
+      <link>http://localhost:1313/tags/vector/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/vector/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AE</title>
+      <link>http://localhost:1313/tags/ae/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ae/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Auto-Encoder</title>
+      <link>http://localhost:1313/tags/auto-encoder/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/auto-encoder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Compression</title>
+      <link>http://localhost:1313/tags/compression/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/compression/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Supervised Learning</title>
+      <link>http://localhost:1313/tags/supervised-learning/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/supervised-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VAE</title>
+      <link>http://localhost:1313/tags/vae/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/vae/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Variational-Auto-Encoder</title>
+      <link>http://localhost:1313/tags/variational-auto-encoder/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/variational-auto-encoder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CG</title>
+      <link>http://localhost:1313/tags/cg/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computational Geometry</title>
+      <link>http://localhost:1313/tags/computational-geometry/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/computational-geometry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Graphics</title>
+      <link>http://localhost:1313/tags/graphics/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/graphics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Triangulation</title>
+      <link>http://localhost:1313/tags/triangulation/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/triangulation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Voronoi</title>
+      <link>http://localhost:1313/tags/voronoi/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/voronoi/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Content</title>
       <link>http://localhost:1313/tags/content/</link>
@@ -119,16 +369,6 @@
     </item>
     
     <item>
-      <title>Voronoi</title>
-      <link>http://localhost:1313/tags/voronoi/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/voronoi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Data Analysis</title>
       <link>http://localhost:1313/tags/data-analysis/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
@@ -179,16 +419,6 @@
     </item>
     
     <item>
-      <title>Computational Geometry</title>
-      <link>http://localhost:1313/tags/computational-geometry/</link>
-      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/computational-geometry/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Diagram</title>
       <link>http://localhost:1313/tags/diagram/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
@@ -234,16 +464,6 @@
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/kolmogorov/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ML</title>
-      <link>http://localhost:1313/tags/ml/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ml/</guid>
       <description></description>
       
     </item>
@@ -329,16 +549,6 @@
     </item>
     
     <item>
-      <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Softmax</title>
       <link>http://localhost:1313/tags/softmax/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
@@ -389,31 +599,11 @@
     </item>
     
     <item>
-      <title>CG</title>
-      <link>http://localhost:1313/tags/cg/</link>
+      <title>Creation</title>
+      <link>http://localhost:1313/tags/creation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cg/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Graphics</title>
-      <link>http://localhost:1313/tags/graphics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/graphics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Triangulation</title>
-      <link>http://localhost:1313/tags/triangulation/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/triangulation/</guid>
+      <guid>http://localhost:1313/tags/creation/</guid>
       <description></description>
       
     </item>

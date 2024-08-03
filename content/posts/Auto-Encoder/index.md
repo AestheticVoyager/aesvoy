@@ -2,7 +2,7 @@
 title: "Auto-Encoder"
 date: 2024-05-27
 draft: false
-summary: "An autoencoder begins its journey by compressing input data into a lower dimension. It then endeavors to reconstruct the original input from this compressed representation. The crux of its functionality lies in minimizing the difference between the attempted recreation and the original input, known as the reconstruction error."
+summary: "An autoencoder begins its journey by compressing input data into a lower dimension. It then endeavors to reconstruct the original input from this compressed representation."
 tags: ["Supervised Learning", "ML", "AI", "Encoder", "Decoder", "Vector", "Compression", "Auto-Encoder", "AE", "Machine Learning", "Learning"]
 ---
 

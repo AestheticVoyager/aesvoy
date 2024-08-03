@@ -2,7 +2,7 @@
 title: "Generative Adversarial Network"
 date: 2024-05-29
 draft: false
-summary: "In practice, a GAN's generator creates fake images, which are then mixed with real images. The discriminator randomly selects an image from this mix to determine whether it is real or generated. Based on the discriminator's accuracy, both the generator and discriminator are adjusted. After numerous iterations, the generator becomes proficient at producing realistic images."
+summary: "A neural network is like a highly sophisticated, multi-layered calculator that learns from data. It consists of numerous “neurons” (tiny calculators) connected in layers, with each layer performing a unique function to help the network make predictions or decisions."
 tags: ["GAN", "ML", "AI", "Encoder", "Decoder", "Vector", "DCGAN", "CoGAN", "PGGAN", "SGAN", "Machine Learning", "Learning"]
 ---
 
