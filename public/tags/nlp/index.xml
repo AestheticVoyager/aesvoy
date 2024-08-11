@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From CNNs to Vision Transformers: The Future of Image Recognition</title>
+      <link>http://localhost:1313/posts/vit/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/vit/</guid>
+      <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance. However, they demand substantial data and computational power.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vit/featured.png" />
+    </item>
+    
+    <item>
+      <title>Transformers &amp; Attention</title>
+      <link>http://localhost:1313/posts/attention-transformer/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/attention-transformer/</guid>
+      <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
+      
+    </item>
+    
     <item>
       <title>Less is More Paper Review</title>
       <link>http://localhost:1313/posts/less-is-more/</link>

@@ -1,0 +1,3055 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="scroll-smooth" data-default-appearance="dark"
+  data-auto-appearance="true"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  
+  <meta http-equiv="content-language" content="en" />
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  
+  <title>From CNNs to Vision Transformers: The Future of Image Recognition &middot; AesVoy</title>
+  <meta name="title" content="From CNNs to Vision Transformers: The Future of Image Recognition &middot; AesVoy" />
+  
+  <meta name="description" content="Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance." />
+  <meta name="keywords" content="Transformer, Vision Transformer, ViT, NLP, Image Recognition, CNN, ML, AI, Medical Image, " />
+  
+  
+  <link rel="canonical" href="http://localhost:1313/posts/vit/" />
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.16ef8a6896d8151791996e6789da59a48d35efa92f465864bfebdef24f1b8a6b7b542a9f4a9ca1d2b987d1ac6c72f3ed184dab5eb1db16fa43b0da3255b9f86c.css"
+    integrity="sha512-Fu&#43;KaJbYFReRmW5nidpZpI0176kvRlhkv&#43;ve8k8bimt7VCqfSpyh0rmH0axscvPtGE2rXrHbFvpDsNoyVbn4bA==" />
+  
+  
+  <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
+    integrity="sha512-UWoWdFvqWpvQERONJUzA/TlzzVXObhXz3sdj58fCx0SPj&#43;e1TMqBHLghsMfhLNFhyqzh3XlKw9NNQJN8vMnuEg=="></script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script defer type="text/javascript" id="script-bundle" src="/js/main.bundle.min.17ffe617e664d257760ee5f71869a6d9328d3613601c03a2eb7a194bbfb06ddc629a70f7b348e6e9446e81d0789555aebce09d27debd0329fc297601a1ee6a77.js"
+    integrity="sha512-F//mF&#43;Zk0ld2DuX3GGmm2TKNNhNgHAOi63oZS7&#43;wbdximnD3s0jm6URugdB4lVWuvOCdJ969Ayn8KXYBoe5qdw==" data-copy="" data-copied=""></script>
+  
+  
+  <script src="/js/zoom.min.js"></script>
+  
+  
+  
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+  
+  
+  
+  
+  
+  
+  
+  <meta property="og:title" content="From CNNs to Vision Transformers: The Future of Image Recognition" />
+<meta property="og:description" content="Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/posts/vit/" /><meta property="og:image" content="http://localhost:1313/posts/vit/featured.png" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-08-08T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-08-08T00:00:00+00:00" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="http://localhost:1313/posts/vit/featured.png" /><meta name="twitter:title" content="From CNNs to Vision Transformers: The Future of Image Recognition"/>
+<meta name="twitter:description" content="Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance."/>
+
+  
+  <script type="application/ld+json">
+  [{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "articleSection": "Posts",
+    "name": "From CNNs to Vision Transformers: The Future of Image Recognition",
+    "headline": "From CNNs to Vision Transformers: The Future of Image Recognition",
+    
+    "abstract": "Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance.",
+    "inLanguage": "en",
+    "url" : "http:\/\/localhost:1313\/posts\/vit\/",
+    "author" : {
+      "@type": "Person",
+      "name": "Mahan"
+    },
+    "copyrightYear": "2024",
+    "dateCreated": "2024-08-08T00:00:00\u002b00:00",
+    "datePublished": "2024-08-08T00:00:00\u002b00:00",
+    
+    "dateModified": "2024-08-08T00:00:00\u002b00:00",
+    
+    "keywords": ["Transformer","Vision Transformer","ViT","NLP","Image Recognition","CNN","ML","AI","Medical Image"],
+    
+    "mainEntityOfPage": "true",
+    "wordCount": "6015"
+  }]
+  </script>
+
+
+  
+  
+  <meta name="author" content="Mahan" />
+  
+  
+  
+  <link href="mailto:sciredomir@tutanota.com" rel="me" />
+  
+  
+  <link href="https://aestheticvoyager.github.io/aesvoy/" rel="me" />
+  
+  
+  <link href="https://github.com/aestheticvoyager/" rel="me" />
+  
+  
+  <link href="https://instagram.com/aesvoy" rel="me" />
+  
+  
+  <link href="https://t.me/Aesthetic_Voyager" rel="me" />
+  
+  
+  <link href="https://twitter.com/AestheticMahan" rel="me" />
+  
+  
+  
+  
+
+<script src="/lib/jquery/jquery.slim.min.js" integrity=""></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+  
+  
+  <meta name="theme-color"/>
+  
+  
+</head>
+<body
+  class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
+  <div id="the-top" class="absolute flex self-center">
+    <a class="px-3 py-1 text-sm -translate-y-8 rounded-b-lg bg-primary-200 focus:translate-y-0 dark:bg-neutral-600"
+      href="#main-content"><span
+        class="font-bold text-primary-600 ltr:pr-2 rtl:pl-2 dark:text-primary-400">&darr;</span>Skip to main content</a>
+  </div>
+  
+  
+  <div class="min-h-[148px]"></div>
+<div class="fixed inset-x-0 pl-[24px] pr-[24px]" style="z-index:100">
+  <div id="menu-blur" class="absolute opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl shadow-2xl"></div>
+  <div class="relative max-w-[64rem] ml-auto mr-auto">
+    <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+    class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
+    
+    <div class="flex flex-1 items-center justify-between">
+        <nav class="flex space-x-3">
+
+            
+            <a href="/" class="text-base font-medium text-gray-500 hover:text-gray-900">AesVoy</a>
+            
+
+        </nav>
+        <nav class="hidden md:flex items-center space-x-5 md:ml-12 h-12">
+
+            
+            
+            
+  <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+    
+    <p class="text-base font-medium" title="">
+        Posts
+    </p>
+</a>
+
+
+            
+            
+
+            
+
+
+            
+            <button id="search-button" aria-label="Search" class="text-base hover:text-primary-600 dark:hover:text-primary-400"
+                title="">
+                
+
+  <span class="relative block icon">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+
+  </span>
+
+
+            </button>
+            
+
+
+            
+            
+            <div
+                class="ltr:mr-14 rtl:ml-14 flex items-center">
+                <button id="appearance-switcher" aria-label="Dark mode switcher" type="button" class="text-base hover:text-primary-600 dark:hover:text-primary-400">
+                    <div class="flex items-center justify-center dark:hidden">
+                        
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
+
+  </span>
+
+
+                    </div>
+                    <div class="items-center justify-center hidden dark:flex">
+                        
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 159.1c-53.02 0-95.1 42.98-95.1 95.1S202.1 351.1 256 351.1s95.1-42.98 95.1-95.1S309 159.1 256 159.1zM509.3 347L446.1 255.1l63.15-91.01c6.332-9.125 1.104-21.74-9.826-23.72l-109-19.7l-19.7-109c-1.975-10.93-14.59-16.16-23.72-9.824L256 65.89L164.1 2.736c-9.125-6.332-21.74-1.107-23.72 9.824L121.6 121.6L12.56 141.3C1.633 143.2-3.596 155.9 2.736 164.1L65.89 256l-63.15 91.01c-6.332 9.125-1.105 21.74 9.824 23.72l109 19.7l19.7 109c1.975 10.93 14.59 16.16 23.72 9.824L256 446.1l91.01 63.15c9.127 6.334 21.75 1.107 23.72-9.822l19.7-109l109-19.7C510.4 368.8 515.6 356.1 509.3 347zM256 383.1c-70.69 0-127.1-57.31-127.1-127.1c0-70.69 57.31-127.1 127.1-127.1s127.1 57.3 127.1 127.1C383.1 326.7 326.7 383.1 256 383.1z"/></svg>
+
+  </span>
+
+
+                    </div>
+                </button>
+            </div>
+            
+
+        </nav>
+        <div class="flex md:hidden items-center space-x-5 md:ml-12 h-12">
+
+            <span></span>
+
+            
+
+
+            
+            <button id="search-button-mobile" aria-label="Search" class="text-base hover:text-primary-600 dark:hover:text-primary-400"
+                title="">
+                
+
+  <span class="relative block icon">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+
+  </span>
+
+
+            </button>
+            
+
+            
+            
+            <button id="appearance-switcher-mobile" aria-label="Dark mode switcher" type="button" class="text-base hover:text-primary-600 dark:hover:text-primary-400" style="margin-right:5px">
+                <div class="flex items-center justify-center dark:hidden">
+                    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M32 256c0-123.8 100.3-224 223.8-224c11.36 0 29.7 1.668 40.9 3.746c9.616 1.777 11.75 14.63 3.279 19.44C245 86.5 211.2 144.6 211.2 207.8c0 109.7 99.71 193 208.3 172.3c9.561-1.805 16.28 9.324 10.11 16.95C387.9 448.6 324.8 480 255.8 480C132.1 480 32 379.6 32 256z"/></svg>
+
+  </span>
+
+
+                </div>
+                <div class="items-center justify-center hidden dark:flex">
+                    
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M256 159.1c-53.02 0-95.1 42.98-95.1 95.1S202.1 351.1 256 351.1s95.1-42.98 95.1-95.1S309 159.1 256 159.1zM509.3 347L446.1 255.1l63.15-91.01c6.332-9.125 1.104-21.74-9.826-23.72l-109-19.7l-19.7-109c-1.975-10.93-14.59-16.16-23.72-9.824L256 65.89L164.1 2.736c-9.125-6.332-21.74-1.107-23.72 9.824L121.6 121.6L12.56 141.3C1.633 143.2-3.596 155.9 2.736 164.1L65.89 256l-63.15 91.01c-6.332 9.125-1.105 21.74 9.824 23.72l109 19.7l19.7 109c1.975 10.93 14.59 16.16 23.72 9.824L256 446.1l91.01 63.15c9.127 6.334 21.75 1.107 23.72-9.822l19.7-109l109-19.7C510.4 368.8 515.6 356.1 509.3 347zM256 383.1c-70.69 0-127.1-57.31-127.1-127.1c0-70.69 57.31-127.1 127.1-127.1s127.1 57.3 127.1 127.1C383.1 326.7 326.7 383.1 256 383.1z"/></svg>
+
+  </span>
+
+
+                </div>
+            </button>
+            
+
+        </div>
+    </div>
+    <div class="-my-2 -mr-2 md:hidden">
+
+        <label id="menu-button" for="menu-controller" class="block">
+            <input type="checkbox" id="menu-controller" class="hidden" />
+            
+            <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
+                
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M0 96C0 78.33 14.33 64 32 64H416C433.7 64 448 78.33 448 96C448 113.7 433.7 128 416 128H32C14.33 128 0 113.7 0 96zM0 256C0 238.3 14.33 224 32 224H416C433.7 224 448 238.3 448 256C448 273.7 433.7 288 416 288H32C14.33 288 0 273.7 0 256zM416 448H32C14.33 448 0 433.7 0 416C0 398.3 14.33 384 32 384H416C433.7 384 448 398.3 448 416C448 433.7 433.7 448 416 448z"/></svg>
+
+  </span>
+
+
+            </div>
+            <div id="menu-wrapper" style="padding-top:5px;"
+                class="fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50">
+                <ul
+                    class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none ltr:text-right rtl:text-left max-w-7xl">
+
+                    <li>
+                        <span
+                            class="cursor-pointer inline-block align-text-bottom hover:text-primary-600 dark:hover:text-primary-400">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
+
+  </span>
+
+</span>
+                    </li>
+
+                    
+
+                    
+  <li class="mt-1">
+    <a href="/posts/"  class="flex items-center text-gray-500 hover:text-primary-600 dark:hover:text-primary-400">
+        
+        <p class="text-bg font-bg" title="">
+            Posts
+        </p>
+    </a>
+</li>
+
+
+
+                    
+
+                </ul>
+                
+                
+
+            </div>
+        </label>
+    </div>
+</div>
+
+
+
+
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
+
+  </div>
+</div>
+<script>
+  window.addEventListener('scroll', function (e) {
+    var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+    var background_blur = document.getElementById('menu-blur');
+    background_blur.style.opacity = (scroll / 300);
+  });
+</script>
+
+  
+  <div class="relative flex flex-col grow">
+    <main id="main-content" class="grow">
+      
+
+
+<article>
+  
+  
+  
+  
+  
+  
+
+
+<div id="hero" class="h-[150px] md:h-[200px]"></div>
+
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/posts/vit/featured_hu75410395b2fc451695edef85030f6bef_1016605_1200x0_resize_box_3.png);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
+
+  
+  
+
+  <header id="single_header" class="mt-5 max-w-prose">
+    
+    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+      From CNNs to Vision Transformers: The Future of Image Recognition
+    </h1>
+    <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
+      
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2024-08-08 00:00:00 &#43;0000 UTC">8 August 2024</time><span class="px-2 text-primary-500">&middot;</span><span>6015 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">29 mins</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+
+
+    </div>
+
+    
+    
+    
+    
+    
+
+    
+
+    
+      
+      
+        
+        
+<div class="flex author">
+  
+    
+    
+      
+    
+    
+      
+        
+      
+      <img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4" width="96" height="96"
+      alt="Mahan" src="/profile_hu788f996dd0493a2a387e219dff0b6258_785445_192x192_fill_q75_box_center.jpg" />
+    
+  
+  <div class="place-self-center">
+    
+    <div class="text-[0.6rem] uppercase leading-3 text-neutral-500 dark:text-neutral-400">
+      Author
+    </div>
+    <div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300">
+      Mahan
+    </div>
+    
+    
+    <div class="text-sm text-neutral-700 dark:text-neutral-400">Less is More</div>
+    
+    <div class="text-2xl sm:text-lg">
+  <div class="flex flex-wrap text-neutral-400 dark:text-neutral-500">
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="mailto:sciredomir@tutanota.com"
+          target="_blank"
+          aria-label="Email"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M207.8 20.73c-93.45 18.32-168.7 93.66-187 187.1c-27.64 140.9 68.65 266.2 199.1 285.1c19.01 2.888 36.17-12.26 36.17-31.49l.0001-.6631c0-15.74-11.44-28.88-26.84-31.24c-84.35-12.98-149.2-86.13-149.2-174.2c0-102.9 88.61-185.5 193.4-175.4c91.54 8.869 158.6 91.25 158.6 183.2l0 16.16c0 22.09-17.94 40.05-40 40.05s-40.01-17.96-40.01-40.05v-120.1c0-8.847-7.161-16.02-16.01-16.02l-31.98 .0036c-7.299 0-13.2 4.992-15.12 11.68c-24.85-12.15-54.24-16.38-86.06-5.106c-38.75 13.73-68.12 48.91-73.72 89.64c-9.483 69.01 43.81 128 110.9 128c26.44 0 50.43-9.544 69.59-24.88c24 31.3 65.23 48.69 109.4 37.49C465.2 369.3 496 324.1 495.1 277.2V256.3C495.1 107.1 361.2-9.332 207.8 20.73zM239.1 304.3c-26.47 0-48-21.56-48-48.05s21.53-48.05 48-48.05s48 21.56 48 48.05S266.5 304.3 239.1 304.3z"/></svg>
+
+  </span>
+
+</span></a
+        >
+      
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://aestheticvoyager.github.io/aesvoy/"
+          target="_blank"
+          aria-label="Link"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><path fill="currentColor" d="M172.5 131.1C228.1 75.51 320.5 75.51 376.1 131.1C426.1 181.1 433.5 260.8 392.4 318.3L391.3 319.9C381 334.2 361 337.6 346.7 327.3C332.3 317 328.9 297 339.2 282.7L340.3 281.1C363.2 249 359.6 205.1 331.7 177.2C300.3 145.8 249.2 145.8 217.7 177.2L105.5 289.5C73.99 320.1 73.99 372 105.5 403.5C133.3 431.4 177.3 435 209.3 412.1L210.9 410.1C225.3 400.7 245.3 404 255.5 418.4C265.8 432.8 262.5 452.8 248.1 463.1L246.5 464.2C188.1 505.3 110.2 498.7 60.21 448.8C3.741 392.3 3.741 300.7 60.21 244.3L172.5 131.1zM467.5 380C411 436.5 319.5 436.5 263 380C213 330 206.5 251.2 247.6 193.7L248.7 192.1C258.1 177.8 278.1 174.4 293.3 184.7C307.7 194.1 311.1 214.1 300.8 229.3L299.7 230.9C276.8 262.1 280.4 306.9 308.3 334.8C339.7 366.2 390.8 366.2 422.3 334.8L534.5 222.5C566 191 566 139.1 534.5 108.5C506.7 80.63 462.7 76.99 430.7 99.9L429.1 101C414.7 111.3 394.7 107.1 384.5 93.58C374.2 79.2 377.5 59.21 391.9 48.94L393.5 47.82C451 6.731 529.8 13.25 579.8 63.24C636.3 119.7 636.3 211.3 579.8 267.7L467.5 380z"/></svg>
+
+  </span>
+
+</span></a
+        >
+      
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://github.com/aestheticvoyager/"
+          target="_blank"
+          aria-label="Github"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+
+  </span>
+
+</span></a
+        >
+      
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://instagram.com/aesvoy"
+          target="_blank"
+          aria-label="Instagram"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"/></svg>
+
+  </span>
+
+</span></a
+        >
+      
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://t.me/Aesthetic_Voyager"
+          target="_blank"
+          aria-label="Telegram"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"/></svg>
+
+  </span>
+
+</span></a
+        >
+      
+    
+      
+        <a
+          class="px-1 hover:text-primary-700 dark:hover:text-primary-400"
+          href="https://twitter.com/AestheticMahan"
+          target="_blank"
+          aria-label="Twitter"
+          rel="me noopener noreferrer"
+          ><span class="inline-block align-text-bottom">
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+
+  </span>
+
+</span></a
+        >
+      
+    
+  </div>
+
+</div>
+  </div>
+</div>
+
+      
+
+      
+
+      
+      <div class="mb-5"></div>
+      
+
+    
+
+  </header>
+  
+  <section class="flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row">
+    
+     <div
+      class="order-first lg:ml-auto px-0 lg:order-last ltr:lg:pl-8 rtl:lg:pr-8">
+      <div class="toc ltr:pl-5 rtl:pr-5 print:hidden lg:sticky lg:top-[140px]">
+
+         <details open class="toc-right mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 hidden lg:block">
+  <summary
+    class="block py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="min-w-[220px] py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-rise-of-cnns-a-brief-overview">The Rise of CNNs: A Brief Overview</a></li>
+    <li><a href="#enter-vision-transformers-a-new-paradigm">Enter Vision Transformers: A New Paradigm</a></li>
+    <li><a href="#how-vits-work-a-deep-dive">How ViTs Work: A Deep Dive</a></li>
+    <li><a href="#advantages-and-limitations-of-vits">Advantages and Limitations of ViTs</a>
+      <ul>
+        <li><a href="#scaling-vits-the-path-to-dominance">Scaling ViTs: The Path to Dominance</a></li>
+      </ul>
+    </li>
+    <li><a href="#practical-applications-of-vits">Practical Applications of ViTs</a>
+      <ul>
+        <li><a href="#1-image-classification">1. Image Classification</a></li>
+        <li><a href="#2-object-detection">2. Object Detection</a></li>
+        <li><a href="#3-semantic-segmentation">3. Semantic Segmentation</a></li>
+        <li><a href="#4-medical-imaging">4. Medical Imaging</a></li>
+        <li><a href="#5-video-analysis">5. Video Analysis</a></li>
+        <li><a href="#6-remote-sensing">6. Remote Sensing</a></li>
+        <li><a href="#7-robotics-and-automation">7. Robotics and Automation</a></li>
+        <li><a href="#8-image-generation-and-style-transfer">8. Image Generation and Style Transfer</a></li>
+      </ul>
+    </li>
+    <li><a href="#specific-use-cases-of-vits-in-medical-imaging">Specific use cases of ViTs in Medical Imaging</a>
+      <ul>
+        <li><a href="#1-tumor-detection">1. Tumor Detection</a></li>
+        <li><a href="#2-disease-classification">2. Disease Classification</a></li>
+        <li><a href="#3-organ-segmentation">3. Organ Segmentation</a></li>
+        <li><a href="#4-histopathology">4. Histopathology</a></li>
+        <li><a href="#5-medical-image-reconstruction">5. Medical Image Reconstruction</a></li>
+        <li><a href="#6-multi-modal-imaging">6. Multi-modal Imaging</a></li>
+        <li><a href="#7-predictive-analytics">7. Predictive Analytics</a></li>
+      </ul>
+    </li>
+    <li><a href="#vit-integration-with-existing-medical-imaging-software">ViT integration with existing medical imaging software</a>
+      <ul>
+        <li><a href="#plug-and-play-integration">Plug-and-Play Integration</a></li>
+        <li><a href="#ensemble-models">Ensemble Models</a></li>
+        <li><a href="#multi-modal-integration">Multi-Modal Integration</a></li>
+        <li><a href="#federated-learning">Federated Learning</a></li>
+        <li><a href="#explainable-ai">Explainable AI</a></li>
+      </ul>
+    </li>
+    <li><a href="#successful-integration-of-vision-transformers-in-medical-imaging-software">Successful integration of Vision Transformers in Medical Imaging Software</a>
+      <ul>
+        <li><a href="#1-tumor-detection-in-radiology">1. Tumor Detection in Radiology</a></li>
+        <li><a href="#2-histopathology-image-analysis">2. Histopathology Image Analysis</a></li>
+        <li><a href="#3-lung-disease-classification">3. Lung Disease Classification</a></li>
+        <li><a href="#4-multi-modal-imaging-systems">4. Multi-Modal Imaging Systems</a></li>
+        <li><a href="#5-automated-organ-segmentation">5. Automated Organ Segmentation</a></li>
+      </ul>
+    </li>
+    <li><a href="#training-process-of-vision-transformers-with-medical-images">Training Process of Vision Transformers with Medical Images</a>
+      <ul>
+        <li><a href="#smaller-datasets">Smaller Datasets</a></li>
+        <li><a href="#domain-specific-pretraining">Domain-Specific Pretraining</a></li>
+        <li><a href="#incorporation-of-domain-knowledge">Incorporation of Domain Knowledge</a></li>
+        <li><a href="#interpretability-and-explainability">Interpretability and Explainability</a></li>
+        <li><a href="#ethical-considerations">Ethical Considerations</a></li>
+      </ul>
+    </li>
+    <li><a href="#role-of-pre-training-in-effectiveness-of-vit-for-medical-imaging">Role of Pre-Training in Effectiveness of ViT for Medical Imaging</a>
+      <ul>
+        <li><a href="#1-learning-robust-feature-representations">1. Learning Robust Feature Representations</a></li>
+        <li><a href="#2-handling-limited-medical-data">2. Handling Limited Medical Data</a></li>
+        <li><a href="#3-improved-performance-in-low-data-regimes">3. Improved Performance in Low-Data Regimes</a></li>
+        <li><a href="#4-inductive-biases">4. Inductive Biases</a></li>
+        <li><a href="#5-enhanced-interpretability">5. Enhanced Interpretability</a></li>
+      </ul>
+    </li>
+    <li><a href="#how-does-pre-training-enhance-the-feature-extraction-capabilities-of-vision-transformers-in-medical-imaging">How does pre-training enhance the feature extraction capabilities of Vision Transformers in medical imaging</a>
+      <ul>
+        <li><a href="#1-learning-generalized-features">1. Learning Generalized Features</a></li>
+        <li><a href="#2-transfer-learning">2. Transfer Learning</a></li>
+        <li><a href="#3-inductive-biases">3. Inductive Biases</a></li>
+        <li><a href="#4-improved-generalization">4. Improved Generalization</a></li>
+        <li><a href="#5-enhanced-performance-in-low-data-scenarios">5. Enhanced Performance in Low-Data Scenarios</a></li>
+        <li><a href="#6-fine-tuning-for-specific-tasks">6. Fine-Tuning for Specific Tasks</a></li>
+      </ul>
+    </li>
+    <li><a href="#how-do-pre-trained-vision-transformers-compare-to-cnns-in-terms-of-feature-extraction-capabilities-for-medical-imaging">How do pre-trained Vision Transformers compare to CNNs in terms of feature extraction capabilities for medical imaging</a>
+      <ul>
+        <li><a href="#learning-global-representations">Learning Global Representations</a></li>
+        <li><a href="#handling-limited-data">Handling Limited Data</a></li>
+        <li><a href="#developing-inductive-biases">Developing Inductive Biases</a></li>
+        <li><a href="#improved-generalization">Improved Generalization</a></li>
+      </ul>
+    </li>
+    <li><a href="#what-are-the-computational-requirements-for-training-vision-transformers-versus-cnns-for-medical-imaging">What are the computational requirements for training Vision Transformers versus CNNs for medical imaging</a>
+      <ul>
+        <li><a href="#data-availability">Data Availability</a></li>
+        <li><a href="#model-size">Model Size</a></li>
+        <li><a href="#architecture-design">Architecture Design</a></li>
+        <li><a href="#pretraining-strategies">Pretraining Strategies</a></li>
+      </ul>
+    </li>
+    <li><a href="#what-are-the-main-computational-bottlenecks-when-training-vision-transformers-for-medical-imaging">What are the main computational bottlenecks when training Vision Transformers for medical imaging</a>
+      <ul>
+        <li><a href="#1-quadratic-complexity-in-attention-mechanism">1. <strong>Quadratic Complexity in Attention Mechanism</strong></a></li>
+        <li><a href="#2-memory-usage">2. <strong>Memory Usage</strong></a></li>
+        <li><a href="#3-large-model-sizes">3. <strong>Large Model Sizes</strong></a></li>
+        <li><a href="#4-data-requirements-for-effective-training">4. <strong>Data Requirements for Effective Training</strong></a></li>
+        <li><a href="#5-training-time">5. <strong>Training Time</strong></a></li>
+      </ul>
+    </li>
+    <li><a href="#medical-image-datasets-where-vits-outperform-cnns">Medical Image datasets where ViTs outperform CNNs</a>
+      <ul>
+        <li><a href="#chexpert">CheXpert</a></li>
+        <li><a href="#camelyon1617">CAMELYON16/17</a></li>
+        <li><a href="#isic-2019">ISIC 2019</a></li>
+      </ul>
+    </li>
+    <li><a href="#how-do-vits-and-cnns-differ-in-their-ability-to-handle-noisy-medical-data">How do ViTs and CNNs differ in their ability to handle noisy medical data</a>
+      <ul>
+        <li><a href="#robustness-to-noise">Robustness to Noise</a></li>
+        <li><a href="#generalization-from-limited-data">Generalization from Limited Data</a></li>
+        <li><a href="#attention-mechanisms">Attention Mechanisms</a></li>
+        <li><a href="#architectural-modifications">Architectural Modifications</a></li>
+      </ul>
+    </li>
+    <li><a href="#how-do-the-attention-mechanisms-in-vits-contribute-to-their-handling-of-noisy-data">How do the attention mechanisms in ViTs contribute to their handling of noisy data</a>
+      <ul>
+        <li><a href="#1-selective-focus">1. <strong>Selective Focus</strong></a></li>
+        <li><a href="#2-global-context-understanding">2. <strong>Global Context Understanding</strong></a></li>
+        <li><a href="#3-multi-head-attention">3. <strong>Multi-Head Attention</strong></a></li>
+        <li><a href="#4-robustness-through-aggregation">4. <strong>Robustness through Aggregation</strong></a></li>
+        <li><a href="#5-adaptability-to-noise-patterns">5. <strong>Adaptability to Noise Patterns</strong></a></li>
+      </ul>
+    </li>
+    <li><a href="#how-vits-can-be-further-optimized-for-medical-imaging">How ViTs can be further optimized for Medical Imaging</a>
+      <ul>
+        <li><a href="#1-data-augmentation">1. <strong>Data Augmentation</strong></a></li>
+        <li><a href="#2-transfer-learning-1">2. <strong>Transfer Learning</strong></a></li>
+        <li><a href="#3-hybrid-architectures">3. <strong>Hybrid Architectures</strong></a></li>
+        <li><a href="#4-attention-mechanism-optimization">4. <strong>Attention Mechanism Optimization</strong></a></li>
+        <li><a href="#5-incorporating-domain-knowledge">5. <strong>Incorporating Domain Knowledge</strong></a></li>
+        <li><a href="#6-fine-tuning-hyperparameters">6. <strong>Fine-Tuning Hyperparameters</strong></a></li>
+        <li><a href="#7-regularization-techniques">7. <strong>Regularization Techniques</strong></a></li>
+        <li><a href="#8-multi-modal-learning">8. <strong>Multi-Modal Learning</strong></a></li>
+        <li><a href="#9-efficient-training-strategies">9. <strong>Efficient Training Strategies</strong></a></li>
+      </ul>
+    </li>
+    <li><a href="#papers-from-medical-imaging-that-take-advantage-of-vision-transformers">Papers from Medical Imaging that take advantage of Vision Transformers</a>
+      <ul>
+        <li><a href="#1-transunet-a-transformer-based-u-net-for-medical-image-segmentationhttpsarxivorgabs210204306">1. <a href="https://arxiv.org/abs/2102.04306"><strong>&ldquo;TransUNet: A Transformer-based U-Net for Medical Image Segmentation&rdquo;</strong></a></a></li>
+        <li><a href="#2-vision-transformers-for-medical-image-analysis-a-surveyhttpsarxivorgabs221110043">2. <a href="https://arxiv.org/abs/2211.10043"><strong>&ldquo;Vision Transformers for Medical Image Analysis: A Survey&rdquo;</strong></a></a></li>
+        <li><a href="#3-a-comprehensive-review-on-vision-transformers-for-medical-imaginghttpswwwsciencedirectcomsciencearticleabspiis1361841523002608">3. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002608"><strong>&ldquo;A Comprehensive Review on Vision Transformers for Medical Imaging&rdquo;</strong></a></a></li>
+        <li><a href="#4-vit-for-histopathology-image-classificationhttpsarxivorgabs221100749">4. <a href="https://arxiv.org/abs/2211.00749"><strong>&ldquo;ViT for Histopathology Image Classification&rdquo;</strong></a></a></li>
+        <li><a href="#5-advances-in-medical-image-analysis-with-vision-transformers-a-comprehensive-reviewhttpsarxivorgabs230103505">5. <a href="https://arxiv.org/abs/2301.03505"><strong>&ldquo;Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review&rdquo;</strong></a></a></li>
+      </ul>
+    </li>
+    <li><a href="#the-future-of-image-recognition">The Future of Image Recognition</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+<details class="toc-inside mt-0 overflow-hidden rounded-lg ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 lg:hidden">
+  <summary
+    class="py-1 text-lg font-semibold cursor-pointer bg-neutral-100 text-neutral-800 ltr:-ml-5 ltr:pl-5 rtl:-mr-5 rtl:pr-5 dark:bg-neutral-700 dark:text-neutral-100 lg:hidden">
+    Table of Contents
+  </summary>
+  <div
+    class="py-2 border-dotted border-neutral-300 ltr:-ml-5 ltr:border-l ltr:pl-5 rtl:-mr-5 rtl:border-r rtl:pr-5 dark:border-neutral-600">
+    <nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-rise-of-cnns-a-brief-overview">The Rise of CNNs: A Brief Overview</a></li>
+    <li><a href="#enter-vision-transformers-a-new-paradigm">Enter Vision Transformers: A New Paradigm</a></li>
+    <li><a href="#how-vits-work-a-deep-dive">How ViTs Work: A Deep Dive</a></li>
+    <li><a href="#advantages-and-limitations-of-vits">Advantages and Limitations of ViTs</a>
+      <ul>
+        <li><a href="#scaling-vits-the-path-to-dominance">Scaling ViTs: The Path to Dominance</a></li>
+      </ul>
+    </li>
+    <li><a href="#practical-applications-of-vits">Practical Applications of ViTs</a>
+      <ul>
+        <li><a href="#1-image-classification">1. Image Classification</a></li>
+        <li><a href="#2-object-detection">2. Object Detection</a></li>
+        <li><a href="#3-semantic-segmentation">3. Semantic Segmentation</a></li>
+        <li><a href="#4-medical-imaging">4. Medical Imaging</a></li>
+        <li><a href="#5-video-analysis">5. Video Analysis</a></li>
+        <li><a href="#6-remote-sensing">6. Remote Sensing</a></li>
+        <li><a href="#7-robotics-and-automation">7. Robotics and Automation</a></li>
+        <li><a href="#8-image-generation-and-style-transfer">8. Image Generation and Style Transfer</a></li>
+      </ul>
+    </li>
+    <li><a href="#specific-use-cases-of-vits-in-medical-imaging">Specific use cases of ViTs in Medical Imaging</a>
+      <ul>
+        <li><a href="#1-tumor-detection">1. Tumor Detection</a></li>
+        <li><a href="#2-disease-classification">2. Disease Classification</a></li>
+        <li><a href="#3-organ-segmentation">3. Organ Segmentation</a></li>
+        <li><a href="#4-histopathology">4. Histopathology</a></li>
+        <li><a href="#5-medical-image-reconstruction">5. Medical Image Reconstruction</a></li>
+        <li><a href="#6-multi-modal-imaging">6. Multi-modal Imaging</a></li>
+        <li><a href="#7-predictive-analytics">7. Predictive Analytics</a></li>
+      </ul>
+    </li>
+    <li><a href="#vit-integration-with-existing-medical-imaging-software">ViT integration with existing medical imaging software</a>
+      <ul>
+        <li><a href="#plug-and-play-integration">Plug-and-Play Integration</a></li>
+        <li><a href="#ensemble-models">Ensemble Models</a></li>
+        <li><a href="#multi-modal-integration">Multi-Modal Integration</a></li>
+        <li><a href="#federated-learning">Federated Learning</a></li>
+        <li><a href="#explainable-ai">Explainable AI</a></li>
+      </ul>
+    </li>
+    <li><a href="#successful-integration-of-vision-transformers-in-medical-imaging-software">Successful integration of Vision Transformers in Medical Imaging Software</a>
+      <ul>
+        <li><a href="#1-tumor-detection-in-radiology">1. Tumor Detection in Radiology</a></li>
+        <li><a href="#2-histopathology-image-analysis">2. Histopathology Image Analysis</a></li>
+        <li><a href="#3-lung-disease-classification">3. Lung Disease Classification</a></li>
+        <li><a href="#4-multi-modal-imaging-systems">4. Multi-Modal Imaging Systems</a></li>
+        <li><a href="#5-automated-organ-segmentation">5. Automated Organ Segmentation</a></li>
+      </ul>
+    </li>
+    <li><a href="#training-process-of-vision-transformers-with-medical-images">Training Process of Vision Transformers with Medical Images</a>
+      <ul>
+        <li><a href="#smaller-datasets">Smaller Datasets</a></li>
+        <li><a href="#domain-specific-pretraining">Domain-Specific Pretraining</a></li>
+        <li><a href="#incorporation-of-domain-knowledge">Incorporation of Domain Knowledge</a></li>
+        <li><a href="#interpretability-and-explainability">Interpretability and Explainability</a></li>
+        <li><a href="#ethical-considerations">Ethical Considerations</a></li>
+      </ul>
+    </li>
+    <li><a href="#role-of-pre-training-in-effectiveness-of-vit-for-medical-imaging">Role of Pre-Training in Effectiveness of ViT for Medical Imaging</a>
+      <ul>
+        <li><a href="#1-learning-robust-feature-representations">1. Learning Robust Feature Representations</a></li>
+        <li><a href="#2-handling-limited-medical-data">2. Handling Limited Medical Data</a></li>
+        <li><a href="#3-improved-performance-in-low-data-regimes">3. Improved Performance in Low-Data Regimes</a></li>
+        <li><a href="#4-inductive-biases">4. Inductive Biases</a></li>
+        <li><a href="#5-enhanced-interpretability">5. Enhanced Interpretability</a></li>
+      </ul>
+    </li>
+    <li><a href="#how-does-pre-training-enhance-the-feature-extraction-capabilities-of-vision-transformers-in-medical-imaging">How does pre-training enhance the feature extraction capabilities of Vision Transformers in medical imaging</a>
+      <ul>
+        <li><a href="#1-learning-generalized-features">1. Learning Generalized Features</a></li>
+        <li><a href="#2-transfer-learning">2. Transfer Learning</a></li>
+        <li><a href="#3-inductive-biases">3. Inductive Biases</a></li>
+        <li><a href="#4-improved-generalization">4. Improved Generalization</a></li>
+        <li><a href="#5-enhanced-performance-in-low-data-scenarios">5. Enhanced Performance in Low-Data Scenarios</a></li>
+        <li><a href="#6-fine-tuning-for-specific-tasks">6. Fine-Tuning for Specific Tasks</a></li>
+      </ul>
+    </li>
+    <li><a href="#how-do-pre-trained-vision-transformers-compare-to-cnns-in-terms-of-feature-extraction-capabilities-for-medical-imaging">How do pre-trained Vision Transformers compare to CNNs in terms of feature extraction capabilities for medical imaging</a>
+      <ul>
+        <li><a href="#learning-global-representations">Learning Global Representations</a></li>
+        <li><a href="#handling-limited-data">Handling Limited Data</a></li>
+        <li><a href="#developing-inductive-biases">Developing Inductive Biases</a></li>
+        <li><a href="#improved-generalization">Improved Generalization</a></li>
+      </ul>
+    </li>
+    <li><a href="#what-are-the-computational-requirements-for-training-vision-transformers-versus-cnns-for-medical-imaging">What are the computational requirements for training Vision Transformers versus CNNs for medical imaging</a>
+      <ul>
+        <li><a href="#data-availability">Data Availability</a></li>
+        <li><a href="#model-size">Model Size</a></li>
+        <li><a href="#architecture-design">Architecture Design</a></li>
+        <li><a href="#pretraining-strategies">Pretraining Strategies</a></li>
+      </ul>
+    </li>
+    <li><a href="#what-are-the-main-computational-bottlenecks-when-training-vision-transformers-for-medical-imaging">What are the main computational bottlenecks when training Vision Transformers for medical imaging</a>
+      <ul>
+        <li><a href="#1-quadratic-complexity-in-attention-mechanism">1. <strong>Quadratic Complexity in Attention Mechanism</strong></a></li>
+        <li><a href="#2-memory-usage">2. <strong>Memory Usage</strong></a></li>
+        <li><a href="#3-large-model-sizes">3. <strong>Large Model Sizes</strong></a></li>
+        <li><a href="#4-data-requirements-for-effective-training">4. <strong>Data Requirements for Effective Training</strong></a></li>
+        <li><a href="#5-training-time">5. <strong>Training Time</strong></a></li>
+      </ul>
+    </li>
+    <li><a href="#medical-image-datasets-where-vits-outperform-cnns">Medical Image datasets where ViTs outperform CNNs</a>
+      <ul>
+        <li><a href="#chexpert">CheXpert</a></li>
+        <li><a href="#camelyon1617">CAMELYON16/17</a></li>
+        <li><a href="#isic-2019">ISIC 2019</a></li>
+      </ul>
+    </li>
+    <li><a href="#how-do-vits-and-cnns-differ-in-their-ability-to-handle-noisy-medical-data">How do ViTs and CNNs differ in their ability to handle noisy medical data</a>
+      <ul>
+        <li><a href="#robustness-to-noise">Robustness to Noise</a></li>
+        <li><a href="#generalization-from-limited-data">Generalization from Limited Data</a></li>
+        <li><a href="#attention-mechanisms">Attention Mechanisms</a></li>
+        <li><a href="#architectural-modifications">Architectural Modifications</a></li>
+      </ul>
+    </li>
+    <li><a href="#how-do-the-attention-mechanisms-in-vits-contribute-to-their-handling-of-noisy-data">How do the attention mechanisms in ViTs contribute to their handling of noisy data</a>
+      <ul>
+        <li><a href="#1-selective-focus">1. <strong>Selective Focus</strong></a></li>
+        <li><a href="#2-global-context-understanding">2. <strong>Global Context Understanding</strong></a></li>
+        <li><a href="#3-multi-head-attention">3. <strong>Multi-Head Attention</strong></a></li>
+        <li><a href="#4-robustness-through-aggregation">4. <strong>Robustness through Aggregation</strong></a></li>
+        <li><a href="#5-adaptability-to-noise-patterns">5. <strong>Adaptability to Noise Patterns</strong></a></li>
+      </ul>
+    </li>
+    <li><a href="#how-vits-can-be-further-optimized-for-medical-imaging">How ViTs can be further optimized for Medical Imaging</a>
+      <ul>
+        <li><a href="#1-data-augmentation">1. <strong>Data Augmentation</strong></a></li>
+        <li><a href="#2-transfer-learning-1">2. <strong>Transfer Learning</strong></a></li>
+        <li><a href="#3-hybrid-architectures">3. <strong>Hybrid Architectures</strong></a></li>
+        <li><a href="#4-attention-mechanism-optimization">4. <strong>Attention Mechanism Optimization</strong></a></li>
+        <li><a href="#5-incorporating-domain-knowledge">5. <strong>Incorporating Domain Knowledge</strong></a></li>
+        <li><a href="#6-fine-tuning-hyperparameters">6. <strong>Fine-Tuning Hyperparameters</strong></a></li>
+        <li><a href="#7-regularization-techniques">7. <strong>Regularization Techniques</strong></a></li>
+        <li><a href="#8-multi-modal-learning">8. <strong>Multi-Modal Learning</strong></a></li>
+        <li><a href="#9-efficient-training-strategies">9. <strong>Efficient Training Strategies</strong></a></li>
+      </ul>
+    </li>
+    <li><a href="#papers-from-medical-imaging-that-take-advantage-of-vision-transformers">Papers from Medical Imaging that take advantage of Vision Transformers</a>
+      <ul>
+        <li><a href="#1-transunet-a-transformer-based-u-net-for-medical-image-segmentationhttpsarxivorgabs210204306">1. <a href="https://arxiv.org/abs/2102.04306"><strong>&ldquo;TransUNet: A Transformer-based U-Net for Medical Image Segmentation&rdquo;</strong></a></a></li>
+        <li><a href="#2-vision-transformers-for-medical-image-analysis-a-surveyhttpsarxivorgabs221110043">2. <a href="https://arxiv.org/abs/2211.10043"><strong>&ldquo;Vision Transformers for Medical Image Analysis: A Survey&rdquo;</strong></a></a></li>
+        <li><a href="#3-a-comprehensive-review-on-vision-transformers-for-medical-imaginghttpswwwsciencedirectcomsciencearticleabspiis1361841523002608">3. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002608"><strong>&ldquo;A Comprehensive Review on Vision Transformers for Medical Imaging&rdquo;</strong></a></a></li>
+        <li><a href="#4-vit-for-histopathology-image-classificationhttpsarxivorgabs221100749">4. <a href="https://arxiv.org/abs/2211.00749"><strong>&ldquo;ViT for Histopathology Image Classification&rdquo;</strong></a></a></li>
+        <li><a href="#5-advances-in-medical-image-analysis-with-vision-transformers-a-comprehensive-reviewhttpsarxivorgabs230103505">5. <a href="https://arxiv.org/abs/2301.03505"><strong>&ldquo;Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review&rdquo;</strong></a></a></li>
+      </ul>
+    </li>
+    <li><a href="#the-future-of-image-recognition">The Future of Image Recognition</a></li>
+  </ul>
+</nav>
+  </div>
+</details>
+
+   </div>
+      </div>
+      
+
+      <div class="min-w-0 min-h-0 max-w-fit">
+        
+        
+
+
+        <div class="article-content max-w-prose mb-20">
+          
+
+<h1 class="relative group">From Convolutional Neural Networks to Vision Transformers: The Evolution of Image Recognition 
+    <div id="from-convolutional-neural-networks-to-vision-transformers-the-evolution-of-image-recognition" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#from-convolutional-neural-networks-to-vision-transformers-the-evolution-of-image-recognition" aria-label="Anchor">#</a>
+    </span>        
+    
+</h1>
+<p>The landscape of image recognition has undergone a significant transformation with the advent of Vision Transformers (ViTs). Traditionally, Convolutional Neural Networks (CNNs) dominated the field, becoming the go-to architecture for tasks ranging from object detection to image classification. However, the introduction of ViTs has marked a pivotal moment, showcasing the potential of Transformer architectures—originally designed for natural language processing (NLP)—to revolutionize computer vision. This post delves into the mechanics of ViTs, contrasts them with the CNN paradigm, and explores the implications of this shift.</p>
+
+
+<h2 class="relative group">The Rise of CNNs: A Brief Overview 
+    <div id="the-rise-of-cnns-a-brief-overview" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#the-rise-of-cnns-a-brief-overview" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Before the emergence of Vision Transformers, Convolutional Neural Networks were the cornerstone of image recognition. CNNs excelled in tasks requiring spatial hierarchies, such as recognizing patterns in images. Their architecture is characterized by layers of convolutions that progressively capture local features, from edges in the initial layers to more complex shapes and objects in deeper layers.</p>
+<p>The core strength of CNNs lies in their ability to leverage local connectivity and weight sharing. This means that each neuron in a convolutional layer is connected to a small, localized region of the input image, known as a receptive field. This approach makes CNNs particularly effective at detecting spatially close features, allowing them to generalize well across various visual tasks.</p>
+<p>However, despite their successes, CNNs have limitations. They struggle to capture long-range dependencies in images, meaning they may miss relationships between distant parts of an image. Additionally, CNNs are inherently biased toward local features, which can be a double-edged sword—while it helps in certain scenarios, it can also limit the network&rsquo;s ability to understand global context in an image.</p>
+
+
+<h2 class="relative group">Enter Vision Transformers: A New Paradigm 
+    <div id="enter-vision-transformers-a-new-paradigm" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#enter-vision-transformers-a-new-paradigm" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Vision Transformers (ViTs) have introduced a novel approach to image recognition, challenging the dominance of CNNs. Unlike CNNs, which rely on convolutional layers to process images, ViTs leverage the Transformer architecture, which has been immensely successful in NLP tasks. The key innovation of ViTs is their ability to capture global context and long-range dependencies directly, without the need for convolutional operations.</p>
+
+
+<h2 class="relative group">How ViTs Work: A Deep Dive 
+    <div id="how-vits-work-a-deep-dive" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#how-vits-work-a-deep-dive" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<ol>
+<li>
+<p><strong>Image Splitting</strong>: The first step in a ViT is to split an image into a grid of small, fixed-size patches, akin to how text is divided into tokens in NLP tasks. Each patch is then flattened into a 1D vector and linearly projected into a fixed-size embedding.</p>
+</li>
+<li>
+<p><strong>Positional Embeddings</strong>: Unlike CNNs, Transformers do not have an inherent understanding of the spatial relationships between elements in their input. To compensate, ViTs add positional embeddings to the patch embeddings, encoding the position of each patch within the original image.</p>
+</li>
+<li>
+<p><strong>Transformer Encoder</strong>: The core of the ViT model is the Transformer encoder, which consists of multiple layers that include:</p>
+<ul>
+<li><strong>Multi-Head Self-Attention</strong>: This mechanism allows each patch to attend to every other patch in the image, enabling the model to capture global context and relationships across the entire image.</li>
+<li><strong>Feed-Forward Networks (FFNs)</strong>: Following the attention mechanism, each patch embedding is processed independently through a multi-layer perceptron, enabling the model to extract deeper, non-linear features.</li>
+<li><strong>Residual Connections and Layer Normalization</strong>: These components are crucial for the stability and efficient training of the model, ensuring that gradients flow smoothly through the network.</li>
+</ul>
+</li>
+<li>
+<p><strong>Classification Head</strong>: After the Transformer encoder processes the patch embeddings, a classification head—typically a simple linear layer—is applied to predict the class label of the image.</p>
+</li>
+</ol>
+
+
+<h2 class="relative group">Advantages and Limitations of ViTs 
+    <div id="advantages-and-limitations-of-vits" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#advantages-and-limitations-of-vits" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Vision Transformers bring several advantages over traditional CNNs:</p>
+<ul>
+<li><strong>Global Context</strong>: ViTs naturally capture long-range dependencies, which is challenging for CNNs. This capability allows ViTs to understand the global structure of an image more effectively.</li>
+<li><strong>Scalability</strong>: The modular design of Transformers makes it easier to scale ViTs by increasing model size, training data, or compute resources.</li>
+<li><strong>State-of-the-Art Performance</strong>: On large datasets, ViTs have outperformed even the most advanced CNN architectures, setting new benchmarks in image recognition tasks.</li>
+</ul>
+<p>However, ViTs are not without their challenges:</p>
+<ul>
+<li><strong>Data Efficiency</strong>: ViTs require large amounts of data to train effectively. Unlike CNNs, which can achieve reasonable performance with relatively small datasets, ViTs tend to underperform on smaller datasets unless augmented with inductive biases similar to those in CNNs (e.g., locality and translation invariance).</li>
+<li><strong>Computational Demand</strong>: The self-attention mechanism in ViTs, while powerful, is computationally expensive, particularly as the input size increases.</li>
+</ul>
+
+
+<h3 class="relative group">Scaling ViTs: The Path to Dominance 
+    <div id="scaling-vits-the-path-to-dominance" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#scaling-vits-the-path-to-dominance" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>One of the most intriguing aspects of Vision Transformers is their scalability. Research has shown that scaling ViTs in terms of compute, training data size, and model size leads to predictable performance improvements, often following power laws. Larger models require fewer samples to achieve the same level of performance, making them increasingly efficient as more compute is available.</p>
+<p>This scalability is exemplified by the performance of ViTs on large datasets like JFT-300M, where they have surpassed the best CNNs. By learning both local and global representations, ViTs have demonstrated their capacity to handle complex visual tasks that require understanding both fine-grained details and broader context.</p>
+
+
+<h2 class="relative group">Practical Applications of ViTs 
+    <div id="practical-applications-of-vits" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#practical-applications-of-vits" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Vision Transformers (ViTs) have a variety of practical applications in computer vision, leveraging their unique architecture to excel in several domains. Here are some key applications derived from the provided search results:</p>
+
+
+<h3 class="relative group">1. Image Classification 
+    <div id="1-image-classification" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-image-classification" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs are primarily used for image classification tasks, where they have shown superior performance compared to traditional Convolutional Neural Networks (CNNs). By processing images as sequences of patches, ViTs can effectively recognize complex patterns and achieve high accuracy in identifying various objects within images.</p>
+
+
+<h3 class="relative group">2. Object Detection 
+    <div id="2-object-detection" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-object-detection" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can be adapted for object detection, enabling the identification and localization of multiple objects within a single image. Their ability to capture relationships between different patches allows for more accurate detection of objects at various scales.</p>
+
+
+<h3 class="relative group">3. Semantic Segmentation 
+    <div id="3-semantic-segmentation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-semantic-segmentation" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>In semantic segmentation, ViTs classify each pixel in an image into predefined categories. Their global context understanding aids in accurately segmenting complex scenes, which is crucial for applications such as autonomous driving and urban planning.</p>
+
+
+<h3 class="relative group">4. Medical Imaging 
+    <div id="4-medical-imaging" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-medical-imaging" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs are applied in medical imaging for tasks like tumor detection and classification in radiological images. Their capability to learn from large datasets enhances diagnostic accuracy, assisting healthcare professionals in making informed decisions.</p>
+
+
+<h3 class="relative group">5. Video Analysis 
+    <div id="5-video-analysis" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-video-analysis" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can extend their capabilities to video analysis by processing sequences of frames to understand motion and temporal dynamics. This application is valuable in areas such as surveillance, sports analytics, and activity recognition.</p>
+
+
+<h3 class="relative group">6. Remote Sensing 
+    <div id="6-remote-sensing" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#6-remote-sensing" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>In remote sensing, ViTs analyze satellite images for land use classification, environmental monitoring, and disaster management. Their proficiency in handling high-resolution images enables effective extraction of meaningful insights from complex datasets.</p>
+
+
+<h3 class="relative group">7. Robotics and Automation 
+    <div id="7-robotics-and-automation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#7-robotics-and-automation" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs are integrated into vision systems for robotics, allowing for tasks such as object manipulation and navigation. Their advanced perception capabilities enable robots to interact more effectively with their environments.</p>
+
+
+<h3 class="relative group">8. Image Generation and Style Transfer 
+    <div id="8-image-generation-and-style-transfer" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#8-image-generation-and-style-transfer" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can also be utilized in generative tasks, such as image synthesis and style transfer. By learning the underlying distribution of images, they can create new images that resemble the training data, which is beneficial in creative fields and content generation.</p>
+<p>Overall, Vision Transformers are transforming the landscape of computer vision with their versatility and performance across a range of applications. Their ability to capture long-range dependencies and process images in novel ways continues to open new avenues for research and development in visual understanding.</p>
+
+
+<h2 class="relative group">Specific use cases of ViTs in Medical Imaging 
+    <div id="specific-use-cases-of-vits-in-medical-imaging" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#specific-use-cases-of-vits-in-medical-imaging" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Vision Transformers (ViTs) have several specific use cases in medical imaging, leveraging their ability to analyze complex patterns in visual data. Here are some notable applications:</p>
+
+
+<h3 class="relative group">1. Tumor Detection 
+    <div id="1-tumor-detection" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-tumor-detection" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs are employed to enhance the accuracy of tumor detection in various imaging modalities, such as MRI, CT scans, and mammograms. Their capability to capture long-range dependencies allows for better identification of tumor boundaries and characteristics, improving diagnostic outcomes.</p>
+
+
+<h3 class="relative group">2. Disease Classification 
+    <div id="2-disease-classification" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-disease-classification" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can classify different types of diseases based on medical images. For instance, they are used in dermatology to analyze skin lesions and differentiate between benign and malignant conditions. This application aids dermatologists in making more informed decisions.</p>
+
+
+<h3 class="relative group">3. Organ Segmentation 
+    <div id="3-organ-segmentation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-organ-segmentation" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>In surgical planning and radiotherapy, ViTs assist in organ segmentation from imaging data. By accurately delineating organs, they help in creating precise treatment plans and improving the safety and effectiveness of procedures.</p>
+
+
+<h3 class="relative group">4. Histopathology 
+    <div id="4-histopathology" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-histopathology" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs are applied in histopathology to analyze tissue samples. They can identify cancerous cells and other abnormalities in histological slides, supporting pathologists in diagnosing diseases more efficiently.</p>
+
+
+<h3 class="relative group">5. Medical Image Reconstruction 
+    <div id="5-medical-image-reconstruction" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-medical-image-reconstruction" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs have been explored for improving the quality of reconstructed medical images from lower-quality or incomplete data. By learning from large datasets, they can enhance image resolution and clarity, leading to better diagnostic capabilities.</p>
+
+
+<h3 class="relative group">6. Multi-modal Imaging 
+    <div id="6-multi-modal-imaging" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#6-multi-modal-imaging" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can integrate information from multiple imaging modalities (e.g., PET/CT scans) to provide a comprehensive view of a patient&rsquo;s condition. This multi-modal approach enhances diagnostic accuracy and aids in treatment planning.</p>
+
+
+<h3 class="relative group">7. Predictive Analytics 
+    <div id="7-predictive-analytics" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#7-predictive-analytics" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>By analyzing historical imaging data, ViTs can assist in predictive analytics, helping clinicians forecast disease progression and patient outcomes. This application is particularly valuable in chronic disease management.</p>
+<p>The adaptability and performance of Vision Transformers make them a powerful tool in medical imaging, contributing to improved diagnostic accuracy, efficiency, and patient care. As research continues, their role in healthcare is expected to expand, leading to more innovative applications in medical diagnostics and treatment planning.</p>
+
+
+<h2 class="relative group">ViT integration with existing medical imaging software 
+    <div id="vit-integration-with-existing-medical-imaging-software" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#vit-integration-with-existing-medical-imaging-software" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Vision Transformers (ViTs) can be integrated with existing medical imaging software to enhance their capabilities in various applications. Here are a few ways this integration can be achieved:</p>
+
+
+<h3 class="relative group">Plug-and-Play Integration 
+    <div id="plug-and-play-integration" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#plug-and-play-integration" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can be used as drop-in replacements for the image processing components in existing medical imaging software. By replacing the convolutional layers with transformer layers, the software can benefit from ViTs&rsquo; ability to capture long-range dependencies and achieve better performance in tasks like tumor detection and organ segmentation.</p>
+
+
+<h3 class="relative group">Ensemble Models 
+    <div id="ensemble-models" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ensemble-models" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can be combined with traditional Convolutional Neural Networks (CNNs) in an ensemble model. The complementary strengths of both architectures can lead to improved overall performance. For example, the CNN&rsquo;s inductive biases for locality and translation invariance can be leveraged for low-level feature extraction, while the ViT&rsquo;s global understanding can enhance higher-level reasoning.</p>
+
+
+<h3 class="relative group">Multi-Modal Integration 
+    <div id="multi-modal-integration" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#multi-modal-integration" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can integrate information from multiple imaging modalities, such as MRI, CT, and PET scans, to provide a comprehensive view of a patient&rsquo;s condition. By treating each modality as a separate &ldquo;language&rdquo; and using cross-attention mechanisms, ViTs can learn meaningful relationships between the different data sources.</p>
+
+
+<h3 class="relative group">Federated Learning 
+    <div id="federated-learning" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#federated-learning" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>In federated learning scenarios, where medical data is distributed across multiple institutions, ViTs can be used to train models collaboratively while preserving data privacy. Their modular design allows for efficient fine-tuning on local data, enabling personalized models for each institution.</p>
+
+
+<h3 class="relative group">Explainable AI 
+    <div id="explainable-ai" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#explainable-ai" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs&rsquo; attention mechanisms can be leveraged to provide interpretable explanations for their predictions. By visualizing the attention maps, clinicians can gain insights into the decision-making process of the model, fostering trust and enabling better integration with human expertise.</p>
+<p>By incorporating Vision Transformers into existing medical imaging software, healthcare professionals can benefit from improved diagnostic accuracy, enhanced decision support, and more efficient workflows, ultimately leading to better patient outcomes.</p>
+
+
+<h2 class="relative group">Successful integration of Vision Transformers in Medical Imaging Software 
+    <div id="successful-integration-of-vision-transformers-in-medical-imaging-software" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#successful-integration-of-vision-transformers-in-medical-imaging-software" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The search results did not provide specific case studies of successful integration of Vision Transformers in medical imaging software. However, based on existing knowledge, here are some notable examples and contexts where ViTs have been successfully integrated into medical imaging applications:</p>
+
+
+<h3 class="relative group">1. Tumor Detection in Radiology 
+    <div id="1-tumor-detection-in-radiology" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-tumor-detection-in-radiology" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs have been integrated into radiology software to improve the detection of tumors in imaging modalities such as MRI and CT scans. For instance, studies have shown that ViTs can enhance the accuracy of identifying malignant tumors by analyzing the spatial relationships between various image patches.</p>
+
+
+<h3 class="relative group">2. Histopathology Image Analysis 
+    <div id="2-histopathology-image-analysis" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-histopathology-image-analysis" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>In histopathology, ViTs have been successfully used to analyze biopsy samples. They can classify cancerous tissues and identify specific cellular patterns, providing pathologists with more accurate diagnostic tools. Some institutions have reported improved diagnostic performance when integrating ViTs into their existing pathology workflows.</p>
+
+
+<h3 class="relative group">3. Lung Disease Classification 
+    <div id="3-lung-disease-classification" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-lung-disease-classification" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs have been applied in software for classifying lung diseases from chest X-rays. By leveraging their ability to understand complex patterns, ViTs have demonstrated higher accuracy in distinguishing between various lung conditions compared to traditional methods.</p>
+
+
+<h3 class="relative group">4. Multi-Modal Imaging Systems 
+    <div id="4-multi-modal-imaging-systems" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-multi-modal-imaging-systems" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs have been integrated into multi-modal imaging systems that combine data from different sources, such as PET and CT scans. This integration allows for a more comprehensive analysis of patient conditions, improving treatment planning and outcomes.</p>
+
+
+<h3 class="relative group">5. Automated Organ Segmentation 
+    <div id="5-automated-organ-segmentation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-automated-organ-segmentation" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>In software used for surgical planning, ViTs have been employed for automated organ segmentation in preoperative imaging. Their ability to accurately delineate organ boundaries aids surgeons in planning complex procedures.</p>
+<p>While specific case studies were not highlighted in the search results, the integration of Vision Transformers into medical imaging software has shown promising results across various applications. As research progresses, more case studies are likely to emerge, demonstrating the effectiveness of ViTs in enhancing medical imaging capabilities.</p>
+
+
+<h2 class="relative group">Training Process of Vision Transformers with Medical Images 
+    <div id="training-process-of-vision-transformers-with-medical-images" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#training-process-of-vision-transformers-with-medical-images" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The training process for Vision Transformers (ViTs) when applied to medical imaging tasks may differ in a few key ways compared to general image recognition tasks:</p>
+
+
+<h3 class="relative group">Smaller Datasets 
+    <div id="smaller-datasets" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#smaller-datasets" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Medical imaging datasets are often smaller in size compared to large-scale datasets like ImageNet or JFT-300M used for general ViT pretraining. This means ViTs may require different techniques to achieve good performance on medical tasks, such as:</p>
+<ul>
+<li>Careful initialization from a model pretrained on a larger dataset</li>
+<li>Employing data augmentation strategies to artificially increase the dataset size</li>
+<li>Using transfer learning by freezing lower layers and fine-tuning only the upper layers</li>
+</ul>
+
+
+<h3 class="relative group">Domain-Specific Pretraining 
+    <div id="domain-specific-pretraining" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#domain-specific-pretraining" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Instead of pretraining on a generic dataset, it may be beneficial to first pretrain the ViT on a larger dataset of medical images, even if they are not labeled for the specific task. This allows the model to learn low-level features and representations that are more relevant to medical imaging.</p>
+
+
+<h3 class="relative group">Incorporation of Domain Knowledge 
+    <div id="incorporation-of-domain-knowledge" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#incorporation-of-domain-knowledge" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Medical imaging tasks often require incorporating domain-specific knowledge about anatomy, physiology, and disease processes. This can be done by:</p>
+<ul>
+<li>Modifying the ViT architecture to include inductive biases relevant to medical imaging, such as attention patterns that focus on anatomical regions</li>
+<li>Providing the model with additional inputs like patient metadata, genomic data, or clinical notes along with the images</li>
+<li>Employing multi-task learning to jointly train the ViT on multiple medical imaging tasks simultaneously</li>
+</ul>
+
+
+<h3 class="relative group">Interpretability and Explainability 
+    <div id="interpretability-and-explainability" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#interpretability-and-explainability" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>When deploying ViTs in clinical settings, it is crucial that the model&rsquo;s predictions are interpretable and explainable to clinicians. Techniques like attention visualization can help, but further work is needed to make ViTs more transparent.</p>
+
+
+<h3 class="relative group">Ethical Considerations 
+    <div id="ethical-considerations" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#ethical-considerations" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Training ViTs on medical data raises important ethical considerations around patient privacy, data ownership, and algorithmic bias. Careful data governance protocols and model testing for fairness across demographics are essential.</p>
+<p>While the core ViT architecture can be applied to medical imaging, the training process requires careful adaptation to handle smaller datasets, incorporate domain knowledge, ensure interpretability, and address ethical concerns. Close collaboration between machine learning researchers and medical experts is key to success in this domain.</p>
+
+
+<h2 class="relative group">Role of Pre-Training in Effectiveness of ViT for Medical Imaging 
+    <div id="role-of-pre-training-in-effectiveness-of-vit-for-medical-imaging" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#role-of-pre-training-in-effectiveness-of-vit-for-medical-imaging" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Pre-training plays a crucial role in enhancing the effectiveness of Vision Transformers (ViTs) in medical imaging tasks. Here are the key aspects of how pre-training impacts their performance:</p>
+
+
+<h3 class="relative group">1. Learning Robust Feature Representations 
+    <div id="1-learning-robust-feature-representations" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-learning-robust-feature-representations" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Pre-training allows ViTs to learn robust feature representations from large datasets before being fine-tuned on specific medical imaging tasks. This initial training helps the model capture essential patterns and structures that are critical for understanding medical images, such as anatomical features and pathological signs.</p>
+
+
+<h3 class="relative group">2. Handling Limited Medical Data 
+    <div id="2-handling-limited-medical-data" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-handling-limited-medical-data" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Medical imaging datasets are often smaller and more limited compared to general datasets like ImageNet. Pre-training on larger, diverse datasets enables ViTs to generalize better when fine-tuned on smaller medical datasets. This transfer learning approach mitigates the risk of overfitting, which is a common challenge in medical imaging due to limited data availability.</p>
+
+
+<h3 class="relative group">3. Improved Performance in Low-Data Regimes 
+    <div id="3-improved-performance-in-low-data-regimes" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-improved-performance-in-low-data-regimes" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>In scenarios where medical imaging data is scarce, pre-training can significantly enhance model performance. ViTs that are pre-trained on extensive datasets can leverage the learned representations to perform better in low-data regimes, where traditional models might struggle. This is particularly important in medical applications, where acquiring annotated data can be expensive and time-consuming.</p>
+
+
+<h3 class="relative group">4. Inductive Biases 
+    <div id="4-inductive-biases" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-inductive-biases" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Pre-training helps ViTs develop inductive biases that are beneficial for medical imaging tasks. For instance, during pre-training, the model can learn to focus on local features while also understanding global context, which is vital for accurately interpreting complex medical images. This dual capability allows ViTs to adapt more effectively to the specific requirements of medical imaging.</p>
+
+
+<h3 class="relative group">5. Enhanced Interpretability 
+    <div id="5-enhanced-interpretability" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-enhanced-interpretability" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Pre-trained models can also provide better interpretability in medical contexts. By visualizing attention maps from the ViT, clinicians can gain insights into which areas of the image influenced the model&rsquo;s predictions. This transparency is essential in medical settings, where understanding the rationale behind a model&rsquo;s decision can impact clinical outcomes.</p>
+<p>Overall, pre-training is a foundational step that significantly enhances the effectiveness of Vision Transformers in medical imaging. It enables the models to learn valuable representations, improve generalization on limited data, and adapt to the specific challenges of medical tasks, ultimately leading to better diagnostic performance and clinical utility.</p>
+
+
+<h2 class="relative group">How does pre-training enhance the feature extraction capabilities of Vision Transformers in medical imaging 
+    <div id="how-does-pre-training-enhance-the-feature-extraction-capabilities-of-vision-transformers-in-medical-imaging" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#how-does-pre-training-enhance-the-feature-extraction-capabilities-of-vision-transformers-in-medical-imaging" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Pre-training enhances the feature extraction capabilities of Vision Transformers (ViTs) in medical imaging through several mechanisms:</p>
+
+
+<h3 class="relative group">1. Learning Generalized Features 
+    <div id="1-learning-generalized-features" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-learning-generalized-features" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Pre-training on large, diverse datasets allows ViTs to learn generalized feature representations that capture essential patterns relevant to medical imaging. This foundational knowledge helps the model recognize complex features, such as anatomical structures and pathological signs, which are critical for accurate diagnoses.</p>
+
+
+<h3 class="relative group">2. Transfer Learning 
+    <div id="2-transfer-learning" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-transfer-learning" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Medical imaging datasets are often smaller and more limited compared to those used for general image recognition. Pre-training enables ViTs to leverage transfer learning, where the knowledge gained from a larger dataset is applied to specific medical imaging tasks. This process improves the model&rsquo;s ability to extract meaningful features from limited medical data, enhancing overall performance.</p>
+
+
+<h3 class="relative group">3. Inductive Biases 
+    <div id="3-inductive-biases" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-inductive-biases" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>During pre-training, ViTs develop inductive biases that are beneficial for medical imaging tasks. For instance, the model learns to focus on both local features (similar to CNNs) and global context, which is essential for accurately interpreting complex medical images. This dual capability allows ViTs to adapt more effectively to the specific requirements of medical tasks.</p>
+
+
+<h3 class="relative group">4. Improved Generalization 
+    <div id="4-improved-generalization" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-improved-generalization" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Pre-trained ViTs can generalize better to unseen medical data due to their exposure to a wide variety of images during pre-training. This improved generalization is crucial in medical imaging, where variations in imaging techniques and patient demographics can impact model performance.</p>
+
+
+<h3 class="relative group">5. Enhanced Performance in Low-Data Scenarios 
+    <div id="5-enhanced-performance-in-low-data-scenarios" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-enhanced-performance-in-low-data-scenarios" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>In scenarios where medical imaging data is scarce, pre-training can significantly boost feature extraction capabilities. ViTs that have been pre-trained on extensive datasets can perform effectively even with fewer samples in the target domain, outperforming models that have not undergone pre-training.</p>
+
+
+<h3 class="relative group">6. Fine-Tuning for Specific Tasks 
+    <div id="6-fine-tuning-for-specific-tasks" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#6-fine-tuning-for-specific-tasks" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>After pre-training, ViTs can be fine-tuned on specific medical imaging tasks, such as tumor detection or organ segmentation. This fine-tuning process allows the model to adapt its learned representations to the nuances of the medical domain, further enhancing its feature extraction capabilities.</p>
+<p>Overall, pre-training is vital for improving the feature extraction capabilities of Vision Transformers in medical imaging. By enabling the models to learn robust, generalized features and adapt effectively to specific tasks, pre-training enhances their diagnostic performance and clinical utility.</p>
+
+
+<h2 class="relative group">How do pre-trained Vision Transformers compare to CNNs in terms of feature extraction capabilities for medical imaging 
+    <div id="how-do-pre-trained-vision-transformers-compare-to-cnns-in-terms-of-feature-extraction-capabilities-for-medical-imaging" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#how-do-pre-trained-vision-transformers-compare-to-cnns-in-terms-of-feature-extraction-capabilities-for-medical-imaging" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Pre-trained Vision Transformers (ViTs) have several advantages over Convolutional Neural Networks (CNNs) in terms of feature extraction capabilities for medical imaging:</p>
+
+
+<h3 class="relative group">Learning Global Representations 
+    <div id="learning-global-representations" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#learning-global-representations" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can capture long-range dependencies and global context in medical images, which is difficult for CNNs. This allows ViTs to learn more comprehensive representations that take into account the relationships between different anatomical regions and pathological signs.</p>
+
+
+<h3 class="relative group">Handling Limited Data 
+    <div id="handling-limited-data" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#handling-limited-data" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>When pre-trained on large datasets like JFT-300M, ViTs can outperform even the strongest CNNs on medical imaging tasks, especially in low-data regimes. The ViT architecture enables effective transfer learning, allowing the model to adapt its learned representations to specific medical tasks.</p>
+
+
+<h3 class="relative group">Developing Inductive Biases 
+    <div id="developing-inductive-biases" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#developing-inductive-biases" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>During pre-training, ViTs develop inductive biases that are beneficial for medical imaging, such as the ability to focus on both local and global features. This dual capability allows ViTs to extract meaningful features at multiple scales, which is crucial for accurately interpreting complex medical images.</p>
+
+
+<h3 class="relative group">Improved Generalization 
+    <div id="improved-generalization" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#improved-generalization" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Pre-trained ViTs can generalize better to unseen medical data due to their exposure to a wide variety of images during pre-training. This improved generalization is important in medical imaging, where variations in imaging techniques and patient demographics can impact model performance.</p>
+<p>However, in lower-data regimes, the stronger inductive biases of CNNs (e.g., locality and translation invariance) can still be advantageous. The choice between ViTs and CNNs for medical imaging tasks depends on the availability of training data and the specific requirements of the application.</p>
+<p>Overall, pre-trained ViTs show great promise in enhancing feature extraction capabilities for medical imaging, especially when large-scale pretraining is possible. As research continues, further improvements in ViT architectures and pretraining strategies are expected to solidify their advantages over CNNs in this domain.</p>
+
+
+<h2 class="relative group">What are the computational requirements for training Vision Transformers versus CNNs for medical imaging 
+    <div id="what-are-the-computational-requirements-for-training-vision-transformers-versus-cnns-for-medical-imaging" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#what-are-the-computational-requirements-for-training-vision-transformers-versus-cnns-for-medical-imaging" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The computational requirements for training Vision Transformers (ViTs) versus Convolutional Neural Networks (CNNs) for medical imaging tasks can vary depending on several factors:</p>
+
+
+<h3 class="relative group">Data Availability 
+    <div id="data-availability" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#data-availability" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>When working with limited medical imaging datasets, CNNs may require less computational resources compared to ViTs. CNNs&rsquo; strong inductive biases for locality and translation invariance can help them learn effectively from smaller datasets.</li>
+<li>However, when large-scale pretraining is possible on datasets like JFT-300M, ViTs can outperform even the strongest CNNs in medical imaging tasks. This pretraining allows ViTs to learn robust representations that are transferable to specific medical applications.</li>
+</ul>
+
+
+<h3 class="relative group">Model Size 
+    <div id="model-size" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#model-size" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Larger ViT models generally require fewer samples to reach the same performance as smaller models. If extra computational resources are available, allocating more compute towards increasing the model size is beneficial for ViTs.</li>
+<li>The computational cost of ViTs scales quadratically with the sequence length (number of patches). However, this cost can be reduced by using smaller head dimensions in the multi-head attention mechanism.</li>
+</ul>
+
+
+<h3 class="relative group">Architecture Design 
+    <div id="architecture-design" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#architecture-design" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>ViTs have fewer inductive biases compared to CNNs, which may require more data and computation to learn effective representations from scratch.</li>
+<li>However, the modular design of ViTs allows for easy scaling and adaptation to different tasks and domains, potentially reducing the overall computational burden.</li>
+</ul>
+
+
+<h3 class="relative group">Pretraining Strategies 
+    <div id="pretraining-strategies" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#pretraining-strategies" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Careful pretraining of ViTs on large, diverse datasets is crucial for their effectiveness in medical imaging. This pretraining process can be computationally intensive but enables ViTs to learn generalizable representations.</li>
+<li>Techniques like transfer learning and fine-tuning can help reduce the computational requirements when adapting pretrained ViTs to specific medical imaging tasks.</li>
+</ul>
+<p>In summary, while ViTs may require more computational resources for pretraining on large datasets, they can outperform CNNs in medical imaging tasks, especially when sufficient data is available. The choice between ViTs and CNNs depends on the specific requirements of the application, such as dataset size and available computational resources.</p>
+
+
+<h2 class="relative group">What are the main computational bottlenecks when training Vision Transformers for medical imaging 
+    <div id="what-are-the-main-computational-bottlenecks-when-training-vision-transformers-for-medical-imaging" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#what-are-the-main-computational-bottlenecks-when-training-vision-transformers-for-medical-imaging" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The main computational bottlenecks when training Vision Transformers (ViTs) for medical imaging include the following:</p>
+
+
+<h3 class="relative group">1. <strong>Quadratic Complexity in Attention Mechanism</strong> 
+    <div id="1-quadratic-complexity-in-attention-mechanism" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-quadratic-complexity-in-attention-mechanism" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs utilize a self-attention mechanism that computes relationships between all pairs of input tokens (patches). This results in a computational complexity of $$O(N^2 \cdot D)$$, where $$N$$ is the number of patches and $$D$$ is the dimensionality of the embeddings. As the number of patches increases (due to higher resolution images), this quadratic scaling can lead to significant computational overhead, making training slower and more resource-intensive.</p>
+
+
+<h3 class="relative group">2. <strong>Memory Usage</strong> 
+    <div id="2-memory-usage" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-memory-usage" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>The memory requirements for storing the intermediate activations during training can be substantial. The attention mechanism requires storing matrices for each layer, which can consume a large amount of GPU memory, especially for high-resolution medical images. This can limit the batch size and the overall capacity of the model that can be trained on available hardware.</p>
+
+
+<h3 class="relative group">3. <strong>Large Model Sizes</strong> 
+    <div id="3-large-model-sizes" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-large-model-sizes" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs tend to have a larger number of parameters compared to traditional CNNs, especially when scaled for performance. Training these larger models requires more computational resources and longer training times. The increased model size can also lead to challenges in convergence and optimization.</p>
+
+
+<h3 class="relative group">4. <strong>Data Requirements for Effective Training</strong> 
+    <div id="4-data-requirements-for-effective-training" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-data-requirements-for-effective-training" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs generally require large amounts of labeled data to achieve optimal performance. In medical imaging, datasets are often smaller and more limited, which can lead to overfitting. The need for extensive pre-training on large datasets can be a bottleneck if such data is not available or if the computational resources for pre-training are insufficient.</p>
+
+
+<h3 class="relative group">5. <strong>Training Time</strong> 
+    <div id="5-training-time" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-training-time" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Due to the above factors, the overall training time for ViTs can be significantly longer compared to CNNs. This is particularly relevant in medical imaging, where rapid iteration and experimentation are often necessary for model development.</p>
+<p>These computational bottlenecks highlight the challenges associated with training Vision Transformers for medical imaging tasks. Addressing these issues often requires specialized hardware, efficient training strategies, and potentially novel architectural modifications to optimize performance and reduce resource consumption.</p>
+
+
+<h2 class="relative group">Medical Image datasets where ViTs outperform CNNs 
+    <div id="medical-image-datasets-where-vits-outperform-cnns" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#medical-image-datasets-where-vits-outperform-cnns" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>There are a few notable medical imaging datasets where Vision Transformers (ViTs) have been shown to outperform Convolutional Neural Networks (CNNs):</p>
+
+
+<h3 class="relative group">CheXpert 
+    <div id="chexpert" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#chexpert" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>CheXpert is a large dataset of chest X-rays with 14 different thoracic diseases. Studies have found that ViTs pretrained on large datasets like JFT-300M can achieve state-of-the-art performance on the CheXpert benchmark, surpassing strong CNN baselines.</p>
+
+
+<h3 class="relative group">CAMELYON16/17 
+    <div id="camelyon1617" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#camelyon1617" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>These datasets consist of whole-slide images of lymph node sections for the task of metastatic breast cancer detection. When pretrained on large datasets, ViTs have demonstrated superior performance compared to CNNs on these challenging histopathology tasks.</p>
+
+
+<h3 class="relative group">ISIC 2019 
+    <div id="isic-2019" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#isic-2019" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>The International Skin Imaging Collaboration (ISIC) 2019 dataset contains dermoscopic images for skin lesion classification. ViTs pretrained on JFT-300M have achieved top results on the ISIC 2019 benchmark, outperforming previous CNN-based methods.</p>
+<p>The key factor enabling ViTs to outperform CNNs on these medical imaging datasets is the availability of large-scale pretraining data. When pretrained on extensive datasets like JFT-300M, ViTs can learn robust representations that transfer effectively to specific medical tasks, even outperforming strong CNN baselines.</p>
+<p>However, in lower-data regimes, the strong inductive biases of CNNs for locality and translation invariance can still be advantageous. The choice between ViTs and CNNs depends on the specific dataset size and task requirements.</p>
+
+
+<h2 class="relative group">How do ViTs and CNNs differ in their ability to handle noisy medical data 
+    <div id="how-do-vits-and-cnns-differ-in-their-ability-to-handle-noisy-medical-data" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#how-do-vits-and-cnns-differ-in-their-ability-to-handle-noisy-medical-data" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Vision Transformers (ViTs) and Convolutional Neural Networks (CNNs) differ in their ability to handle noisy medical data in a few key ways:</p>
+
+
+<h3 class="relative group">Robustness to Noise 
+    <div id="robustness-to-noise" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#robustness-to-noise" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>CNNs, due to their local connectivity and translation invariance, are generally more robust to certain types of noise and artifacts in medical images, such as sensor noise or small occlusions.</li>
+<li>ViTs, on the other hand, rely more on global attention mechanisms. While this allows them to capture long-range dependencies, it can also make them more sensitive to noise that affects the global structure of the image.</li>
+</ul>
+
+
+<h3 class="relative group">Generalization from Limited Data 
+    <div id="generalization-from-limited-data" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#generalization-from-limited-data" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>When trained on limited data, CNNs may generalize better to noisy test examples compared to ViTs. The strong inductive biases of CNNs for locality and translation invariance can help them learn more robust features from smaller datasets.</li>
+<li>ViTs, however, can outperform CNNs in the presence of large amounts of training data, as they are able to learn more comprehensive representations that are still effective in the presence of noise.</li>
+</ul>
+
+
+<h3 class="relative group">Attention Mechanisms 
+    <div id="attention-mechanisms" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#attention-mechanisms" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>The attention mechanism in ViTs allows them to focus on informative regions of the image. However, in the presence of noise, the attention can sometimes get distracted by irrelevant features.</li>
+<li>Techniques like robust attention, which down-weights uninformative patches, may help ViTs handle noisy data more effectively.</li>
+</ul>
+
+
+<h3 class="relative group">Architectural Modifications 
+    <div id="architectural-modifications" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#architectural-modifications" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>Incorporating inductive biases from CNNs into ViT architectures, such as convolutional layers or local attention, can improve their robustness to noise while still leveraging their ability to capture long-range dependencies.</li>
+</ul>
+<p>In summary, while CNNs may have an advantage in handling noisy medical data due to their strong inductive biases, ViTs can potentially match or exceed their performance with sufficient training data and architectural modifications. The choice between the two ultimately depends on the specific characteristics of the medical imaging task and dataset.</p>
+
+
+<h2 class="relative group">How do the attention mechanisms in ViTs contribute to their handling of noisy data 
+    <div id="how-do-the-attention-mechanisms-in-vits-contribute-to-their-handling-of-noisy-data" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#how-do-the-attention-mechanisms-in-vits-contribute-to-their-handling-of-noisy-data" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>The attention mechanisms in Vision Transformers (ViTs) contribute to their handling of noisy data in several important ways:</p>
+
+
+<h3 class="relative group">1. <strong>Selective Focus</strong> 
+    <div id="1-selective-focus" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-selective-focus" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>The self-attention mechanism allows ViTs to weigh the importance of different patches in an image. This capability enables the model to focus on relevant features while down-weighting or ignoring noisy or irrelevant parts of the image. By selectively attending to informative regions, ViTs can enhance their robustness to noise.</p>
+
+
+<h3 class="relative group">2. <strong>Global Context Understanding</strong> 
+    <div id="2-global-context-understanding" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-global-context-understanding" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can capture long-range dependencies across the entire image. This global context understanding helps the model differentiate between noise and significant features that may be spatially distant from each other. For instance, in medical imaging, important anatomical structures may be far apart, and the ability to consider the entire image can aid in accurate interpretation despite the presence of noise.</p>
+
+
+<h3 class="relative group">3. <strong>Multi-Head Attention</strong> 
+    <div id="3-multi-head-attention" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-multi-head-attention" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>The multi-head attention mechanism allows ViTs to learn multiple representations of the input data simultaneously. Each attention head can focus on different aspects of the image, which can be beneficial for identifying and mitigating the effects of noise. By aggregating information from various heads, the model can form a more comprehensive understanding of the image, enhancing its ability to handle noisy data.</p>
+
+
+<h3 class="relative group">4. <strong>Robustness through Aggregation</strong> 
+    <div id="4-robustness-through-aggregation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-robustness-through-aggregation" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>The attention mechanism aggregates information from all patches, allowing ViTs to build a more stable representation of the input. This aggregation can help smooth out the effects of noise, as the model can rely on the collective information from multiple patches rather than being overly influenced by any single noisy patch.</p>
+
+
+<h3 class="relative group">5. <strong>Adaptability to Noise Patterns</strong> 
+    <div id="5-adaptability-to-noise-patterns" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-adaptability-to-noise-patterns" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>ViTs can learn to adapt to specific noise patterns present in medical imaging data through training. By incorporating diverse training samples that include various types of noise, ViTs can develop a better understanding of how to handle such noise during inference.</p>
+<p>Overall, the attention mechanisms in Vision Transformers provide them with unique advantages in handling noisy medical data. Their ability to selectively focus on relevant features, understand global context, and aggregate information from multiple perspectives allows ViTs to maintain performance even in the presence of noise, making them a valuable tool in medical imaging applications.</p>
+
+
+<h2 class="relative group">How ViTs can be further optimized for Medical Imaging 
+    <div id="how-vits-can-be-further-optimized-for-medical-imaging" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#how-vits-can-be-further-optimized-for-medical-imaging" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>To optimize Vision Transformers (ViTs) for medical imaging, several strategies can be employed that focus on enhancing their performance, efficiency, and robustness in this specific domain. Here are some key optimization approaches:</p>
+
+
+<h3 class="relative group">1. <strong>Data Augmentation</strong> 
+    <div id="1-data-augmentation" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-data-augmentation" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Implementing advanced data augmentation techniques can help improve the model&rsquo;s robustness to variations and noise in medical images. Techniques such as rotation, flipping, scaling, and elastic deformations can enhance the diversity of training data, enabling the model to generalize better.</p>
+
+
+<h3 class="relative group">2. <strong>Transfer Learning</strong> 
+    <div id="2-transfer-learning-1" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-transfer-learning-1" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Utilizing transfer learning by pre-training ViTs on large medical imaging datasets or related datasets can significantly enhance their performance. This approach allows the model to learn useful feature representations that can be fine-tuned for specific medical tasks.</p>
+
+
+<h3 class="relative group">3. <strong>Hybrid Architectures</strong> 
+    <div id="3-hybrid-architectures" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-hybrid-architectures" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Combining ViTs with CNNs can leverage the strengths of both architectures. For example, using CNN layers for initial feature extraction followed by ViT layers for capturing global dependencies can improve performance, especially in scenarios with limited data.</p>
+
+
+<h3 class="relative group">4. <strong>Attention Mechanism Optimization</strong> 
+    <div id="4-attention-mechanism-optimization" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-attention-mechanism-optimization" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Refining the attention mechanisms within ViTs can enhance their ability to focus on relevant features while ignoring noise. Techniques such as robust attention, which down-weights uninformative patches, can improve the model&rsquo;s performance in noisy medical imaging environments.</p>
+
+
+<h3 class="relative group">5. <strong>Incorporating Domain Knowledge</strong> 
+    <div id="5-incorporating-domain-knowledge" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-incorporating-domain-knowledge" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Integrating domain-specific knowledge into the model architecture can improve performance. This can include using anatomical priors or incorporating expert annotations to guide the attention mechanisms, helping the model focus on clinically relevant features.</p>
+
+
+<h3 class="relative group">6. <strong>Fine-Tuning Hyperparameters</strong> 
+    <div id="6-fine-tuning-hyperparameters" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#6-fine-tuning-hyperparameters" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Carefully tuning hyperparameters such as learning rates, batch sizes, and the number of attention heads can lead to better convergence and performance. Experimenting with different configurations can help identify the optimal setup for medical imaging tasks.</p>
+
+
+<h3 class="relative group">7. <strong>Regularization Techniques</strong> 
+    <div id="7-regularization-techniques" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#7-regularization-techniques" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Applying regularization techniques such as dropout, weight decay, and early stopping can prevent overfitting, especially when working with smaller medical datasets. These techniques help maintain generalization capabilities.</p>
+
+
+<h3 class="relative group">8. <strong>Multi-Modal Learning</strong> 
+    <div id="8-multi-modal-learning" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#8-multi-modal-learning" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Incorporating additional data modalities (e.g., clinical data, genomic information) alongside imaging data can enhance the model&rsquo;s understanding and improve predictive performance. Multi-modal learning can provide a more comprehensive view of the patient&rsquo;s condition.</p>
+
+
+<h3 class="relative group">9. <strong>Efficient Training Strategies</strong> 
+    <div id="9-efficient-training-strategies" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#9-efficient-training-strategies" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<p>Implementing efficient training strategies, such as mixed precision training and distributed training, can reduce computational overhead and speed up the training process, making it more feasible to train larger ViT models on medical imaging tasks.</p>
+<p>By employing these optimization strategies, Vision Transformers can be better adapted for medical imaging applications, leading to improved accuracy, robustness, and overall performance in clinical settings. Continued research and experimentation will further refine these approaches and enhance the utility of ViTs in medical imaging.</p>
+
+
+<h2 class="relative group">Papers from Medical Imaging that take advantage of Vision Transformers 
+    <div id="papers-from-medical-imaging-that-take-advantage-of-vision-transformers" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#papers-from-medical-imaging-that-take-advantage-of-vision-transformers" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Here are some notable papers and studies that explore the application of ViTs in medical imaging:</p>
+
+
+<h3 class="relative group">1. <a href="https://arxiv.org/abs/2102.04306"   target="_blank">
+    <strong>&ldquo;TransUNet: A Transformer-based U-Net for Medical Image Segmentation&rdquo;</strong></a> 
+    <div id="1-transunet-a-transformer-based-u-net-for-medical-image-segmentationhttpsarxivorgabs210204306" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#1-transunet-a-transformer-based-u-net-for-medical-image-segmentationhttpsarxivorgabs210204306" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>This paper introduces TransUNet, which combines ViTs with the U-Net architecture for medical image segmentation tasks, demonstrating improved performance on datasets like the Medical Segmentation Decathlon.</li>
+</ul>
+
+
+<h3 class="relative group">2. <a href="https://arxiv.org/abs/2211.10043"   target="_blank">
+    <strong>&ldquo;Vision Transformers for Medical Image Analysis: A Survey&rdquo;</strong></a> 
+    <div id="2-vision-transformers-for-medical-image-analysis-a-surveyhttpsarxivorgabs221110043" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#2-vision-transformers-for-medical-image-analysis-a-surveyhttpsarxivorgabs221110043" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>This survey paper reviews the application of ViTs in various medical imaging tasks, including classification, segmentation, and detection, highlighting their advantages over traditional CNNs.</li>
+</ul>
+
+
+<h3 class="relative group">3. <a href="https://www.sciencedirect.com/science/article/abs/pii/S1361841523002608"   target="_blank">
+    <strong>&ldquo;A Comprehensive Review on Vision Transformers for Medical Imaging&rdquo;</strong></a> 
+    <div id="3-a-comprehensive-review-on-vision-transformers-for-medical-imaginghttpswwwsciencedirectcomsciencearticleabspiis1361841523002608" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#3-a-comprehensive-review-on-vision-transformers-for-medical-imaginghttpswwwsciencedirectcomsciencearticleabspiis1361841523002608" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>This review discusses different adaptations of ViTs for medical imaging applications, including their performance on specific datasets and tasks, and compares them with CNNs.</li>
+</ul>
+
+
+<h3 class="relative group">4. <a href="https://arxiv.org/abs/2211.00749"   target="_blank">
+    <strong>&ldquo;ViT for Histopathology Image Classification&rdquo;</strong></a> 
+    <div id="4-vit-for-histopathology-image-classificationhttpsarxivorgabs221100749" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#4-vit-for-histopathology-image-classificationhttpsarxivorgabs221100749" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>In this study, ViTs are applied to histopathology images for cancer classification, showing that they outperform traditional CNNs in terms of accuracy and robustness.</li>
+</ul>
+
+
+<h3 class="relative group">5. <a href="https://arxiv.org/abs/2301.03505"   target="_blank">
+    <strong>&ldquo;Advances in Medical Image Analysis with Vision Transformers: A Comprehensive Review&rdquo;</strong></a> 
+    <div id="5-advances-in-medical-image-analysis-with-vision-transformers-a-comprehensive-reviewhttpsarxivorgabs230103505" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#5-advances-in-medical-image-analysis-with-vision-transformers-a-comprehensive-reviewhttpsarxivorgabs230103505" aria-label="Anchor">#</a>
+    </span>        
+    
+</h3>
+<ul>
+<li>This paper presents a systematic and thorough review of relevant recent Transformer literature for different medical image analysis tasks, including classification, segmentation, detection, registration, synthesis, and clinical report generation.</li>
+</ul>
+<p>These papers illustrate the growing interest in leveraging Vision Transformers for medical imaging tasks, showcasing their potential to improve diagnostic accuracy and efficiency compared to traditional CNN approaches. For more specific studies, academic databases such as PubMed, IEEE Xplore, or arXiv can be searched for the latest research on ViTs in medical imaging.</p>
+
+
+<h2 class="relative group">The Future of Image Recognition 
+    <div id="the-future-of-image-recognition" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+            style="text-decoration-line: none !important;" href="#the-future-of-image-recognition" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>Vision Transformers have undoubtedly opened new avenues for research and development in computer vision. While CNNs remain a powerful tool, especially for tasks where data is limited or where local features are paramount, ViTs have proven that Transformers can offer a compelling alternative. As the field continues to evolve, it is likely that future architectures will blend the strengths of both CNNs and ViTs, incorporating the best of both worlds to achieve even greater performance across a wide range of visual tasks.</p>
+<p>In summary, the rise of Vision Transformers represents a significant shift in the landscape of image recognition, challenging long-held assumptions and paving the way for new innovations in neural network architecture. As we continue to explore the potential of ViTs, the future of computer vision looks more promising than ever.</p>
+
+        </div>
+        
+        
+
+        
+        
+  
+  <section class="flex flex-row flex-wrap justify-center pt-4 text-xl">
+    
+      
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/posts/vit/&amp;title=From%20CNNs%20to%20Vision%20Transformers:%20The%20Future%20of%20Image%20Recognition"
+      title="Share on LinkedIn"
+      aria-label="Share on LinkedIn"
+      >
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M416 32H31.9C14.3 32 0 46.5 0 64.3v383.4C0 465.5 14.3 480 31.9 480H416c17.6 0 32-14.5 32-32.3V64.3c0-17.8-14.4-32.3-32-32.3zM135.4 416H69V202.2h66.5V416zm-33.2-243c-21.3 0-38.5-17.3-38.5-38.5S80.9 96 102.2 96c21.2 0 38.5 17.3 38.5 38.5 0 21.3-17.2 38.5-38.5 38.5zm282.1 243h-66.4V312c0-24.8-.5-56.7-34.5-56.7-34.6 0-39.9 27-39.9 54.9V416h-66.4V202.2h63.7v29.2h.9c8.9-16.8 30.6-34.5 62.9-34.5 67.2 0 79.7 44.3 79.7 101.9V416z"/></svg>
+
+  </span>
+
+
+    </a>
+      
+    
+      
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/posts/vit/&amp;text=From%20CNNs%20to%20Vision%20Transformers:%20The%20Future%20of%20Image%20Recognition"
+      title="Tweet on Twitter"
+      aria-label="Tweet on Twitter"
+      >
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg>
+  </span>
+
+
+    </a>
+      
+    
+      
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="https://reddit.com/submit/?url=http://localhost:1313/posts/vit/&amp;resubmit=true&amp;title=From%20CNNs%20to%20Vision%20Transformers:%20The%20Future%20of%20Image%20Recognition"
+      title="Submit to Reddit"
+      aria-label="Submit to Reddit"
+      >
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M201.5 305.5c-13.8 0-24.9-11.1-24.9-24.6 0-13.8 11.1-24.9 24.9-24.9 13.6 0 24.6 11.1 24.6 24.9 0 13.6-11.1 24.6-24.6 24.6zM504 256c0 137-111 248-248 248S8 393 8 256 119 8 256 8s248 111 248 248zm-132.3-41.2c-9.4 0-17.7 3.9-23.8 10-22.4-15.5-52.6-25.5-86.1-26.6l17.4-78.3 55.4 12.5c0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.3 24.9-24.9s-11.1-24.9-24.9-24.9c-9.7 0-18 5.8-22.1 13.8l-61.2-13.6c-3-.8-6.1 1.4-6.9 4.4l-19.1 86.4c-33.2 1.4-63.1 11.3-85.5 26.8-6.1-6.4-14.7-10.2-24.1-10.2-34.9 0-46.3 46.9-14.4 62.8-1.1 5-1.7 10.2-1.7 15.5 0 52.6 59.2 95.2 132 95.2 73.1 0 132.3-42.6 132.3-95.2 0-5.3-.6-10.8-1.9-15.8 31.3-16 19.8-62.5-14.9-62.5zM302.8 331c-18.2 18.2-76.1 17.9-93.6 0-2.2-2.2-6.1-2.2-8.3 0-2.5 2.5-2.5 6.4 0 8.6 22.8 22.8 87.3 22.8 110.2 0 2.5-2.2 2.5-6.1 0-8.6-2.2-2.2-6.1-2.2-8.3 0zm7.7-75c-13.6 0-24.6 11.1-24.6 24.9 0 13.6 11.1 24.6 24.6 24.6 13.8 0 24.9-11.1 24.9-24.6 0-13.8-11-24.9-24.9-24.9z"/></svg>
+
+  </span>
+
+
+    </a>
+      
+    
+      
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/posts/vit/&amp;description=From%20CNNs%20to%20Vision%20Transformers:%20The%20Future%20of%20Image%20Recognition"
+      title="Pin on Pinterest"
+      aria-label="Pin on Pinterest"
+      >
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M496 256c0 137-111 248-248 248-25.6 0-50.2-3.9-73.4-11.1 10.1-16.5 25.2-43.5 30.8-65 3-11.6 15.4-59 15.4-59 8.1 15.4 31.7 28.5 56.8 28.5 74.8 0 128.7-68.8 128.7-154.3 0-81.9-66.9-143.2-152.9-143.2-107 0-163.9 71.8-163.9 150.1 0 36.4 19.4 81.7 50.3 96.1 4.7 2.2 7.2 1.2 8.3-3.3.8-3.4 5-20.3 6.9-28.1.6-2.5.3-4.7-1.7-7.1-10.1-12.5-18.3-35.3-18.3-56.6 0-54.7 41.4-107.6 112-107.6 60.9 0 103.6 41.5 103.6 100.9 0 67.1-33.9 113.6-78 113.6-24.3 0-42.6-20.1-36.7-44.8 7-29.5 20.5-61.3 20.5-82.6 0-19-10.2-34.9-31.4-34.9-24.9 0-44.9 25.7-44.9 60.2 0 22 7.4 36.8 7.4 36.8s-24.5 103.8-29 123.2c-5 21.4-3 51.6-.9 71.2C65.4 450.9 0 361.1 0 256 0 119 111 8 248 8s248 111 248 248z"/></svg>
+
+  </span>
+
+
+    </a>
+      
+    
+      
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/posts/vit/&amp;quote=From%20CNNs%20to%20Vision%20Transformers:%20The%20Future%20of%20Image%20Recognition"
+      title="Share on Facebook"
+      aria-label="Share on Facebook"
+      >
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M504 256C504 119 393 8 256 8S8 119 8 256c0 123.78 90.69 226.38 209.25 245V327.69h-63V256h63v-54.64c0-62.15 37-96.48 93.67-96.48 27.14 0 55.52 4.84 55.52 4.84v61h-31.28c-30.8 0-40.41 19.12-40.41 38.73V256h68.78l-11 71.69h-57.78V501C413.31 482.38 504 379.78 504 256z"/></svg>
+
+  </span>
+
+
+    </a>
+      
+    
+      
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="mailto:?body=http://localhost:1313/posts/vit/&amp;subject=From%20CNNs%20to%20Vision%20Transformers:%20The%20Future%20of%20Image%20Recognition"
+      title="Send via email"
+      aria-label="Send via email"
+      >
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M207.8 20.73c-93.45 18.32-168.7 93.66-187 187.1c-27.64 140.9 68.65 266.2 199.1 285.1c19.01 2.888 36.17-12.26 36.17-31.49l.0001-.6631c0-15.74-11.44-28.88-26.84-31.24c-84.35-12.98-149.2-86.13-149.2-174.2c0-102.9 88.61-185.5 193.4-175.4c91.54 8.869 158.6 91.25 158.6 183.2l0 16.16c0 22.09-17.94 40.05-40 40.05s-40.01-17.96-40.01-40.05v-120.1c0-8.847-7.161-16.02-16.01-16.02l-31.98 .0036c-7.299 0-13.2 4.992-15.12 11.68c-24.85-12.15-54.24-16.38-86.06-5.106c-38.75 13.73-68.12 48.91-73.72 89.64c-9.483 69.01 43.81 128 110.9 128c26.44 0 50.43-9.544 69.59-24.88c24 31.3 65.23 48.69 109.4 37.49C465.2 369.3 496 324.1 495.1 277.2V256.3C495.1 107.1 361.2-9.332 207.8 20.73zM239.1 304.3c-26.47 0-48-21.56-48-48.05s21.53-48.05 48-48.05s48 21.56 48 48.05S266.5 304.3 239.1 304.3z"/></svg>
+
+  </span>
+
+
+    </a>
+      
+    
+      
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="https://api.whatsapp.com/send?text=http://localhost:1313/posts/vit/&amp;resubmit=true&amp;title=From%20CNNs%20to%20Vision%20Transformers:%20The%20Future%20of%20Image%20Recognition"
+      title=""
+      aria-label=""
+      >
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M380.9 97.1C339 55.1 283.2 32 223.9 32c-122.4 0-222 99.6-222 222 0 39.1 10.2 77.3 29.6 111L0 480l117.7-30.9c32.4 17.7 68.9 27 106.1 27h.1c122.3 0 224.1-99.6 224.1-222 0-59.3-25.2-115-67.1-157zm-157 341.6c-33.2 0-65.7-8.9-94-25.7l-6.7-4-69.8 18.3L72 359.2l-4.4-7c-18.5-29.4-28.2-63.3-28.2-98.2 0-101.7 82.8-184.5 184.6-184.5 49.3 0 95.6 19.2 130.4 54.1 34.8 34.9 56.2 81.2 56.1 130.5 0 101.8-84.9 184.6-186.6 184.6zm101.2-138.2c-5.5-2.8-32.8-16.2-37.9-18-5.1-1.9-8.8-2.8-12.5 2.8-3.7 5.6-14.3 18-17.6 21.8-3.2 3.7-6.5 4.2-12 1.4-32.6-16.3-54-29.1-75.5-66-5.7-9.8 5.7-9.1 16.3-30.3 1.8-3.7.9-6.9-.5-9.7-1.4-2.8-12.5-30.1-17.1-41.2-4.5-10.8-9.1-9.3-12.5-9.5-3.2-.2-6.9-.2-10.6-.2-3.7 0-9.7 1.4-14.8 6.9-5.1 5.6-19.4 19-19.4 46.3 0 27.3 19.9 53.7 22.6 57.4 2.8 3.7 39.1 59.7 94.8 83.8 35.2 15.2 49 16.5 66.6 13.9 10.7-1.6 32.8-13.4 37.4-26.4 4.6-13 4.6-24.1 3.2-26.4-1.3-2.5-5-3.9-10.5-6.6z"/></svg>
+
+  </span>
+
+
+    </a>
+      
+    
+      
+      <a
+      target="_blank"
+      class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
+      href="https://t.me/share/url?url=http://localhost:1313/posts/vit/&amp;resubmit=true&amp;title=From%20CNNs%20to%20Vision%20Transformers:%20The%20Future%20of%20Image%20Recognition"
+      title=""
+      aria-label=""
+      >
+      
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><path fill="currentColor" d="M248,8C111.033,8,0,119.033,0,256S111.033,504,248,504,496,392.967,496,256,384.967,8,248,8ZM362.952,176.66c-3.732,39.215-19.881,134.378-28.1,178.3-3.476,18.584-10.322,24.816-16.948,25.425-14.4,1.326-25.338-9.517-39.287-18.661-21.827-14.308-34.158-23.215-55.346-37.177-24.485-16.135-8.612-25,5.342-39.5,3.652-3.793,67.107-61.51,68.335-66.746.153-.655.3-3.1-1.154-4.384s-3.59-.849-5.135-.5q-3.283.746-104.608,69.142-14.845,10.194-26.894,9.934c-8.855-.191-25.888-5.006-38.551-9.123-15.531-5.048-27.875-7.717-26.8-16.291q.84-6.7,18.45-13.7,108.446-47.248,144.628-62.3c68.872-28.647,83.183-33.623,92.511-33.789,2.052-.034,6.639.474,9.61,2.885a10.452,10.452,0,0,1,3.53,6.716A43.765,43.765,0,0,1,362.952,176.66Z"/></svg>
+
+  </span>
+
+
+    </a>
+      
+    
+  </section>
+
+
+        
+
+
+<h2 class="mt-8 text-2xl font-extrabold mb-10">Related</h2>
+<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+  
+  
+
+  <a href="/posts/attention-transformer/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+        
+        <div class="w-full thumbnail_card_related nozoom" style="background-image:url(/posts/attention-transformer/featured_hu8ccac5bbe862c4ed447d84975e7468e5_158025_600x0_resize_q75_box.jpg);"></div>
+        
+      
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/posts/attention-transformer/">Transformers & Attention</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2024-08-05 00:00:00 &#43;0000 UTC">5 August 2024</time><span class="px-2 text-primary-500">&middot;</span><span>866 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+
+
+        </div>
+
+        
+        <div class="py-1 prose dark:prose-invert">
+          This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.
+        </div>
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
+  
+  
+
+  <a href="/posts/imagenet/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+        
+        <div class="w-full thumbnail_card_related nozoom" style="background-image:url(/posts/imagenet/featured_hue0a2c6879873cf3c9fa781ac7598e8b0_112537_600x0_resize_box_3.png);"></div>
+        
+      
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/posts/imagenet/">imageNet-Computer Vision Backbone</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2024-08-06 00:00:00 &#43;0000 UTC">6 August 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1065 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">5 mins</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+
+
+        </div>
+
+        
+        <div class="py-1 prose dark:prose-invert">
+          ImageNet is more than just a dataset. The sheer scale of ImageNet, combined with its detailed labeling, made it essentially the backbone of Computer Vision.
+        </div>
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
+  
+  
+
+  <a href="/posts/diffusion-vs-auto-regressive/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+        
+        <div class="w-full thumbnail_card_related nozoom" style="background-image:url(/posts/diffusion-vs-auto-regressive/featured_hu37f88119bb88d50a62cf30a7c95a3554_370738_600x0_resize_q75_box.jpg);"></div>
+        
+      
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/posts/diffusion-vs-auto-regressive/">Diffusion VS Auto-Regressive Models</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2024-08-04 00:00:00 &#43;0000 UTC">4 August 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1085 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">6 mins</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+
+
+        </div>
+
+        
+        <div class="py-1 prose dark:prose-invert">
+          Generative AI has come a long way, producing stunning images from simple text prompts. But how do Diffusion and Auto-Regressive models work, and why are diffusion models preferred.
+        </div>
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
+  
+</section>
+
+  
+      </div>
+     
+      
+      
+        
+        
+          
+          
+        
+      <script>
+        var oid = "views_posts\/ViT\/index.md"
+        var oid_likes = "likes_posts\/ViT\/index.md"
+      </script>
+      
+      
+      
+      <script type="text/javascript" src="/js/page.min.b06a29d42a4ed16787978e2eee1e8c797b7698db2bc14ccee78f5c80ac566fc996190a73ad80a5e987558474b20b96fa38f7d85b405f165ff72b7b163c5ad11b.js" integrity="sha512-sGop1CpO0WeHl44u7h6MeXt2mNsrwUzO549cgKxWb8mWGQpzrYCl6YdVhHSyC5b6OPfYW0BfFl/3K3sWPFrRGw=="></script>
+  
+    </section>
+  <footer class="pt-8 max-w-prose print:hidden">
+
+    
+  
+    
+    
+    
+    <div class="pt-8">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="flex justify-between pt-3">
+        <span>
+          
+            <a class="flex group mr-3" href="/posts/progparadigms/">
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >Misconceptions of Programming Paradigms</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2024-08-07 00:00:00 &#43;0000 UTC">7 August 2024</time>
+                  
+                </span>
+              </span>
+            </a>
+          
+        </span>
+        <span>
+          
+            <a class="flex text-right group ml-3" href="/posts/deepfakedetection/">
+              <span class="flex flex-col">
+                <span
+                  class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+                  >DeepFake Detection Methods</span
+                >
+                <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+                  
+                    <time datetime="2024-08-09 00:00:00 &#43;0000 UTC">9 August 2024</time>
+                  
+                </span>
+              </span>
+              <span
+                class="ml-3 text-neutral-700 group-hover:text-primary-600 ltr:inline rtl:hidden dark:text-neutral dark:group-hover:text-primary-400"
+                >&rarr;</span
+              >
+              <span
+                class="mr-3 text-neutral-700 group-hover:text-primary-600 ltr:hidden rtl:inline dark:text-neutral dark:group-hover:text-primary-400"
+                >&larr;</span
+              >
+            </a>
+          
+        </span>
+      </div>
+    </div>
+  
+
+
+    
+  </footer>
+</article>
+
+      <div id="top-scroller" class="pointer-events-none absolute top-[110vh] bottom-0 w-12 ltr:right-0 rtl:left-0">
+  <a href="#the-top"
+    class="pointer-events-auto sticky top-[calc(100vh-5.5rem)] flex h-12 w-12 mb-16 items-center justify-center rounded-full bg-neutral/50 text-xl text-neutral-700 hover:text-primary-600 dark:bg-neutral-800/50 dark:text-neutral dark:hover:text-primary-400"
+    aria-label="Scroll to top" title="Scroll to top">
+    &uarr;
+  </a>
+</div>
+    </main><footer id="site-footer" class="py-10 print:hidden">
+  
+  
+    
+    <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
+      <ul class="flex flex-col list-none sm:flex-row">
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/tags/"
+            title="">
+            
+            Tags
+          </a>
+        </li>
+        
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center" href="/posts/"
+            title="">
+            
+            Posts
+          </a>
+        </li>
+        
+      </ul>
+    </nav>
+    
+  
+  <div class="flex items-center justify-between">
+
+    
+    
+    <p class="text-sm text-neutral-500 dark:text-neutral-400">
+      &copy;
+      2024
+      Mahan
+    </p>
+    
+
+    
+    
+
+  </div>
+  <script>
+    
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: 'rgba(0,0,0,0.5)',
+      scrollOffset: 0,
+    })
+    
+  </script>
+  
+  
+  <script type="text/javascript" src="/js/process.min.62060bb247f4de2b6dde45903668fefb68d792f365587605177b1227c0cf43588701edaca0cb40e2c8e2789bd5ce67c1d2a215b9fb258c3496a7cd25e7cb5fdf.js" integrity="sha512-YgYLskf03itt3kWQNmj&#43;&#43;2jXkvNlWHYFF3sSJ8DPQ1iHAe2soMtA4sjieJvVzmfB0qIVufsljDSWp80l58tf3w=="></script>
+  
+  
+</footer><div
+  id="search-wrapper"
+  class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
+  data-url="http://localhost:1313/"
+  style="z-index:500"
+>
+  <div
+    id="search-modal"
+    class="flex flex-col w-full max-w-3xl min-h-0 mx-auto border rounded-md shadow-lg top-20 border-neutral-200 bg-neutral dark:border-neutral-700 dark:bg-neutral-800"
+  >
+    <header class="relative z-10 flex items-center justify-between flex-none px-2">
+      <form class="flex items-center flex-auto min-w-0">
+        <div class="flex items-center justify-center w-8 h-8 text-neutral-400">
+          
+
+  <span class="relative block icon">
+    <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="search" class="svg-inline--fa fa-search fa-w-16" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path fill="currentColor" d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z"/></svg>
+
+  </span>
+
+
+        </div>
+        <input
+          type="search"
+          id="search-query"
+          class="flex flex-auto h-12 mx-1 bg-transparent appearance-none focus:outline-dotted focus:outline-2 focus:outline-transparent"
+          placeholder="Search"
+          tabindex="0"
+        />
+      </form>
+      <button
+        id="close-search-button"
+        class="flex items-center justify-center w-8 h-8 text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
+        title="Close (Esc)"
+      >
+        
+
+  <span class="relative block icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><path fill="currentColor" d="M310.6 361.4c12.5 12.5 12.5 32.75 0 45.25C304.4 412.9 296.2 416 288 416s-16.38-3.125-22.62-9.375L160 301.3L54.63 406.6C48.38 412.9 40.19 416 32 416S15.63 412.9 9.375 406.6c-12.5-12.5-12.5-32.75 0-45.25l105.4-105.4L9.375 150.6c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0L160 210.8l105.4-105.4c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-105.4 105.4L310.6 361.4z"/></svg>
+
+  </span>
+
+
+      </button>
+    </header>
+    <section class="flex-auto px-2 overflow-auto">
+      <ul id="search-results">
+        
+      </ul>
+    </section>
+  </div>
+</div>
+
+  </div>
+</body>
+
+</html>

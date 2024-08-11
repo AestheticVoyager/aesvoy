@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/softmax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/softmax/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transformers &amp; Attention</title>
+      <link>http://localhost:1313/posts/attention-transformer/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/attention-transformer/</guid>
+      <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
+      
+    </item>
+    
     <item>
       <title>Softmax</title>
       <link>http://localhost:1313/posts/softmax/</link>

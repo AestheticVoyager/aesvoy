@@ -7,7 +7,377 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Vision</title>
+      <link>http://localhost:1313/tags/computer-vision/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DeepFake</title>
+      <link>http://localhost:1313/tags/deepfake/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/deepfake/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>http://localhost:1313/tags/detection/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/detection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Meta-Data</title>
+      <link>http://localhost:1313/tags/meta-data/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/meta-data/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>http://localhost:1313/tags/ml/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>http://localhost:1313/tags/cnn/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cnn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Image Recognition</title>
+      <link>http://localhost:1313/tags/image-recognition/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/image-recognition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Medical Image</title>
+      <link>http://localhost:1313/tags/medical-image/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/medical-image/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>http://localhost:1313/tags/nlp/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/nlp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformer</title>
+      <link>http://localhost:1313/tags/transformer/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/transformer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vision Transformer</title>
+      <link>http://localhost:1313/tags/vision-transformer/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/vision-transformer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ViT</title>
+      <link>http://localhost:1313/tags/vit/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/vit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>http://localhost:1313/tags/c/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FP</title>
+      <link>http://localhost:1313/tags/fp/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/fp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Functional</title>
+      <link>http://localhost:1313/tags/functional/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/functional/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>http://localhost:1313/tags/oop/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/oop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paradigms</title>
+      <link>http://localhost:1313/tags/paradigms/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/paradigms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>http://localhost:1313/tags/programming/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prolog</title>
+      <link>http://localhost:1313/tags/prolog/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/prolog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>http://localhost:1313/tags/rust/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rust/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AlexNet</title>
+      <link>http://localhost:1313/tags/alexnet/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/alexnet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/tags/cv/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/cv/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>http://localhost:1313/tags/learning/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>http://localhost:1313/tags/attention/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/attention/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RNN</title>
+      <link>http://localhost:1313/tags/rnn/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/rnn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Softmax</title>
+      <link>http://localhost:1313/tags/softmax/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/softmax/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Diffusion</title>
+      <link>http://localhost:1313/tags/diffusion/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/diffusion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GAN</title>
+      <link>http://localhost:1313/tags/gan/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/gan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Noise</title>
+      <link>http://localhost:1313/tags/noise/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/noise/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Black-Scholes</title>
+      <link>http://localhost:1313/tags/black-scholes/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/black-scholes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Black-Scholes-Merton</title>
+      <link>http://localhost:1313/tags/black-scholes-merton/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/black-scholes-merton/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>http://localhost:1313/tags/economics/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/economics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Economy</title>
+      <link>http://localhost:1313/tags/economy/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/economy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HMM</title>
+      <link>http://localhost:1313/tags/hmm/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/hmm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk</title>
+      <link>http://localhost:1313/tags/risk/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/risk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Volatility</title>
+      <link>http://localhost:1313/tags/volatility/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/volatility/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Algorithm</title>
       <link>http://localhost:1313/tags/algorithm/</link>
@@ -64,16 +434,6 @@
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/austrian/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Economics</title>
-      <link>http://localhost:1313/tags/economics/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/economics/</guid>
       <description></description>
       
     </item>
@@ -189,41 +549,11 @@
     </item>
     
     <item>
-      <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AlexNet</title>
-      <link>http://localhost:1313/tags/alexnet/</link>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/alexnet/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Deep Learning</title>
       <link>http://localhost:1313/tags/deep-learning/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/deep-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ML</title>
-      <link>http://localhost:1313/tags/ml/</link>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ml/</guid>
       <description></description>
       
     </item>
@@ -264,26 +594,6 @@
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/encoder/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GAN</title>
-      <link>http://localhost:1313/tags/gan/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/gan/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Learning</title>
-      <link>http://localhost:1313/tags/learning/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/learning/</guid>
       <description></description>
       
     </item>
@@ -609,16 +919,6 @@
     </item>
     
     <item>
-      <title>NLP</title>
-      <link>http://localhost:1313/tags/nlp/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/nlp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Text</title>
       <link>http://localhost:1313/tags/text/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
@@ -649,41 +949,11 @@
     </item>
     
     <item>
-      <title>Attention</title>
-      <link>http://localhost:1313/tags/attention/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/attention/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>LLM</title>
       <link>http://localhost:1313/tags/llm/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/llm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Transformer</title>
-      <link>http://localhost:1313/tags/transformer/</link>
-      <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/transformer/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Softmax</title>
-      <link>http://localhost:1313/tags/softmax/</link>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/softmax/</guid>
       <description></description>
       
     </item>

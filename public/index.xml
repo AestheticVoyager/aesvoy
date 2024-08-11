@@ -7,7 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Sat, 03 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeepFake Detection Methods</title>
+      <link>http://localhost:1313/posts/deepfakedetection/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/deepfakedetection/</guid>
+      <description>In this blog post, we explore the topic of image generators and their detection techniques. I&amp;rsquo;ll discuss various methods for detecting image generators and their manipulations. These include analyzing the visual content of an image, examining its metadata, and using machine learning algorithms to identify patterns in the data.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/deepfakedetection/featured.png" />
+    </item>
+    
+    <item>
+      <title>From CNNs to Vision Transformers: The Future of Image Recognition</title>
+      <link>http://localhost:1313/posts/vit/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/vit/</guid>
+      <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vit/featured.png" />
+    </item>
+    
+    <item>
+      <title>Misconceptions of Programming Paradigms</title>
+      <link>http://localhost:1313/posts/progparadigms/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/progparadigms/</guid>
+      <description>As a developer, you might have come across the misconception that writing code without classes in a language that supports Object-Oriented Programming (OOP) automatically makes it functional. In reality, this code is more likely procedural.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/progparadigms/featured.png" />
+    </item>
+    
+    <item>
+      <title>imageNet-Computer Vision Backbone</title>
+      <link>http://localhost:1313/posts/imagenet/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/imagenet/</guid>
+      <description>ImageNet is more than just a dataset. The sheer scale of ImageNet, combined with its detailed labeling, made it essentially the backbone of Computer Vision.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imagenet/featured.png" />
+    </item>
+    
+    <item>
+      <title>Transformers &amp; Attention</title>
+      <link>http://localhost:1313/posts/attention-transformer/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/attention-transformer/</guid>
+      <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/attention-transformer/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Diffusion VS Auto-Regressive Models</title>
+      <link>http://localhost:1313/posts/diffusion-vs-auto-regressive/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/diffusion-vs-auto-regressive/</guid>
+      <description>Generative AI has come a long way, producing stunning images from simple text prompts. But how do Diffusion and Auto-Regressive models work, and why are diffusion models preferred.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/diffusion-vs-auto-regressive/featured.jpg" />
+    </item>
+    
     <item>
       <title>Mathematics of Risk</title>
       <link>http://localhost:1313/posts/black-scholes/</link>
