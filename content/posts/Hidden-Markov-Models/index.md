@@ -1,5 +1,5 @@
 ---
-title: "Voyage through Hidden Markov Models"
+title: "Hidden Markov Models"
 date: 2024-05-19
 draft: false
 summary: "Hidden Markov Models (HMMs) are statistical models used for sequential data analysis, where underlying states are inferred from observed data. Employed in speech recognition, bioinformatics, and more."

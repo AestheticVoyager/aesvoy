@@ -24,7 +24,7 @@
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/vit/</guid>
-      <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance. However, they demand substantial data and computational power.</description>
+      <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vit/featured.png" />
     </item>
     
@@ -45,7 +45,7 @@
       
       <guid>http://localhost:1313/posts/imagenet/</guid>
       <description>ImageNet is more than just a dataset. The sheer scale of ImageNet, combined with its detailed labeling, made it essentially the backbone of Computer Vision.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imagenet/featured.png" />
     </item>
     
     <item>
@@ -55,7 +55,7 @@
       
       <guid>http://localhost:1313/posts/attention-transformer/</guid>
       <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/attention-transformer/featured.jpg" />
     </item>
     
     <item>
@@ -65,7 +65,7 @@
       
       <guid>http://localhost:1313/posts/diffusion-vs-auto-regressive/</guid>
       <description>Generative AI has come a long way, producing stunning images from simple text prompts. But how do Diffusion and Auto-Regressive models work, and why are diffusion models preferred.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/diffusion-vs-auto-regressive/featured.jpg" />
     </item>
     
     <item>
@@ -199,7 +199,7 @@
     </item>
     
     <item>
-      <title>Voyage through Hidden Markov Models</title>
+      <title>Hidden Markov Models</title>
       <link>http://localhost:1313/posts/hidden-markov-models/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
