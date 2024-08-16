@@ -1,6 +1,6 @@
 ---
 title : "Kuwahara"
-date : 2024-04-17
+date : 2024-04-19
 draft : false
 summary: "Kuwahara was the world's first edge preserving de-noising image processing algorithm."
 tags: ["filter", "kuwahara", "image processing"]

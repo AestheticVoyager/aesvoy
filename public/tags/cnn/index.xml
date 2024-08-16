@@ -14,7 +14,7 @@
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/vit/</guid>
-      <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance. However, they demand substantial data and computational power.</description>
+      <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vit/featured.png" />
     </item>
     

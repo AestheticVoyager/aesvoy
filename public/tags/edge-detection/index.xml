@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/posts/difference-of-gaussians/</guid>
       <description>The Difference of Gaussians (DoG) algorithm is a technique in image processing used for edge detection and feature enhancement.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/difference-of-gaussians/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/difference-of-gaussians/featured.jpg" />
     </item>
     
   </channel>

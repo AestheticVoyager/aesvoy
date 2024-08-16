@@ -959,6 +959,26 @@
     </item>
     
     <item>
+      <title>Filter</title>
+      <link>http://localhost:1313/tags/filter/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/filter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kuwahara</title>
+      <link>http://localhost:1313/tags/kuwahara/</link>
+      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/kuwahara/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Dither</title>
       <link>http://localhost:1313/tags/dither/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
@@ -969,31 +989,11 @@
     </item>
     
     <item>
-      <title>Filter</title>
-      <link>http://localhost:1313/tags/filter/</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/filter/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Fitler</title>
       <link>http://localhost:1313/tags/fitler/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/fitler/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Kuwahara</title>
-      <link>http://localhost:1313/tags/kuwahara/</link>
-      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/kuwahara/</guid>
       <description></description>
       
     </item>

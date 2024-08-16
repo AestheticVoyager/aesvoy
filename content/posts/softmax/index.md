@@ -1,6 +1,6 @@
 ---
 title: "Softmax"
-date: 2024-04-19
+date: 2024-04-17
 draft: false
 summary: "Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities."
 tags: ["ML", "AI", "Softmax"]

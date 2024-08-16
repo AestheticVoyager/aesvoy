@@ -25,7 +25,7 @@
       
       <guid>http://localhost:1313/posts/imagenet/</guid>
       <description>ImageNet is more than just a dataset. The sheer scale of ImageNet, combined with its detailed labeling, made it essentially the backbone of Computer Vision.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imagenet/featured.jpg" />
     </item>
     
   </channel>

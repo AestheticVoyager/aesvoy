@@ -15,13 +15,13 @@
       
       <guid>http://localhost:1313/posts/attention-transformer/</guid>
       <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/attention-transformer/featured.jpg" />
     </item>
     
     <item>
       <title>Softmax</title>
       <link>http://localhost:1313/posts/softmax/</link>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/softmax/</guid>
       <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>

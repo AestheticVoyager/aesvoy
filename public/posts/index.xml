@@ -45,7 +45,7 @@
       
       <guid>http://localhost:1313/posts/imagenet/</guid>
       <description>ImageNet is more than just a dataset. The sheer scale of ImageNet, combined with its detailed labeling, made it essentially the backbone of Computer Vision.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imagenet/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imagenet/featured.jpg" />
     </item>
     
     <item>
@@ -105,7 +105,7 @@
       
       <guid>http://localhost:1313/posts/datanerd/</guid>
       <description>In the rapidly evolving field of data science, several specialized roles have emerged to tackle various aspects of data management, analysis, and implementation. Among these roles, data scientists, data analysts, and data engineers are some of the most prominent.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/datanerd/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/datanerd/featured.webp" />
     </item>
     
     <item>
@@ -115,7 +115,7 @@
       
       <guid>http://localhost:1313/posts/context/</guid>
       <description>In the bustling world of digital media, the term content is ubiquitous. While content creation is about generating material, context creation involves crafting the setting and conditions that allow the content to be meaningful and impactful.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/context/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/context/featured.webp" />
     </item>
     
     <item>
@@ -125,7 +125,7 @@
       
       <guid>http://localhost:1313/posts/alexnet/</guid>
       <description>In 2012, the field of artificial intelligence witnessed a seismic shift. The catalyst for this transformation was a deep learning model known as AlexNet.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/alexnet/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/alexnet/featured.webp" />
     </item>
     
     <item>
@@ -215,7 +215,7 @@
       
       <guid>http://localhost:1313/posts/voronoi-diagram/</guid>
       <description>Voronoi diagrams, also known as Dirichlet tessellation or Thiessen polygons, are everywhere in nature. You’ve likely encountered them thousands of times, but perhaps didn’t know what they were called.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voronoi-diagram/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voronoi-diagram/featured.png" />
     </item>
     
     <item>
@@ -235,7 +235,7 @@
       
       <guid>http://localhost:1313/posts/difference-of-gaussians/</guid>
       <description>The Difference of Gaussians (DoG) algorithm is a technique in image processing used for edge detection and feature enhancement.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/difference-of-gaussians/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/difference-of-gaussians/featured.jpg" />
     </item>
     
     <item>
@@ -245,17 +245,17 @@
       
       <guid>http://localhost:1313/posts/infini-attention/</guid>
       <description>Infini-Attention introduces a novel approach to scaling Transformer models for infinitely long inputs while managing memory and computation.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/infini-attention/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/infini-attention/featured.png" />
     </item>
     
     <item>
-      <title>Softmax</title>
-      <link>http://localhost:1313/posts/softmax/</link>
+      <title>Kuwahara</title>
+      <link>http://localhost:1313/posts/kuwahara/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/softmax/</guid>
-      <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/softmax/featured.png" />
+      <guid>http://localhost:1313/posts/kuwahara/</guid>
+      <description>Kuwahara was the world&amp;rsquo;s first edge preserving de-noising image processing algorithm.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kuwahara/featured.png" />
     </item>
     
     <item>
@@ -269,13 +269,13 @@
     </item>
     
     <item>
-      <title>Kuwahara</title>
-      <link>http://localhost:1313/posts/kuwahara/</link>
+      <title>Softmax</title>
+      <link>http://localhost:1313/posts/softmax/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/kuwahara/</guid>
-      <description>Kuwahara was the world&amp;rsquo;s first edge preserving de-noising image processing algorithm.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kuwahara/featured.png" />
+      <guid>http://localhost:1313/posts/softmax/</guid>
+      <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/softmax/featured.png" />
     </item>
     
   </channel>

@@ -24,7 +24,7 @@
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/vit/</guid>
-      <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance. However, they demand substantial data and computational power.</description>
+      <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vit/featured.png" />
     </item>
     
@@ -35,7 +35,7 @@
       
       <guid>http://localhost:1313/posts/imagenet/</guid>
       <description>ImageNet is more than just a dataset. The sheer scale of ImageNet, combined with its detailed labeling, made it essentially the backbone of Computer Vision.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imagenet/featured.jpg" />
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       
       <guid>http://localhost:1313/posts/attention-transformer/</guid>
       <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/attention-transformer/featured.jpg" />
     </item>
     
     <item>
@@ -55,7 +55,7 @@
       
       <guid>http://localhost:1313/posts/diffusion-vs-auto-regressive/</guid>
       <description>Generative AI has come a long way, producing stunning images from simple text prompts. But how do Diffusion and Auto-Regressive models work, and why are diffusion models preferred.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/diffusion-vs-auto-regressive/featured.jpg" />
     </item>
     
     <item>
@@ -65,7 +65,7 @@
       
       <guid>http://localhost:1313/posts/alexnet/</guid>
       <description>In 2012, the field of artificial intelligence witnessed a seismic shift. The catalyst for this transformation was a deep learning model known as AlexNet.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/alexnet/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/alexnet/featured.webp" />
     </item>
     
     <item>
@@ -115,13 +115,13 @@
       
       <guid>http://localhost:1313/posts/infini-attention/</guid>
       <description>Infini-Attention introduces a novel approach to scaling Transformer models for infinitely long inputs while managing memory and computation.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/infini-attention/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/infini-attention/featured.png" />
     </item>
     
     <item>
       <title>Softmax</title>
       <link>http://localhost:1313/posts/softmax/</link>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/softmax/</guid>
       <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>

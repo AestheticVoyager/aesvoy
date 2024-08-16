@@ -15,7 +15,7 @@
       
       <guid>http://localhost:1313/posts/diffusion-vs-auto-regressive/</guid>
       <description>Generative AI has come a long way, producing stunning images from simple text prompts. But how do Diffusion and Auto-Regressive models work, and why are diffusion models preferred.</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/diffusion-vs-auto-regressive/featured.jpg" />
     </item>
     
     <item>

@@ -15,11 +15,11 @@
       
       <guid>http://localhost:1313/posts/datanerd/</guid>
       <description>In the rapidly evolving field of data science, several specialized roles have emerged to tackle various aspects of data management, analysis, and implementation. Among these roles, data scientists, data analysts, and data engineers are some of the most prominent.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/datanerd/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/datanerd/featured.webp" />
     </item>
     
     <item>
-      <title>Voyage through Hidden Markov Models</title>
+      <title>Hidden Markov Models</title>
       <link>http://localhost:1313/posts/hidden-markov-models/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
