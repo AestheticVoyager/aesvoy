@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper on AesVoy</title>
-    <link>http://localhost:1313/tags/paper/</link>
+    <link>https://aestheticvoyager.github.io/tags/paper/</link>
     <description>Recent content in Paper on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/paper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/paper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Weighted Voronoi Stippling</title>
-      <link>http://localhost:1313/posts/weigthed-voronoi-stippling/</link>
+      <link>https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/weigthed-voronoi-stippling/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/</guid>
       <description>Stippling, a timeless artistic technique, traces its origins back through the annals of art history, where it emerged as a method of creating texture, depth, and form through the precise placement of dots.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/weigthed-voronoi-stippling/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/featured.jpg" />
     </item>
     
     <item>
       <title>Less is More Paper Review</title>
-      <link>http://localhost:1313/posts/less-is-more/</link>
+      <link>https://aestheticvoyager.github.io/posts/less-is-more/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/less-is-more/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/less-is-more/</guid>
       <description>Less is More: Parameter-Free Text Classification with Gzip offers a novel text classification method using gzip compression, eliminating manual parameter tuning.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/less-is-more/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/less-is-more/featured.jpeg" />
     </item>
     
     <item>
       <title>Infini-Attention Paper Review</title>
-      <link>http://localhost:1313/posts/infini-attention/</link>
+      <link>https://aestheticvoyager.github.io/posts/infini-attention/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/infini-attention/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/infini-attention/</guid>
       <description>Infini-Attention introduces a novel approach to scaling Transformer models for infinitely long inputs while managing memory and computation.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/infini-attention/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/infini-attention/featured.png" />
     </item>
     
   </channel>

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Analysis on AesVoy</title>
-    <link>http://localhost:1313/tags/data-analysis/</link>
+    <link>https://aestheticvoyager.github.io/tags/data-analysis/</link>
     <description>Recent content in Data Analysis on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diverse Roles in Data Science</title>
-      <link>http://localhost:1313/posts/datanerd/</link>
+      <link>https://aestheticvoyager.github.io/posts/datanerd/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/datanerd/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/datanerd/</guid>
       <description>In the rapidly evolving field of data science, several specialized roles have emerged to tackle various aspects of data management, analysis, and implementation. Among these roles, data scientists, data analysts, and data engineers are some of the most prominent.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/datanerd/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/datanerd/featured.webp" />
     </item>
     
     <item>
       <title>Hidden Markov Models</title>
-      <link>http://localhost:1313/posts/hidden-markov-models/</link>
+      <link>https://aestheticvoyager.github.io/posts/hidden-markov-models/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hidden-markov-models/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/hidden-markov-models/</guid>
       <description>Hidden Markov Models (HMMs) are statistical models used for sequential data analysis, where underlying states are inferred from observed data. Employed in speech recognition, bioinformatics, and more.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hidden-markov-models/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/hidden-markov-models/featured.jpg" />
     </item>
     
   </channel>

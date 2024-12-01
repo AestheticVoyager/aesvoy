@@ -2,40 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLP on AesVoy</title>
-    <link>http://localhost:1313/tags/nlp/</link>
+    <link>https://aestheticvoyager.github.io/tags/nlp/</link>
     <description>Recent content in NLP on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small Language Models</title>
+      <link>https://aestheticvoyager.github.io/posts/smalllanguagemodels/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/posts/smalllanguagemodels/</guid>
+      <description>Small Language Models (SLMs) are a specialized type of artificial intelligence designed for natural language processing (NLP) tasks. Unlike Large Language Models (LLMs), which are characterized by their vast size and extensive training datasets, SLMs are built to be more efficient and effective for specific applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/smalllanguagemodels/featured.jpg" />
+    </item>
+    
     <item>
       <title>From CNNs to Vision Transformers: The Future of Image Recognition</title>
-      <link>http://localhost:1313/posts/vit/</link>
+      <link>https://aestheticvoyager.github.io/posts/vit/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/vit/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/vit/</guid>
       <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vit/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/vit/featured.png" />
     </item>
     
     <item>
       <title>Transformers &amp; Attention</title>
-      <link>http://localhost:1313/posts/attention-transformer/</link>
+      <link>https://aestheticvoyager.github.io/posts/attention-transformer/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/attention-transformer/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/attention-transformer/</guid>
       <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/attention-transformer/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/attention-transformer/featured.jpg" />
     </item>
     
     <item>
       <title>Less is More Paper Review</title>
-      <link>http://localhost:1313/posts/less-is-more/</link>
+      <link>https://aestheticvoyager.github.io/posts/less-is-more/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/less-is-more/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/less-is-more/</guid>
       <description>Less is More: Parameter-Free Text Classification with Gzip offers a novel text classification method using gzip compression, eliminating manual parameter tuning.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/less-is-more/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/less-is-more/featured.jpeg" />
     </item>
     
   </channel>

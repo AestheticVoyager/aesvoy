@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search Engine on AesVoy</title>
-    <link>http://localhost:1313/tags/search-engine/</link>
+    <link>https://aestheticvoyager.github.io/tags/search-engine/</link>
     <description>Recent content in Search Engine on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/search-engine/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/search-engine/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PageRank</title>
-      <link>http://localhost:1313/posts/pagerank/</link>
+      <link>https://aestheticvoyager.github.io/posts/pagerank/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pagerank/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/pagerank/</guid>
       <description>PageRank, created by Google founders Larry Page and Sergey Brin, changed the web by ranking pages based on the quality and quantity of their links, rather than just keywords. It evaluates a page’s authority through its endorsements, improving the relevance and trustworthiness of search results.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pagerank/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/pagerank/featured.jpg" />
     </item>
     
   </channel>

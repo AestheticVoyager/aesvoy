@@ -2,280 +2,310 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on AesVoy</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://aestheticvoyager.github.io/posts/</link>
     <description>Recent content in Posts on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Small Language Models</title>
+      <link>https://aestheticvoyager.github.io/posts/smalllanguagemodels/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/posts/smalllanguagemodels/</guid>
+      <description>Small Language Models (SLMs) are a specialized type of artificial intelligence designed for natural language processing (NLP) tasks. Unlike Large Language Models (LLMs), which are characterized by their vast size and extensive training datasets, SLMs are built to be more efficient and effective for specific applications.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/smalllanguagemodels/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Quiet Eye Phenomenon</title>
+      <link>https://aestheticvoyager.github.io/posts/quieteye/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/posts/quieteye/</guid>
+      <description>Quiet Eye (QE) is a fascinating phenomenon that involves a period of extended visual attention, which significantly enhances the control and execution of motor skills, especially in high-pressure situations. This technique has been shown to improve performance across various domains, including sports and surgical training, by allowing individuals to focus on critical details just before executing a movement.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/quieteye/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Temporal Difference Learning</title>
+      <link>https://aestheticvoyager.github.io/posts/temporaldifferencelearning/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/posts/temporaldifferencelearning/</guid>
+      <description>Temporal Difference (TD) Learning is a fundamental concept in the field of reinforcement learning, which is a subfield of artificial intelligence (AI). It is particularly powerful for problems where an agent must learn to make decisions over time based on its interactions with an environment. Unlike traditional supervised learning, where a model learns from a fixed dataset, TD Learning enables agents to learn directly from experience, making it well-suited for dynamic and uncertain environments.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/temporaldifferencelearning/featured.jpg" />
+    </item>
+    
     <item>
       <title>DeepFake Detection Methods</title>
-      <link>http://localhost:1313/posts/deepfakedetection/</link>
+      <link>https://aestheticvoyager.github.io/posts/deepfakedetection/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/deepfakedetection/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/deepfakedetection/</guid>
       <description>In this blog post, we explore the topic of image generators and their detection techniques. I&amp;rsquo;ll discuss various methods for detecting image generators and their manipulations. These include analyzing the visual content of an image, examining its metadata, and using machine learning algorithms to identify patterns in the data.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/deepfakedetection/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/deepfakedetection/featured.png" />
     </item>
     
     <item>
       <title>From CNNs to Vision Transformers: The Future of Image Recognition</title>
-      <link>http://localhost:1313/posts/vit/</link>
+      <link>https://aestheticvoyager.github.io/posts/vit/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/vit/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/vit/</guid>
       <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/vit/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/vit/featured.png" />
     </item>
     
     <item>
       <title>Misconceptions of Programming Paradigms</title>
-      <link>http://localhost:1313/posts/progparadigms/</link>
+      <link>https://aestheticvoyager.github.io/posts/progparadigms/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/progparadigms/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/progparadigms/</guid>
       <description>As a developer, you might have come across the misconception that writing code without classes in a language that supports Object-Oriented Programming (OOP) automatically makes it functional. In reality, this code is more likely procedural.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/progparadigms/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/progparadigms/featured.png" />
     </item>
     
     <item>
       <title>imageNet-Computer Vision Backbone</title>
-      <link>http://localhost:1313/posts/imagenet/</link>
+      <link>https://aestheticvoyager.github.io/posts/imagenet/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/imagenet/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/imagenet/</guid>
       <description>ImageNet is more than just a dataset. The sheer scale of ImageNet, combined with its detailed labeling, made it essentially the backbone of Computer Vision.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/imagenet/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/imagenet/featured.jpg" />
     </item>
     
     <item>
       <title>Transformers &amp; Attention</title>
-      <link>http://localhost:1313/posts/attention-transformer/</link>
+      <link>https://aestheticvoyager.github.io/posts/attention-transformer/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/attention-transformer/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/attention-transformer/</guid>
       <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/attention-transformer/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/attention-transformer/featured.jpg" />
     </item>
     
     <item>
       <title>Diffusion VS Auto-Regressive Models</title>
-      <link>http://localhost:1313/posts/diffusion-vs-auto-regressive/</link>
+      <link>https://aestheticvoyager.github.io/posts/diffusion-vs-auto-regressive/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/diffusion-vs-auto-regressive/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/diffusion-vs-auto-regressive/</guid>
       <description>Generative AI has come a long way, producing stunning images from simple text prompts. But how do Diffusion and Auto-Regressive models work, and why are diffusion models preferred.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/diffusion-vs-auto-regressive/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/diffusion-vs-auto-regressive/featured.jpg" />
     </item>
     
     <item>
       <title>Mathematics of Risk</title>
-      <link>http://localhost:1313/posts/black-scholes/</link>
+      <link>https://aestheticvoyager.github.io/posts/black-scholes/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/black-scholes/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/black-scholes/</guid>
       <description>The Black-Scholes-Merton equation is a model for pricing options. This equation revolutionized finance by providing a precise method for determining fair option prices, improving risk management and trading efficiency.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/black-scholes/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/black-scholes/featured.jpg" />
     </item>
     
     <item>
       <title>PageRank</title>
-      <link>http://localhost:1313/posts/pagerank/</link>
+      <link>https://aestheticvoyager.github.io/posts/pagerank/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pagerank/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/pagerank/</guid>
       <description>PageRank, created by Google founders Larry Page and Sergey Brin, changed the web by ranking pages based on the quality and quantity of their links, rather than just keywords. It evaluates a page’s authority through its endorsements, improving the relevance and trustworthiness of search results.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pagerank/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/pagerank/featured.jpg" />
     </item>
     
     <item>
       <title>Keynesian vs. Austrian vs. Monetarist Economics</title>
-      <link>http://localhost:1313/posts/ecnomics/</link>
+      <link>https://aestheticvoyager.github.io/posts/ecnomics/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ecnomics/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/ecnomics/</guid>
       <description>This article compares Keynesian, Austrian, and Monetarist economic theories, discussing their core principles, historical origins, and key figures. It highlights Austrian economics as the closest to libertarian values and examines the influence of these theories on modern global economic policies.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ecnomics/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/ecnomics/featured.jpg" />
     </item>
     
     <item>
       <title>Diverse Roles in Data Science</title>
-      <link>http://localhost:1313/posts/datanerd/</link>
+      <link>https://aestheticvoyager.github.io/posts/datanerd/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/datanerd/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/datanerd/</guid>
       <description>In the rapidly evolving field of data science, several specialized roles have emerged to tackle various aspects of data management, analysis, and implementation. Among these roles, data scientists, data analysts, and data engineers are some of the most prominent.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/datanerd/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/datanerd/featured.webp" />
     </item>
     
     <item>
       <title>Context vs Content</title>
-      <link>http://localhost:1313/posts/context/</link>
+      <link>https://aestheticvoyager.github.io/posts/context/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/context/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/context/</guid>
       <description>In the bustling world of digital media, the term content is ubiquitous. While content creation is about generating material, context creation involves crafting the setting and conditions that allow the content to be meaningful and impactful.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/context/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/context/featured.webp" />
     </item>
     
     <item>
       <title>AlexNet Revolution</title>
-      <link>http://localhost:1313/posts/alexnet/</link>
+      <link>https://aestheticvoyager.github.io/posts/alexnet/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/alexnet/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/alexnet/</guid>
       <description>In 2012, the field of artificial intelligence witnessed a seismic shift. The catalyst for this transformation was a deep learning model known as AlexNet.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/alexnet/featured.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/alexnet/featured.webp" />
     </item>
     
     <item>
       <title>Generative Adversarial Network</title>
-      <link>http://localhost:1313/posts/generative-adversarial-network/</link>
+      <link>https://aestheticvoyager.github.io/posts/generative-adversarial-network/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/generative-adversarial-network/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/generative-adversarial-network/</guid>
       <description>A neural network is like a highly sophisticated, multi-layered calculator that learns from data. It consists of numerous “neurons” (tiny calculators) connected in layers, with each layer performing a unique function to help the network make predictions or decisions.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/generative-adversarial-network/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/generative-adversarial-network/featured.jpeg" />
     </item>
     
     <item>
       <title>Variational-Auto-Encoder</title>
-      <link>http://localhost:1313/posts/variational-auto-encoder/</link>
+      <link>https://aestheticvoyager.github.io/posts/variational-auto-encoder/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/variational-auto-encoder/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/variational-auto-encoder/</guid>
       <description>The beauty of VAEs lies in their ability to generate new samples by randomly sampling vectors from this known region and then passing them through the generator part of our model.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/variational-auto-encoder/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/variational-auto-encoder/featured.jpeg" />
     </item>
     
     <item>
       <title>Auto-Encoder</title>
-      <link>http://localhost:1313/posts/auto-encoder/</link>
+      <link>https://aestheticvoyager.github.io/posts/auto-encoder/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/auto-encoder/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/auto-encoder/</guid>
       <description>An autoencoder begins its journey by compressing input data into a lower dimension. It then endeavors to reconstruct the original input from this compressed representation.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/auto-encoder/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/auto-encoder/featured.jpeg" />
     </item>
     
     <item>
       <title>Delaunay Triangulation</title>
-      <link>http://localhost:1313/posts/delaunay-triangulation/</link>
+      <link>https://aestheticvoyager.github.io/posts/delaunay-triangulation/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/delaunay-triangulation/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/delaunay-triangulation/</guid>
       <description>Delaunay triangulation is a process that takes a set of points in n-dimensional space as input and returns a network of triangles connecting these points. The resulting structure is called a triangulation or mesh.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/delaunay-triangulation/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/delaunay-triangulation/featured.jpg" />
     </item>
     
     <item>
       <title>Paltering</title>
-      <link>http://localhost:1313/posts/paltering/</link>
+      <link>https://aestheticvoyager.github.io/posts/paltering/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/paltering/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/paltering/</guid>
       <description>Paltering reminds us that even truthful statements can be used to mislead. Understanding the context and limitations of facts, and the role of scientific method in informing but not dictating actions, is essential.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/paltering/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/paltering/featured.jpg" />
     </item>
     
     <item>
       <title>Done Manifesto</title>
-      <link>http://localhost:1313/posts/done-manifesto/</link>
+      <link>https://aestheticvoyager.github.io/posts/done-manifesto/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/done-manifesto/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/done-manifesto/</guid>
       <description>In today&amp;rsquo;s fast-paced world, getting things done is crucial. The Done manifesto is all about embracing this mindset and applying it to your work.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/done-manifesto/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/done-manifesto/featured.jpg" />
     </item>
     
     <item>
       <title>Weighted Voronoi Stippling</title>
-      <link>http://localhost:1313/posts/weigthed-voronoi-stippling/</link>
+      <link>https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/weigthed-voronoi-stippling/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/</guid>
       <description>Stippling, a timeless artistic technique, traces its origins back through the annals of art history, where it emerged as a method of creating texture, depth, and form through the precise placement of dots.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/weigthed-voronoi-stippling/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/featured.jpg" />
     </item>
     
     <item>
       <title>Hidden Markov Models</title>
-      <link>http://localhost:1313/posts/hidden-markov-models/</link>
+      <link>https://aestheticvoyager.github.io/posts/hidden-markov-models/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/hidden-markov-models/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/hidden-markov-models/</guid>
       <description>Hidden Markov Models (HMMs) are statistical models used for sequential data analysis, where underlying states are inferred from observed data. Employed in speech recognition, bioinformatics, and more.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/hidden-markov-models/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/hidden-markov-models/featured.jpg" />
     </item>
     
     <item>
       <title>Voronoi Diagram</title>
-      <link>http://localhost:1313/posts/voronoi-diagram/</link>
+      <link>https://aestheticvoyager.github.io/posts/voronoi-diagram/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/voronoi-diagram/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/voronoi-diagram/</guid>
       <description>Voronoi diagrams, also known as Dirichlet tessellation or Thiessen polygons, are everywhere in nature. You’ve likely encountered them thousands of times, but perhaps didn’t know what they were called.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voronoi-diagram/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/voronoi-diagram/featured.png" />
     </item>
     
     <item>
       <title>Less is More Paper Review</title>
-      <link>http://localhost:1313/posts/less-is-more/</link>
+      <link>https://aestheticvoyager.github.io/posts/less-is-more/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/less-is-more/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/less-is-more/</guid>
       <description>Less is More: Parameter-Free Text Classification with Gzip offers a novel text classification method using gzip compression, eliminating manual parameter tuning.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/less-is-more/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/less-is-more/featured.jpeg" />
     </item>
     
     <item>
       <title>Difference of Gaussians(DoG) Algorithm</title>
-      <link>http://localhost:1313/posts/difference-of-gaussians/</link>
+      <link>https://aestheticvoyager.github.io/posts/difference-of-gaussians/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/difference-of-gaussians/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/difference-of-gaussians/</guid>
       <description>The Difference of Gaussians (DoG) algorithm is a technique in image processing used for edge detection and feature enhancement.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/difference-of-gaussians/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/difference-of-gaussians/featured.jpg" />
     </item>
     
     <item>
       <title>Infini-Attention Paper Review</title>
-      <link>http://localhost:1313/posts/infini-attention/</link>
+      <link>https://aestheticvoyager.github.io/posts/infini-attention/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/infini-attention/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/infini-attention/</guid>
       <description>Infini-Attention introduces a novel approach to scaling Transformer models for infinitely long inputs while managing memory and computation.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/infini-attention/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/infini-attention/featured.png" />
     </item>
     
     <item>
       <title>Kuwahara</title>
-      <link>http://localhost:1313/posts/kuwahara/</link>
+      <link>https://aestheticvoyager.github.io/posts/kuwahara/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/kuwahara/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/kuwahara/</guid>
       <description>Kuwahara was the world&amp;rsquo;s first edge preserving de-noising image processing algorithm.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/kuwahara/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/kuwahara/featured.png" />
     </item>
     
     <item>
       <title>Dither</title>
-      <link>http://localhost:1313/posts/dither/</link>
+      <link>https://aestheticvoyager.github.io/posts/dither/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/dither/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/dither/</guid>
       <description>In the realm of digital image processing, dithering algorithms play a crucial role in reducing the color palette of an image while maintaining visual quality.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/dither/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/dither/featured.png" />
     </item>
     
     <item>
       <title>Softmax</title>
-      <link>http://localhost:1313/posts/softmax/</link>
+      <link>https://aestheticvoyager.github.io/posts/softmax/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/softmax/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/softmax/</guid>
       <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/softmax/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/softmax/featured.png" />
     </item>
     
   </channel>

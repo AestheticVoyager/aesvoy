@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algorithm on AesVoy</title>
-    <link>http://localhost:1313/tags/algorithm/</link>
+    <link>https://aestheticvoyager.github.io/tags/algorithm/</link>
     <description>Recent content in Algorithm on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/algorithm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PageRank</title>
-      <link>http://localhost:1313/posts/pagerank/</link>
+      <link>https://aestheticvoyager.github.io/posts/pagerank/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/pagerank/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/pagerank/</guid>
       <description>PageRank, created by Google founders Larry Page and Sergey Brin, changed the web by ranking pages based on the quality and quantity of their links, rather than just keywords. It evaluates a page’s authority through its endorsements, improving the relevance and trustworthiness of search results.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/pagerank/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/pagerank/featured.jpg" />
     </item>
     
     <item>
       <title>Weighted Voronoi Stippling</title>
-      <link>http://localhost:1313/posts/weigthed-voronoi-stippling/</link>
+      <link>https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/weigthed-voronoi-stippling/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/</guid>
       <description>Stippling, a timeless artistic technique, traces its origins back through the annals of art history, where it emerged as a method of creating texture, depth, and form through the precise placement of dots.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/weigthed-voronoi-stippling/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/featured.jpg" />
     </item>
     
     <item>
       <title>Voronoi Diagram</title>
-      <link>http://localhost:1313/posts/voronoi-diagram/</link>
+      <link>https://aestheticvoyager.github.io/posts/voronoi-diagram/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/voronoi-diagram/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/voronoi-diagram/</guid>
       <description>Voronoi diagrams, also known as Dirichlet tessellation or Thiessen polygons, are everywhere in nature. You’ve likely encountered them thousands of times, but perhaps didn’t know what they were called.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/voronoi-diagram/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/voronoi-diagram/featured.png" />
     </item>
     
     <item>
       <title>Difference of Gaussians(DoG) Algorithm</title>
-      <link>http://localhost:1313/posts/difference-of-gaussians/</link>
+      <link>https://aestheticvoyager.github.io/posts/difference-of-gaussians/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/difference-of-gaussians/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/difference-of-gaussians/</guid>
       <description>The Difference of Gaussians (DoG) algorithm is a technique in image processing used for edge detection and feature enhancement.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/difference-of-gaussians/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/difference-of-gaussians/featured.jpg" />
     </item>
     
   </channel>

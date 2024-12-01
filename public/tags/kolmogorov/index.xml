@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kolmogorov on AesVoy</title>
-    <link>http://localhost:1313/tags/kolmogorov/</link>
+    <link>https://aestheticvoyager.github.io/tags/kolmogorov/</link>
     <description>Recent content in Kolmogorov on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/kolmogorov/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/kolmogorov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Less is More Paper Review</title>
-      <link>http://localhost:1313/posts/less-is-more/</link>
+      <link>https://aestheticvoyager.github.io/posts/less-is-more/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/less-is-more/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/less-is-more/</guid>
       <description>Less is More: Parameter-Free Text Classification with Gzip offers a novel text classification method using gzip compression, eliminating manual parameter tuning.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/less-is-more/featured.jpeg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/less-is-more/featured.jpeg" />
     </item>
     
   </channel>

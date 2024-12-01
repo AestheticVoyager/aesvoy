@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CG on AesVoy</title>
-    <link>http://localhost:1313/tags/cg/</link>
+    <link>https://aestheticvoyager.github.io/tags/cg/</link>
     <description>Recent content in CG on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cg/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/cg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Delaunay Triangulation</title>
-      <link>http://localhost:1313/posts/delaunay-triangulation/</link>
+      <link>https://aestheticvoyager.github.io/posts/delaunay-triangulation/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/delaunay-triangulation/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/delaunay-triangulation/</guid>
       <description>Delaunay triangulation is a process that takes a set of points in n-dimensional space as input and returns a network of triangles connecting these points. The resulting structure is called a triangulation or mesh.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/delaunay-triangulation/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/delaunay-triangulation/featured.jpg" />
     </item>
     
   </channel>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Keynesian on AesVoy</title>
-    <link>http://localhost:1313/tags/keynesian/</link>
+    <link>https://aestheticvoyager.github.io/tags/keynesian/</link>
     <description>Recent content in Keynesian on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/keynesian/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/keynesian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keynesian vs. Austrian vs. Monetarist Economics</title>
-      <link>http://localhost:1313/posts/ecnomics/</link>
+      <link>https://aestheticvoyager.github.io/posts/ecnomics/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/ecnomics/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/ecnomics/</guid>
       <description>This article compares Keynesian, Austrian, and Monetarist economic theories, discussing their core principles, historical origins, and key figures. It highlights Austrian economics as the closest to libertarian values and examines the influence of these theories on modern global economic policies.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/ecnomics/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/ecnomics/featured.jpg" />
     </item>
     
   </channel>

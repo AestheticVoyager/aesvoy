@@ -2,998 +2,1128 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on AesVoy</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://aestheticvoyager.github.io/tags/</link>
     <description>Recent content in Tags on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Computer Vision</title>
-      <link>http://localhost:1313/tags/computer-vision/</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/computer-vision/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DeepFake</title>
-      <link>http://localhost:1313/tags/deepfake/</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/deepfake/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Detection</title>
-      <link>http://localhost:1313/tags/detection/</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/detection/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Meta-Data</title>
-      <link>http://localhost:1313/tags/meta-data/</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/meta-data/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ML</title>
-      <link>http://localhost:1313/tags/ml/</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ml/</guid>
-      <description></description>
-      
-    </item>
-    
+    <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://aestheticvoyager.github.io/tags/ai/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/ai/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>CNN</title>
-      <link>http://localhost:1313/tags/cnn/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <title>LLMs</title>
+      <link>https://aestheticvoyager.github.io/tags/llms/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/cnn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Image Recognition</title>
-      <link>http://localhost:1313/tags/image-recognition/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/image-recognition/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Medical Image</title>
-      <link>http://localhost:1313/tags/medical-image/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/medical-image/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/llms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>NLP</title>
-      <link>http://localhost:1313/tags/nlp/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <link>https://aestheticvoyager.github.io/tags/nlp/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/nlp/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/nlp/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Transformer</title>
-      <link>http://localhost:1313/tags/transformer/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <title>SLMs</title>
+      <link>https://aestheticvoyager.github.io/tags/slms/</link>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/transformer/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/slms/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Vision Transformer</title>
-      <link>http://localhost:1313/tags/vision-transformer/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <title>Cognitive</title>
+      <link>https://aestheticvoyager.github.io/tags/cognitive/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/vision-transformer/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/cognitive/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>ViT</title>
-      <link>http://localhost:1313/tags/vit/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      <title>Eye-Tracking</title>
+      <link>https://aestheticvoyager.github.io/tags/eye-tracking/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/vit/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>C</title>
-      <link>http://localhost:1313/tags/c/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/c/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>FP</title>
-      <link>http://localhost:1313/tags/fp/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/fp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Functional</title>
-      <link>http://localhost:1313/tags/functional/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/functional/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>OOP</title>
-      <link>http://localhost:1313/tags/oop/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/oop/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Paradigms</title>
-      <link>http://localhost:1313/tags/paradigms/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/paradigms/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/programming/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Prolog</title>
-      <link>http://localhost:1313/tags/prolog/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/prolog/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Rust</title>
-      <link>http://localhost:1313/tags/rust/</link>
-      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/rust/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AlexNet</title>
-      <link>http://localhost:1313/tags/alexnet/</link>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/alexnet/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>http://localhost:1313/tags/cv/</link>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/cv/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Learning</title>
-      <link>http://localhost:1313/tags/learning/</link>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Attention</title>
-      <link>http://localhost:1313/tags/attention/</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/attention/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>RNN</title>
-      <link>http://localhost:1313/tags/rnn/</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/rnn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Softmax</title>
-      <link>http://localhost:1313/tags/softmax/</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/softmax/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Diffusion</title>
-      <link>http://localhost:1313/tags/diffusion/</link>
-      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/diffusion/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GAN</title>
-      <link>http://localhost:1313/tags/gan/</link>
-      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/gan/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Noise</title>
-      <link>http://localhost:1313/tags/noise/</link>
-      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/noise/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Black-Scholes</title>
-      <link>http://localhost:1313/tags/black-scholes/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/black-scholes/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Black-Scholes-Merton</title>
-      <link>http://localhost:1313/tags/black-scholes-merton/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/black-scholes-merton/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Economics</title>
-      <link>http://localhost:1313/tags/economics/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/economics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Economy</title>
-      <link>http://localhost:1313/tags/economy/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/economy/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>HMM</title>
-      <link>http://localhost:1313/tags/hmm/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/hmm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Risk</title>
-      <link>http://localhost:1313/tags/risk/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/risk/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Volatility</title>
-      <link>http://localhost:1313/tags/volatility/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/volatility/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Algorithm</title>
-      <link>http://localhost:1313/tags/algorithm/</link>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/algorithm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Google</title>
-      <link>http://localhost:1313/tags/google/</link>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/google/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Linear Algebra</title>
-      <link>http://localhost:1313/tags/linear-algebra/</link>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/linear-algebra/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PageRank</title>
-      <link>http://localhost:1313/tags/pagerank/</link>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/pagerank/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Search Engine</title>
-      <link>http://localhost:1313/tags/search-engine/</link>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/search-engine/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Austrian</title>
-      <link>http://localhost:1313/tags/austrian/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/austrian/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Keynesian</title>
-      <link>http://localhost:1313/tags/keynesian/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/keynesian/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Monetarist</title>
-      <link>http://localhost:1313/tags/monetarist/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/monetarist/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Supply</title>
-      <link>http://localhost:1313/tags/supply/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/supply/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Theory</title>
-      <link>http://localhost:1313/tags/theory/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/theory/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data</title>
-      <link>http://localhost:1313/tags/data/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/data/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data Analysis</title>
-      <link>http://localhost:1313/tags/data-analysis/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/data-analysis/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data Engineer</title>
-      <link>http://localhost:1313/tags/data-engineer/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/data-engineer/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data Science</title>
-      <link>http://localhost:1313/tags/data-science/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/data-science/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Content</title>
-      <link>http://localhost:1313/tags/content/</link>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/content/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Context</title>
-      <link>http://localhost:1313/tags/context/</link>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/context/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Creation</title>
-      <link>http://localhost:1313/tags/creation/</link>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/creation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
-      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/deep-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>CoGAN</title>
-      <link>http://localhost:1313/tags/cogan/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/cogan/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>DCGAN</title>
-      <link>http://localhost:1313/tags/dcgan/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/dcgan/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Decoder</title>
-      <link>http://localhost:1313/tags/decoder/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/decoder/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Encoder</title>
-      <link>http://localhost:1313/tags/encoder/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/encoder/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>http://localhost:1313/tags/machine-learning/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/machine-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>PGGAN</title>
-      <link>http://localhost:1313/tags/pggan/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/pggan/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>SGAN</title>
-      <link>http://localhost:1313/tags/sgan/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/sgan/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Vector</title>
-      <link>http://localhost:1313/tags/vector/</link>
-      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/vector/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AE</title>
-      <link>http://localhost:1313/tags/ae/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/ae/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Auto-Encoder</title>
-      <link>http://localhost:1313/tags/auto-encoder/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/auto-encoder/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Compression</title>
-      <link>http://localhost:1313/tags/compression/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/compression/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Supervised Learning</title>
-      <link>http://localhost:1313/tags/supervised-learning/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/supervised-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>VAE</title>
-      <link>http://localhost:1313/tags/vae/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/vae/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Variational-Auto-Encoder</title>
-      <link>http://localhost:1313/tags/variational-auto-encoder/</link>
-      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/variational-auto-encoder/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>CG</title>
-      <link>http://localhost:1313/tags/cg/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/cg/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Computational Geometry</title>
-      <link>http://localhost:1313/tags/computational-geometry/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/computational-geometry/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Graphics</title>
-      <link>http://localhost:1313/tags/graphics/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/graphics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Triangulation</title>
-      <link>http://localhost:1313/tags/triangulation/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/triangulation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Voronoi</title>
-      <link>http://localhost:1313/tags/voronoi/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/voronoi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mislead</title>
-      <link>http://localhost:1313/tags/mislead/</link>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/mislead/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Paltering</title>
-      <link>http://localhost:1313/tags/paltering/</link>
-      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/paltering/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Done</title>
-      <link>http://localhost:1313/tags/done/</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/done/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Manifesto</title>
-      <link>http://localhost:1313/tags/manifesto/</link>
-      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/manifesto/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Image</title>
-      <link>http://localhost:1313/tags/image/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/image/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/eye-tracking/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Image Processing</title>
-      <link>http://localhost:1313/tags/image-processing/</link>
+      <link>https://aestheticvoyager.github.io/tags/image-processing/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/image-processing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Medical Image Processing</title>
+      <link>https://aestheticvoyager.github.io/tags/medical-image-processing/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/medical-image-processing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>QE</title>
+      <link>https://aestheticvoyager.github.io/tags/qe/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/qe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Quiet Eye</title>
+      <link>https://aestheticvoyager.github.io/tags/quiet-eye/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/quiet-eye/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://aestheticvoyager.github.io/tags/research/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://aestheticvoyager.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backgammon</title>
+      <link>https://aestheticvoyager.github.io/tags/backgammon/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/backgammon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TD-Gammon</title>
+      <link>https://aestheticvoyager.github.io/tags/td-gammon/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/td-gammon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Temporal Difference Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/temporal-difference-learning/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/temporal-difference-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://aestheticvoyager.github.io/tags/computer-vision/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/computer-vision/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DeepFake</title>
+      <link>https://aestheticvoyager.github.io/tags/deepfake/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/deepfake/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Detection</title>
+      <link>https://aestheticvoyager.github.io/tags/detection/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/detection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Meta-Data</title>
+      <link>https://aestheticvoyager.github.io/tags/meta-data/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/meta-data/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://aestheticvoyager.github.io/tags/ml/</link>
+      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://aestheticvoyager.github.io/tags/cnn/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/cnn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Image Recognition</title>
+      <link>https://aestheticvoyager.github.io/tags/image-recognition/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/image-recognition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Medical Image</title>
+      <link>https://aestheticvoyager.github.io/tags/medical-image/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/medical-image/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformer</title>
+      <link>https://aestheticvoyager.github.io/tags/transformer/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/transformer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vision Transformer</title>
+      <link>https://aestheticvoyager.github.io/tags/vision-transformer/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/vision-transformer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ViT</title>
+      <link>https://aestheticvoyager.github.io/tags/vit/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/vit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>C</title>
+      <link>https://aestheticvoyager.github.io/tags/c/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/c/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FP</title>
+      <link>https://aestheticvoyager.github.io/tags/fp/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/fp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Functional</title>
+      <link>https://aestheticvoyager.github.io/tags/functional/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/functional/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OOP</title>
+      <link>https://aestheticvoyager.github.io/tags/oop/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/oop/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paradigms</title>
+      <link>https://aestheticvoyager.github.io/tags/paradigms/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/paradigms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://aestheticvoyager.github.io/tags/programming/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Prolog</title>
+      <link>https://aestheticvoyager.github.io/tags/prolog/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/prolog/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rust</title>
+      <link>https://aestheticvoyager.github.io/tags/rust/</link>
+      <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/rust/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AlexNet</title>
+      <link>https://aestheticvoyager.github.io/tags/alexnet/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/alexnet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://aestheticvoyager.github.io/tags/cv/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/cv/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/learning/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>https://aestheticvoyager.github.io/tags/attention/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/attention/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RNN</title>
+      <link>https://aestheticvoyager.github.io/tags/rnn/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/rnn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Softmax</title>
+      <link>https://aestheticvoyager.github.io/tags/softmax/</link>
+      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/softmax/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Diffusion</title>
+      <link>https://aestheticvoyager.github.io/tags/diffusion/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/diffusion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GAN</title>
+      <link>https://aestheticvoyager.github.io/tags/gan/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/gan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Noise</title>
+      <link>https://aestheticvoyager.github.io/tags/noise/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/noise/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Black-Scholes</title>
+      <link>https://aestheticvoyager.github.io/tags/black-scholes/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/black-scholes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Black-Scholes-Merton</title>
+      <link>https://aestheticvoyager.github.io/tags/black-scholes-merton/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/black-scholes-merton/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Economics</title>
+      <link>https://aestheticvoyager.github.io/tags/economics/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/economics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Economy</title>
+      <link>https://aestheticvoyager.github.io/tags/economy/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/economy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>HMM</title>
+      <link>https://aestheticvoyager.github.io/tags/hmm/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/hmm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk</title>
+      <link>https://aestheticvoyager.github.io/tags/risk/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/risk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Volatility</title>
+      <link>https://aestheticvoyager.github.io/tags/volatility/</link>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/volatility/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Algorithm</title>
+      <link>https://aestheticvoyager.github.io/tags/algorithm/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/algorithm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://aestheticvoyager.github.io/tags/google/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/google/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linear Algebra</title>
+      <link>https://aestheticvoyager.github.io/tags/linear-algebra/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/linear-algebra/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PageRank</title>
+      <link>https://aestheticvoyager.github.io/tags/pagerank/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/pagerank/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Search Engine</title>
+      <link>https://aestheticvoyager.github.io/tags/search-engine/</link>
+      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/search-engine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Austrian</title>
+      <link>https://aestheticvoyager.github.io/tags/austrian/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/austrian/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Keynesian</title>
+      <link>https://aestheticvoyager.github.io/tags/keynesian/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/keynesian/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Monetarist</title>
+      <link>https://aestheticvoyager.github.io/tags/monetarist/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/monetarist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Supply</title>
+      <link>https://aestheticvoyager.github.io/tags/supply/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/supply/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Theory</title>
+      <link>https://aestheticvoyager.github.io/tags/theory/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/theory/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>https://aestheticvoyager.github.io/tags/data/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/data/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Analysis</title>
+      <link>https://aestheticvoyager.github.io/tags/data-analysis/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/data-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Engineer</title>
+      <link>https://aestheticvoyager.github.io/tags/data-engineer/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/data-engineer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://aestheticvoyager.github.io/tags/data-science/</link>
+      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/data-science/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>https://aestheticvoyager.github.io/tags/content/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/content/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Context</title>
+      <link>https://aestheticvoyager.github.io/tags/context/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/context/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Creation</title>
+      <link>https://aestheticvoyager.github.io/tags/creation/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/creation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/deep-learning/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/deep-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CoGAN</title>
+      <link>https://aestheticvoyager.github.io/tags/cogan/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/cogan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DCGAN</title>
+      <link>https://aestheticvoyager.github.io/tags/dcgan/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/dcgan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Decoder</title>
+      <link>https://aestheticvoyager.github.io/tags/decoder/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/decoder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Encoder</title>
+      <link>https://aestheticvoyager.github.io/tags/encoder/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/encoder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PGGAN</title>
+      <link>https://aestheticvoyager.github.io/tags/pggan/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/pggan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SGAN</title>
+      <link>https://aestheticvoyager.github.io/tags/sgan/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/sgan/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vector</title>
+      <link>https://aestheticvoyager.github.io/tags/vector/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/vector/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AE</title>
+      <link>https://aestheticvoyager.github.io/tags/ae/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/ae/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Auto-Encoder</title>
+      <link>https://aestheticvoyager.github.io/tags/auto-encoder/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/auto-encoder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Compression</title>
+      <link>https://aestheticvoyager.github.io/tags/compression/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/compression/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Supervised Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/supervised-learning/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/supervised-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VAE</title>
+      <link>https://aestheticvoyager.github.io/tags/vae/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/vae/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Variational-Auto-Encoder</title>
+      <link>https://aestheticvoyager.github.io/tags/variational-auto-encoder/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/variational-auto-encoder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CG</title>
+      <link>https://aestheticvoyager.github.io/tags/cg/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/cg/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computational Geometry</title>
+      <link>https://aestheticvoyager.github.io/tags/computational-geometry/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/computational-geometry/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Graphics</title>
+      <link>https://aestheticvoyager.github.io/tags/graphics/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/graphics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Triangulation</title>
+      <link>https://aestheticvoyager.github.io/tags/triangulation/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/triangulation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Voronoi</title>
+      <link>https://aestheticvoyager.github.io/tags/voronoi/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/voronoi/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mislead</title>
+      <link>https://aestheticvoyager.github.io/tags/mislead/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/mislead/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paltering</title>
+      <link>https://aestheticvoyager.github.io/tags/paltering/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/paltering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Done</title>
+      <link>https://aestheticvoyager.github.io/tags/done/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/done/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Manifesto</title>
+      <link>https://aestheticvoyager.github.io/tags/manifesto/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/manifesto/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Image</title>
+      <link>https://aestheticvoyager.github.io/tags/image/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/image-processing/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/image/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Paper</title>
-      <link>http://localhost:1313/tags/paper/</link>
+      <link>https://aestheticvoyager.github.io/tags/paper/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/paper/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/paper/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Stipple</title>
-      <link>http://localhost:1313/tags/stipple/</link>
+      <link>https://aestheticvoyager.github.io/tags/stipple/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/stipple/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/stipple/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hidden</title>
-      <link>http://localhost:1313/tags/hidden/</link>
+      <link>https://aestheticvoyager.github.io/tags/hidden/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/hidden/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/hidden/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hidden Markov Models</title>
-      <link>http://localhost:1313/tags/hidden-markov-models/</link>
+      <link>https://aestheticvoyager.github.io/tags/hidden-markov-models/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/hidden-markov-models/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/hidden-markov-models/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pattern</title>
-      <link>http://localhost:1313/tags/pattern/</link>
+      <link>https://aestheticvoyager.github.io/tags/pattern/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pattern/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/pattern/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Statistics</title>
-      <link>http://localhost:1313/tags/statistics/</link>
+      <link>https://aestheticvoyager.github.io/tags/statistics/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/statistics/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/statistics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Diagram</title>
-      <link>http://localhost:1313/tags/diagram/</link>
+      <link>https://aestheticvoyager.github.io/tags/diagram/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/diagram/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/diagram/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Explanation</title>
-      <link>http://localhost:1313/tags/explanation/</link>
+      <link>https://aestheticvoyager.github.io/tags/explanation/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/explanation/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/explanation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Classification</title>
-      <link>http://localhost:1313/tags/classification/</link>
+      <link>https://aestheticvoyager.github.io/tags/classification/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/classification/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/classification/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gzip</title>
-      <link>http://localhost:1313/tags/gzip/</link>
+      <link>https://aestheticvoyager.github.io/tags/gzip/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/gzip/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/gzip/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kolmogorov</title>
-      <link>http://localhost:1313/tags/kolmogorov/</link>
+      <link>https://aestheticvoyager.github.io/tags/kolmogorov/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/kolmogorov/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/kolmogorov/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Text</title>
-      <link>http://localhost:1313/tags/text/</link>
+      <link>https://aestheticvoyager.github.io/tags/text/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/text/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/text/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Edge Detection</title>
-      <link>http://localhost:1313/tags/edge-detection/</link>
+      <link>https://aestheticvoyager.github.io/tags/edge-detection/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/edge-detection/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/edge-detection/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Gaussian</title>
-      <link>http://localhost:1313/tags/gaussian/</link>
+      <link>https://aestheticvoyager.github.io/tags/gaussian/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/gaussian/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/gaussian/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>LLM</title>
-      <link>http://localhost:1313/tags/llm/</link>
+      <link>https://aestheticvoyager.github.io/tags/llm/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/llm/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/llm/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Filter</title>
-      <link>http://localhost:1313/tags/filter/</link>
+      <link>https://aestheticvoyager.github.io/tags/filter/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/filter/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/filter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Kuwahara</title>
-      <link>http://localhost:1313/tags/kuwahara/</link>
+      <link>https://aestheticvoyager.github.io/tags/kuwahara/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/kuwahara/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/kuwahara/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Dither</title>
-      <link>http://localhost:1313/tags/dither/</link>
+      <link>https://aestheticvoyager.github.io/tags/dither/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/dither/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/dither/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Fitler</title>
-      <link>http://localhost:1313/tags/fitler/</link>
+      <link>https://aestheticvoyager.github.io/tags/fitler/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/fitler/</guid>
+      <guid>https://aestheticvoyager.github.io/tags/fitler/</guid>
       <description></description>
       
     </item>

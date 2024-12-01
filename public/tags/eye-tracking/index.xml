@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eye-Tracking on AesVoy</title>
+    <link>https://aestheticvoyager.github.io/tags/eye-tracking/</link>
+    <description>Recent content in Eye-Tracking on AesVoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Mahan</copyright>
+    <lastBuildDate>Tue, 24 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/eye-tracking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quiet Eye Phenomenon</title>
+      <link>https://aestheticvoyager.github.io/posts/quieteye/</link>
+      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/posts/quieteye/</guid>
+      <description>Quiet Eye (QE) is a fascinating phenomenon that involves a period of extended visual attention, which significantly enhances the control and execution of motor skills, especially in high-pressure situations. This technique has been shown to improve performance across various domains, including sports and surgical training, by allowing individuals to focus on critical details just before executing a movement.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/quieteye/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Functional on AesVoy</title>
-    <link>http://localhost:1313/tags/functional/</link>
+    <link>https://aestheticvoyager.github.io/tags/functional/</link>
     <description>Recent content in Functional on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/functional/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/functional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Misconceptions of Programming Paradigms</title>
-      <link>http://localhost:1313/posts/progparadigms/</link>
+      <link>https://aestheticvoyager.github.io/posts/progparadigms/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/progparadigms/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/progparadigms/</guid>
       <description>As a developer, you might have come across the misconception that writing code without classes in a language that supports Object-Oriented Programming (OOP) automatically makes it functional. In reality, this code is more likely procedural.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/progparadigms/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/progparadigms/featured.png" />
     </item>
     
   </channel>

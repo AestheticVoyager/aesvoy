@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Softmax on AesVoy</title>
-    <link>http://localhost:1313/tags/softmax/</link>
+    <link>https://aestheticvoyager.github.io/tags/softmax/</link>
     <description>Recent content in Softmax on AesVoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 Mahan</copyright>
-    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/softmax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/softmax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transformers &amp; Attention</title>
-      <link>http://localhost:1313/posts/attention-transformer/</link>
+      <link>https://aestheticvoyager.github.io/posts/attention-transformer/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/attention-transformer/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/attention-transformer/</guid>
       <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/attention-transformer/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/attention-transformer/featured.jpg" />
     </item>
     
     <item>
       <title>Softmax</title>
-      <link>http://localhost:1313/posts/softmax/</link>
+      <link>https://aestheticvoyager.github.io/posts/softmax/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/softmax/</guid>
+      <guid>https://aestheticvoyager.github.io/posts/softmax/</guid>
       <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/softmax/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/softmax/featured.png" />
     </item>
     
   </channel>
