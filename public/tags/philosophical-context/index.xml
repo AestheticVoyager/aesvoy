@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophical Context on AesVoy</title>
+    <link>https://aestheticvoyager.github.io/tags/philosophical-context/</link>
+    <description>Recent content in Philosophical Context on AesVoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Mahan</copyright>
+    <lastBuildDate>Tue, 04 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/philosophical-context/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sir Isaac Newton</title>
+      <link>https://aestheticvoyager.github.io/posts/isaacnewton/</link>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/posts/isaacnewton/</guid>
+      <description>Sir Isaac Newton, born on December 25, 1642, in Woolsthorpe, England, is often regarded as one of the most influential scientists in history. His interest in Alchemy and Theology led him to explore the intersection of science and philosophy, ultimately shaping the scientific methodology and philosophical outlook.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/isaacnewton/feature.png" />
+    </item>
+    
+  </channel>
+</rss>
