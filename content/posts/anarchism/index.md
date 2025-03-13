@@ -1,8 +1,8 @@
 ---
 title: "Anarchism, Libertarian, Decentralization"
-date: 2025-02-22
+date: 2025-02-24
 draft: false
-summary: "This post explores the intersection of anarchism and libertarianism through the lens of decentralization. It examines how both ideologies advocate for individual freedom and skepticism towards centralized authority, highlighting their shared values and differences. The post discusses the potential for decentralized systems, such as blockchain technology and community-driven governance, to reshape societal structures and empower individuals. By analyzing contemporary movements and practical applications, it aims to illustrate how anarchism and libertarianism can collaboratively contribute to a more equitable and liberated future."
+summary: "This post explores the intersection of anarchism and libertarianism through the lens of decentralization. It examines how both ideologies advocate for individual freedom and skepticism towards centralized authority, highlighting their shared values and differences."
 tags: ["Anarchy", "Manifesto", "Anarchist", "Anarchism", "Libertarian", "Decentralization", "The Seasteading Institute", "Politics", "Economics"]
 ---
 
