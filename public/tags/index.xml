@@ -9,6 +9,26 @@
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Active Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/active-learning/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/active-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Classification</title>
+      <link>https://aestheticvoyager.github.io/tags/classification/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/classification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Consumer Society</title>
       <link>https://aestheticvoyager.github.io/tags/consumer-society/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
@@ -24,6 +44,16 @@
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aestheticvoyager.github.io/tags/cultural-theory/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://aestheticvoyager.github.io/tags/data-science/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/data-science/</guid>
       <description></description>
       
     </item>
@@ -54,6 +84,26 @@
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aestheticvoyager.github.io/tags/hyperreality/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Image Classification</title>
+      <link>https://aestheticvoyager.github.io/tags/image-classification/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/image-classification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/machine-learning/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/machine-learning/</guid>
       <description></description>
       
     </item>
@@ -99,6 +149,16 @@
     </item>
     
     <item>
+      <title>Python</title>
+      <link>https://aestheticvoyager.github.io/tags/python/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Semiotics</title>
       <link>https://aestheticvoyager.github.io/tags/semiotics/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
@@ -139,11 +199,31 @@
     </item>
     
     <item>
+      <title>Text Classification</title>
+      <link>https://aestheticvoyager.github.io/tags/text-classification/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/text-classification/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>The Matrix</title>
       <link>https://aestheticvoyager.github.io/tags/the-matrix/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aestheticvoyager.github.io/tags/the-matrix/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Time Series Classification</title>
+      <link>https://aestheticvoyager.github.io/tags/time-series-classification/</link>
+      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/tags/time-series-classification/</guid>
       <description></description>
       
     </item>
@@ -614,16 +694,6 @@
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       
       <guid>https://aestheticvoyager.github.io/tags/deep-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://aestheticvoyager.github.io/tags/machine-learning/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/machine-learning/</guid>
       <description></description>
       
     </item>
@@ -1339,16 +1409,6 @@
     </item>
     
     <item>
-      <title>Data Science</title>
-      <link>https://aestheticvoyager.github.io/tags/data-science/</link>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/data-science/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Content</title>
       <link>https://aestheticvoyager.github.io/tags/content/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
@@ -1674,16 +1734,6 @@
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://aestheticvoyager.github.io/tags/explanation/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Classification</title>
-      <link>https://aestheticvoyager.github.io/tags/classification/</link>
-      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/classification/</guid>
       <description></description>
       
     </item>
