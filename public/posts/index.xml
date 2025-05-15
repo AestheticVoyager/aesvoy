@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Mahan</copyright>
-    <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Theory-Mathematical Approach to Strategic Decision-Making</title>
+      <link>https://aestheticvoyager.github.io/posts/game-theory/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://aestheticvoyager.github.io/posts/game-theory/</guid>
+      <description>Game theory is a fascinating field that studies strategic interactions where the outcome for each participant depends not only on their own decisions but also on the decisions of others. It originated in 1928 when John von Neumann analyzed parlour games and quickly realized that his mathematical approaches could be applied to economic problems and beyond. Von Neumann, along with Oskar Morgenstern, formalized these ideas in their seminal 1944 work, Theory of Games and Economic Behavior, laying the foundation for modern game theory.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/game-theory/feature.jpeg" />
+    </item>
+    
     <item>
       <title>Active Learning</title>
       <link>https://aestheticvoyager.github.io/posts/active-learning/</link>
@@ -15,7 +25,7 @@
       
       <guid>https://aestheticvoyager.github.io/posts/active-learning/</guid>
       <description>Active learning is a powerful technique that can help us automate the labeling process for large datasets. By selecting a subset of the data that is most relevant to the task at hand, active learning can be more efficient than manually labeling every example in a dataset. This can lead to better results and more accurate predictions. In this blog post, I&amp;rsquo;ll walk through the concept of active learning, how it works, and share a step-by-step implementation of how to automate dataset labeling for a text classification task using this method.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/active-learning/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/active-learning/active-learning-feature.jpg" />
     </item>
     
     <item>

@@ -15,7 +15,7 @@
       
       <guid>https://aestheticvoyager.github.io/posts/active-learning/</guid>
       <description>Active learning is a powerful technique that can help us automate the labeling process for large datasets. By selecting a subset of the data that is most relevant to the task at hand, active learning can be more efficient than manually labeling every example in a dataset. This can lead to better results and more accurate predictions. In this blog post, I&amp;rsquo;ll walk through the concept of active learning, how it works, and share a step-by-step implementation of how to automate dataset labeling for a text classification task using this method.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/active-learning/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/active-learning/active-learning-feature.jpg" />
     </item>
     
     <item>
