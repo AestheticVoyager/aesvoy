@@ -1,6 +1,6 @@
 ---
 title: "Quiet Eye Phenomenon"
-date: 2024-09-24
+date: 2024-09-23
 draft: false
 summary: "Quiet Eye (QE) is a fascinating phenomenon that involves a period of extended visual attention, which significantly enhances the control and execution of motor skills, especially in high-pressure situations. This technique has been shown to improve performance across various domains, including sports and surgical training, by allowing individuals to focus on critical details just before executing a movement."
 tags: ["Quiet Eye", "QE", "Cognitive", "Research", "Eye-Tracking", "Medical Image Processing", "Image Processing"]
