@@ -1,9 +1,9 @@
 ---
 title: "Salient Object Detection"
-date: 2024-09-24
+date: 2024-09-28
 draft: false
-summary: "Salient object detection (SOD) is a crucial task in computer vision that focuses on identifying and segmenting the most visually distinctive objects or regions within an image."
-tags: ["F3Net", "Code", "CodeBreaking", "Salient Object Detection", "Object Detection", "SDD", "Computer Vision", "Segmenting", "Segmentation", ""]
+summary: "Salient object detection (SOD) is a crucial task in computer vision that focuses on identifying and segmenting the most visually distinctive objects or regions within an image. The primary aim of SOD is to mimic human visual attention, allowing algorithms to highlight areas that are likely to attract a viewer's focus."
+tags: ["F3Net", "Code", "CodeBreaking", "Salient Object Detection", "Object Detection", "SDD", "Computer Vision", "Segmenting", "Segmentation", "Salient"]
 ---
 
 # Salient Object Detection
