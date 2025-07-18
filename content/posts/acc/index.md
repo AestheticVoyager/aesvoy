@@ -45,7 +45,7 @@ Most famously, or even Infamously, [Curtis Guy Yarvin](https://en.wikipedia.org/
 ### Central Ideas
 
 - **Neo-cameralism:** 
-  Yarvin envisions a future where states function as sovereign corporations, governed by CEO-like figures accountable only to shareholders (wealthy stakeholders), not to voters. This “gov-corp” would seek maximum efficiency over popular legitimacy, echoing both historical monarchy and modern technology corporations[3][1].
+  Yarvin envisions a future where states function as sovereign corporations, governed by CEO-like figures accountable only to shareholders (wealthy stakeholders), not to voters. This “gov-corp” would seek maximum efficiency over popular legitimacy, echoing both historical monarchy and modern technology corporations.
 
 - **Critique of Democracy:** 
   Moldbug argues that democracy is a façade controlled by entrenched progressive elites, perpetuating inefficiency and moral decay. He advocates for replacing democratic government with centralized, technocratic authority—a model inspired by the efficiency of Prussia under Frederick the Great and Singapore under Lee Kuan Yew.
