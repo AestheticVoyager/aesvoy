@@ -3,7 +3,7 @@ title: "DenseNet: How Connections Revolutionized Deep Learning"
 draft: false
 date: 2025-09-10
 summary: "This series explores DenseNet's revolutionary approach to neural connectivity that solved vanishing gradients and improved feature reuse, examines its mathematical foundations and practical implementation, and discusses how its limitations eventually paved the way for Vision Transformers. We trace the evolution from convolutional networks to hybrid architectures, showing how each innovation built upon previous breakthroughs while addressing their shortcomings in the endless pursuit of more efficient and powerful deep learning models."
-tags: ["PyTorch", "Deep Learning", "Neural Networks", "Computer Vision", "CNN", "ViT", "Attention", "Transformer", "Vanishing Gradients", "Gradient Checkpointing", "Memory Efficiency", "Sparse Connections", "Channel Compression", "Memory-efficient Implementations", "Partial Dense Connections", "Neural Architecture Search", "Sparse Connections", "Grouped Convolutions", "Non-local Blocks", "Dilated/Atrous Convolutions", "Pyramid Pooling", "Self-Supervised Learning", "Semi-supervised Learning", "Transfer Learning", "Hybrid Approaches", "Convolutional Stem with Transformer", "Convolutional Self-Attention", "Efficient Transformers", "Self-Supervised Learning", "Unified Architectures"]
+tags: ["PyTorch", "Deep Learning", "Neural Networks", "Computer Vision", "CNN", "ViT", "Attention", "Transformer", "Vanishing Gradients", "Gradient Checkpointing", "Memory Efficiency", "Sparse Connections", "Channel Compression", "Memory-efficient Implementations", "Partial Dense Connections", "Neural Architecture Search", "Sparse Connections", "Grouped Convolutions", "Non-local Blocks", "Dilated Convolutions", "Pyramid Pooling", "Self-Supervised Learning", "Semi-supervised Learning", "Transfer Learning", "Hybrid Approaches", "Convolutional Stem with Transformer", "Convolutional Self-Attention", "Efficient Transformers", "Self-Supervised Learning", "Unified Architectures"]
 ---
 
 # Understanding DenseNet: How Connections Revolutionized Deep Learning
@@ -790,7 +790,7 @@ The most exciting developments are happening at the intersection of these archit
 As we continue this journey, the lessons from DenseNet—the importance of connectivity, feature reuse, and elegant design—continue to influence new architectures. The future likely holds not a single "best" architecture, but a diverse ecosystem of models, each optimized for different constraints and applications.
 
 
-# References & Implementation & Further Reading
+# References & Links
 
 - [DenseNet Paper](https://arxiv.org/abs/1608.06993)
 
@@ -802,6 +802,6 @@ As we continue this journey, the lessons from DenseNet—the importance of conne
 
 - [Github](https://github.com/pytorch/vision/tree/main/torchvision/models/densenet)
 
-- [Implementation](https://github.com/AestheticVoyager/denseNnt-pytorch)
+- [Implementation](https://github.com/AestheticVoyager/densenet-pytorch)
 
 - [Further Reading](https://www.analyticsvidhya.com/blog/2021/03/deep-learning-densenet-architecture/)
