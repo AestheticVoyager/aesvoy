@@ -4,6 +4,7 @@
 
   <url>
     <loc>https://aestheticvoyager.github.io/fa/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -15,6 +16,38 @@
       rel="alternate"
       hreflang="fa"
       href="https://aestheticvoyager.github.io/fa/"
+    />
+  </url>
+  <url>
+    <loc>https://aestheticvoyager.github.io/fa/posts/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://aestheticvoyager.github.io/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="https://aestheticvoyager.github.io/fa/posts/"
+    />
+  </url>
+  <url>
+    <loc>https://aestheticvoyager.github.io/fa/posts/lifesource/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://aestheticvoyager.github.io/posts/lifesource/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="fa"
+      href="https://aestheticvoyager.github.io/fa/posts/lifesource/"
     />
   </url>
 </urlset>
