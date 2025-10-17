@@ -1,0 +1,32 @@
+[[main]]
+  name = "نوشته‌ها"
+  parent = "aesvoy"
+  url = "/posts/"
+  weight = 10
+
+[[main]]
+  name = "برچسب‌ها"
+  parent = "aesvoy"
+  url = "/tags/"
+  weight = 20
+
+#[[main]]
+#  name = "سوالات متداول"
+#  parent = "بلاگ 8Node"
+#  pageRef = "FAQ"
+#  weight = 30
+
+[[footer]]
+  name = "برچسب‌ها"
+  url = "/tags/"
+  weight = 10
+
+[[footer]]
+  name = "نوشته‌ها"
+  url = "/posts/"
+  weight = 20
+
+#[[footer]]
+#  name = "سوالات متداول"
+#  pageRef = "faq"
+#  weight = 30

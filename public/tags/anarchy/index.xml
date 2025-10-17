@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anarchy on AesVoy</title>
+    <title>Anarchy on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/anarchy/</link>
-    <description>Recent content in Anarchy on AesVoy</description>
+    <description>Recent content in Anarchy on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/anarchy/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Anarchism, Libertarian, Decentralization</title>
       <link>https://aestheticvoyager.github.io/posts/anarchism/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/anarchism/</guid>
       <description>This post explores the intersection of anarchism and libertarianism through the lens of decentralization. It examines how both ideologies advocate for individual freedom and skepticism towards centralized authority, highlighting their shared values and differences.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/anarchism/feature.png" />

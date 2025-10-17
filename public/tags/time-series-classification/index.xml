@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Time Series Classification on AesVoy</title>
+    <title>Time Series Classification on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/time-series-classification/</link>
-    <description>Recent content in Time Series Classification on AesVoy</description>
+    <description>Recent content in Time Series Classification on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/time-series-classification/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Active Learning</title>
       <link>https://aestheticvoyager.github.io/posts/active-learning/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/active-learning/</guid>
       <description>Active learning is a powerful technique that can help us automate the labeling process for large datasets. By selecting a subset of the data that is most relevant to the task at hand, active learning can be more efficient than manually labeling every example in a dataset. This can lead to better results and more accurate predictions. In this blog post, I&amp;rsquo;ll walk through the concept of active learning, how it works, and share a step-by-step implementation of how to automate dataset labeling for a text classification task using this method.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/active-learning/active-learning-feature.jpg" />

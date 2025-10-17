@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Temporal Difference Learning on AesVoy</title>
+    <title>Temporal Difference Learning on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/temporal-difference-learning/</link>
-    <description>Recent content in Temporal Difference Learning on AesVoy</description>
+    <description>Recent content in Temporal Difference Learning on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Mon, 09 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/temporal-difference-learning/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Temporal Difference Learning</title>
       <link>https://aestheticvoyager.github.io/posts/temporaldifferencelearning/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/temporaldifferencelearning/</guid>
       <description>Temporal Difference (TD) Learning is a fundamental concept in the field of reinforcement learning, which is a subfield of artificial intelligence (AI). It is particularly powerful for problems where an agent must learn to make decisions over time based on its interactions with an environment. Unlike traditional supervised learning, where a model learns from a fixed dataset, TD Learning enables agents to learn directly from experience, making it well-suited for dynamic and uncertain environments.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/temporaldifferencelearning/featured.jpg" />

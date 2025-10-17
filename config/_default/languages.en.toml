@@ -1,23 +1,26 @@
+disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "AesVoy"
+title = "Aesvoy"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
-  # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  logo = "logo.png"
+  secondaryLogo = "logo.png"
+  description = "Less is More"
   # copyright = "Copy, _right?_ :thinking_face:"
 
- [author]
+ [params.author]
    name = "Mahan"
+   email = "sciredomir@tutanota.com"
    image = "profile.jpg"
+   imageQuality = 96
    headline = "Aesthetic Voyager"
-   bio = "Less is More"
+   bio = "Aesthetic Voyager"
    links = [
      { email = "mailto:sciredomir@tutanota.com" },
      { link = "https://aestheticvoyager.github.io/aesvoy/" },

@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Continuity/Semi-Continuity on AesVoy</title>
+    <title>Continuity/Semi-Continuity on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/continuity/semi-continuity/</link>
-    <description>Recent content in Continuity/Semi-Continuity on AesVoy</description>
+    <description>Recent content in Continuity/Semi-Continuity on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/continuity/semi-continuity/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Game Theory-Mathematical Approach to Strategic Decision-Making</title>
       <link>https://aestheticvoyager.github.io/posts/game-theory/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/game-theory/</guid>
       <description>Game theory is a fascinating field that studies strategic interactions where the outcome for each participant depends not only on their own decisions but also on the decisions of others. It originated in 1928 when John von Neumann analyzed parlour games and quickly realized that his mathematical approaches could be applied to economic problems and beyond. Von Neumann, along with Oskar Morgenstern, formalized these ideas in their seminal 1944 work, Theory of Games and Economic Behavior, laying the foundation for modern game theory.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/game-theory/feature.jpeg" />

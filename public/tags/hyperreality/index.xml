@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hyperreality on AesVoy</title>
+    <title>Hyperreality on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/hyperreality/</link>
-    <description>Recent content in Hyperreality on AesVoy</description>
+    <description>Recent content in Hyperreality on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Fri, 09 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/hyperreality/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Jean Baudrillard - Theory of Simulation</title>
       <link>https://aestheticvoyager.github.io/posts/baudrillard/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/baudrillard/</guid>
       <description>Jean Baudrillard (1929–2007) was a French sociologist, philosopher, and cultural theorist known for his influential ideas on media, contemporary culture, and communication. He is most famous for developing the concepts of hyperreality and simulacrum, which describe how in modern society, reality is replaced or obscured by symbols and signs, creating a simulated version of reality that people experience as more real than the real itself.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/baudrillard/feature.png" />

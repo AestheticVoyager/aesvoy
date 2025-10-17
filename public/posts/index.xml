@@ -1,18 +1,131 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on AesVoy</title>
+    <title>Posts on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/posts/</link>
-    <description>Recent content in Posts on AesVoy</description>
+    <description>Recent content in Posts on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
-    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Clockwork Constellation: How GPS Uses Time to Find You</title>
+      <link>https://aestheticvoyager.github.io/posts/gps/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/gps/</guid>
+      <description>This blog post unravels the magic behind GPS, revealing that it&amp;rsquo;s not about maps but about ultra-precise timekeeping. It explains in simple terms how your device uses time signals from multiple satellites to find your location, then dives into the real-world engineering and mind-bending physics (like Einstein&amp;rsquo;s relativity) required to make it work, before finally unveiling the complex mathematics that powers it all.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/gps/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>DenseNet: How Connections Revolutionized Deep Learning</title>
+      <link>https://aestheticvoyager.github.io/posts/densenet/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/densenet/</guid>
+      <description>This series explores DenseNet&amp;rsquo;s revolutionary approach to neural connectivity that solved vanishing gradients and improved feature reuse, examines its mathematical foundations and practical implementation, and discusses how its limitations eventually paved the way for Vision Transformers. We trace the evolution from convolutional networks to hybrid architectures, showing how each innovation built upon previous breakthroughs while addressing their shortcomings in the endless pursuit of more efficient and powerful deep learning models.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/densenet/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>The Ackermann Function: Taming the Wildest Recursion in Computer Science</title>
+      <link>https://aestheticvoyager.github.io/posts/ackermann/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/ackermann/</guid>
+      <description>The Ackermann function is a deceptively simple algorithm that stands as a landmark in theoretical computer science. Defined by a concise set of recursive rules, it generates numerical values that grow at a rate faster than any primitive recursive function, quickly reaching magnitudes that are physically incomputable. While its naive implementation serves as a classic example of a recursion depth stress test, its true importance is historical and philosophical.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/ackermann/feature.png" />
+    </item>
+    
+    <item>
+      <title>ResNet Overview and Implementatoin</title>
+      <link>https://aestheticvoyager.github.io/posts/resnet/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/resnet/</guid>
+      <description>ResNet model and the seminal paper, &lt;em&gt;Deep Residual Learning for Image Recognition&lt;/em&gt; by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun, which won the Best Paper award at CVPR 2016. It is one of the most influential and fundamental papers in the history of deep learning for computer vision.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/resnet/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>VGGNet Overview</title>
+      <link>https://aestheticvoyager.github.io/posts/vggnet/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/vggnet/</guid>
+      <description>VGGNet is a famous deep learning model used in computer vision—essentially, teaching computers to understand images. It was created by researchers at the Visual Geometry Group (VGG) at the University of Oxford. Since its debut in 2014, VGGNet has become one of the key models that helped advance how machines see and recognize objects in photos. At its core, VGGNet is designed to look at images and decide what is in them.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/vggnet/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Gradient-Based Learning Applied to Document Recognition</title>
+      <link>https://aestheticvoyager.github.io/posts/lenet-5/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/lenet-5/</guid>
+      <description>LeNet-5 is an early and very influential type of convolutional neural network (CNN) developed by Yann LeCun and his colleagues in 1998, designed mainly to recognize handwritten digits like those in the MNIST dataset. What makes LeNet-5 special is how it combines several clever ideas that allow it to efficiently and accurately understand images despite their complexity—ideas that were crucial stepping stones for today’s deep learning revolution.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/lenet-5/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Ironic Life of John Kelly</title>
+      <link>https://aestheticvoyager.github.io/posts/jokelly/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/jokelly/</guid>
+      <description>John Larry Kelly Jr. (December 26, 1923 – March 18, 1965), was an American scientist who worked at Bell Labs. From a system he&amp;rsquo;d developed to analyze information transmitted over networks, he created the Kelly Criterion, a formula that predicts the best way to bet or invest money. He was also a pioneer in the field of computer science and artificial intelligence.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/jokelly/feature.png" />
+    </item>
+    
+    <item>
+      <title>Muon: Second Order Optimizer for Hidden Layers</title>
+      <link>https://aestheticvoyager.github.io/posts/muon/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/muon/</guid>
+      <description>Muon is a second-order optimizer for deep learning models, designed to accelerate training and reduce memory usage. It leverages information about the curvature of the loss landscape to achieve faster convergence and more efficient memory utilization. By overcoming historical computational barriers and standardizing its usage, Muon brings the theoretical advantages of second-order optimization to the scale required for LLMs, potentially reshaping both practice and expectations in deep learning.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/muon/feature.png" />
+    </item>
+    
+    <item>
+      <title>Accelerationism</title>
+      <link>https://aestheticvoyager.github.io/posts/acc/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/acc/</guid>
+      <description>At its core, accelerationism proposes that intensifying or pushing to extremes the processes inherent to modern capitalism and technology can destabilize existing social and political orders, potentially leading to the collapse or transformation of the status quo. This can create opportunities for something fundamentally new to emerge.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/acc/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Six Degrees of Seperation</title>
+      <link>https://aestheticvoyager.github.io/posts/sds/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/sds/</guid>
+      <description>The &lt;strong&gt;six degrees of separation&lt;/strong&gt; hypothesis proposes that &lt;strong&gt;any two people on Earth can be connected through a chain involving no more than six social connections (five intermediaries)&lt;/strong&gt;. In other words, you are only six introductions away from knowing anyone in the world, no matter how distant or different they may seem.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/sds/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>DARPA:History and Transformative Contributions to Civilization</title>
+      <link>https://aestheticvoyager.github.io/posts/darpa/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/darpa/</guid>
+      <description>The defense advanced research project agancy, DARPA, stands as a pillar of innovation, responsible for pioneering breakthroughs that have not only strentghened national security of United States but also have transformed the global civilization with their innovative contributions.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/darpa/feature.jpg" />
+    </item>
+    
     <item>
       <title>Game Theory-Mathematical Approach to Strategic Decision-Making</title>
       <link>https://aestheticvoyager.github.io/posts/game-theory/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/game-theory/</guid>
       <description>Game theory is a fascinating field that studies strategic interactions where the outcome for each participant depends not only on their own decisions but also on the decisions of others. It originated in 1928 when John von Neumann analyzed parlour games and quickly realized that his mathematical approaches could be applied to economic problems and beyond. Von Neumann, along with Oskar Morgenstern, formalized these ideas in their seminal 1944 work, Theory of Games and Economic Behavior, laying the foundation for modern game theory.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/game-theory/feature.jpeg" />
@@ -22,7 +135,7 @@
       <title>Active Learning</title>
       <link>https://aestheticvoyager.github.io/posts/active-learning/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/active-learning/</guid>
       <description>Active learning is a powerful technique that can help us automate the labeling process for large datasets. By selecting a subset of the data that is most relevant to the task at hand, active learning can be more efficient than manually labeling every example in a dataset. This can lead to better results and more accurate predictions. In this blog post, I&amp;rsquo;ll walk through the concept of active learning, how it works, and share a step-by-step implementation of how to automate dataset labeling for a text classification task using this method.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/active-learning/active-learning-feature.jpg" />
@@ -32,7 +145,7 @@
       <title>Jean Baudrillard - Theory of Simulation</title>
       <link>https://aestheticvoyager.github.io/posts/baudrillard/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/baudrillard/</guid>
       <description>Jean Baudrillard (1929–2007) was a French sociologist, philosopher, and cultural theorist known for his influential ideas on media, contemporary culture, and communication. He is most famous for developing the concepts of hyperreality and simulacrum, which describe how in modern society, reality is replaced or obscured by symbols and signs, creating a simulated version of reality that people experience as more real than the real itself.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/baudrillard/feature.png" />
@@ -42,7 +155,7 @@
       <title>Georgism: Progress &amp; Poverty</title>
       <link>https://aestheticvoyager.github.io/posts/georgism/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/georgism/</guid>
       <description>Georgism is a philosophy and policy approach that proposes funding public needs through a tax on land value, reflecting the idea that land and natural resources are a shared inheritance. This approach seeks to reduce inequality, promote efficient land use, and replace less fair taxes.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/georgism/feature.jpg" />
@@ -52,7 +165,7 @@
       <title>Jack Parsons-Rockets &amp; SexMagic</title>
       <link>https://aestheticvoyager.github.io/posts/jackparsons/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/jackparsons/</guid>
       <description>This blog post explores the extraordinary life of Jack Parsons, a pioneering rocket scientist and occultist. Parsons co-founded the Jet Propulsion Laboratory (JPL) and developed crucial technologies like JATO, laying the groundwork for NASA&amp;rsquo;s success. His personal life was marked by intense involvement in Thelema and sex magic rituals, adding a layer of intrigue to his legacy.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/jackparsons/feature.jpeg" />
@@ -62,7 +175,7 @@
       <title>Sir Isaac Newton</title>
       <link>https://aestheticvoyager.github.io/posts/isaacnewton/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/isaacnewton/</guid>
       <description>Sir Isaac Newton, born on December 25, 1642, in Woolsthorpe, England, is often regarded as one of the most influential scientists in history. His interest in Alchemy and Theology led him to explore the intersection of science and philosophy, ultimately shaping the scientific methodology and philosophical outlook.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/isaacnewton/feature.png" />
@@ -72,7 +185,7 @@
       <title>Anarchism, Libertarian, Decentralization</title>
       <link>https://aestheticvoyager.github.io/posts/anarchism/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/anarchism/</guid>
       <description>This post explores the intersection of anarchism and libertarianism through the lens of decentralization. It examines how both ideologies advocate for individual freedom and skepticism towards centralized authority, highlighting their shared values and differences.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/anarchism/feature.png" />
@@ -82,7 +195,7 @@
       <title>Pioneers of Machine Learning and Artificial Intelligence</title>
       <link>https://aestheticvoyager.github.io/posts/ai_pioneers/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/ai_pioneers/</guid>
       <description>The journey of pioneers in Machine Learning (ML) and Artificial Intelligence (AI) is a remarkable tale of innovation, collaboration, and the relentless pursuit of knowledge.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/ai_pioneers/feature.png" />
@@ -92,7 +205,7 @@
       <title>Design Patterns</title>
       <link>https://aestheticvoyager.github.io/posts/design-patterns/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/design-patterns/</guid>
       <description>This book gives you names and solutions for common problems in coding. It helps you talk about code with other programmers. It can help you make your code easier to reuse, fix, and change. But you can&amp;rsquo;t just use them everywhere. You need to know &lt;strong&gt;when&lt;/strong&gt; to use them.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/design-patterns/feature.jpg" />
@@ -102,27 +215,47 @@
       <title>Small Language Models</title>
       <link>https://aestheticvoyager.github.io/posts/smalllanguagemodels/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/smalllanguagemodels/</guid>
       <description>Small Language Models (SLMs) are a specialized type of artificial intelligence designed for natural language processing (NLP) tasks. Unlike Large Language Models (LLMs), which are characterized by their vast size and extensive training datasets, SLMs are built to be more efficient and effective for specific applications.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/smalllanguagemodels/featured.jpg" />
     </item>
     
     <item>
+      <title>Salient Object Detection</title>
+      <link>https://aestheticvoyager.github.io/posts/salientobjectdetection/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/salientobjectdetection/</guid>
+      <description>Salient object detection (SOD) is a crucial task in computer vision that focuses on identifying and segmenting the most visually distinctive objects or regions within an image. The primary aim of SOD is to mimic human visual attention, allowing algorithms to highlight areas that are likely to attract a viewer&amp;rsquo;s focus.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/salientobjectdetection/feature.png" />
+    </item>
+    
+    <item>
       <title>Quiet Eye Phenomenon</title>
       <link>https://aestheticvoyager.github.io/posts/quieteye/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/quieteye/</guid>
       <description>Quiet Eye (QE) is a fascinating phenomenon that involves a period of extended visual attention, which significantly enhances the control and execution of motor skills, especially in high-pressure situations. This technique has been shown to improve performance across various domains, including sports and surgical training, by allowing individuals to focus on critical details just before executing a movement.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/quieteye/featured.jpg" />
     </item>
     
     <item>
+      <title>Gran Turismo&#39;s Sophy AI</title>
+      <link>https://aestheticvoyager.github.io/posts/gt-sophy/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/gt-sophy/</guid>
+      <description>Gran Turismo Sophy is an advanced AI racing agent developed through a collaboration between Sony AI, Polyphony Digital, and Sony Interactive Entertainment. This groundbreaking technology utilizes deep reinforcement learning to master the complexities of competitive racing in the Gran Turismo Sport simulator. Initially starting as an AI that struggled to navigate tracks, Sophy has evolved into a formidable competitor capable of challenging top human drivers by mastering racing tactics, etiquette, and vehicle control.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/gt-sophy/feature.jpg" />
+    </item>
+    
+    <item>
       <title>Temporal Difference Learning</title>
       <link>https://aestheticvoyager.github.io/posts/temporaldifferencelearning/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/temporaldifferencelearning/</guid>
       <description>Temporal Difference (TD) Learning is a fundamental concept in the field of reinforcement learning, which is a subfield of artificial intelligence (AI). It is particularly powerful for problems where an agent must learn to make decisions over time based on its interactions with an environment. Unlike traditional supervised learning, where a model learns from a fixed dataset, TD Learning enables agents to learn directly from experience, making it well-suited for dynamic and uncertain environments.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/temporaldifferencelearning/featured.jpg" />
@@ -132,7 +265,7 @@
       <title>DeepFake Detection Methods</title>
       <link>https://aestheticvoyager.github.io/posts/deepfakedetection/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/deepfakedetection/</guid>
       <description>In this blog post, we explore the topic of image generators and their detection techniques. I&amp;rsquo;ll discuss various methods for detecting image generators and their manipulations. These include analyzing the visual content of an image, examining its metadata, and using machine learning algorithms to identify patterns in the data.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/deepfakedetection/featured.png" />
@@ -142,7 +275,7 @@
       <title>From CNNs to Vision Transformers: The Future of Image Recognition</title>
       <link>https://aestheticvoyager.github.io/posts/vit/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/vit/</guid>
       <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/vit/featured.png" />
@@ -152,7 +285,7 @@
       <title>Misconceptions of Programming Paradigms</title>
       <link>https://aestheticvoyager.github.io/posts/progparadigms/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/progparadigms/</guid>
       <description>As a developer, you might have come across the misconception that writing code without classes in a language that supports Object-Oriented Programming (OOP) automatically makes it functional. In reality, this code is more likely procedural.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/progparadigms/featured.png" />
@@ -162,7 +295,7 @@
       <title>imageNet-Computer Vision Backbone</title>
       <link>https://aestheticvoyager.github.io/posts/imagenet/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/imagenet/</guid>
       <description>ImageNet is more than just a dataset. The sheer scale of ImageNet, combined with its detailed labeling, made it essentially the backbone of Computer Vision.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/imagenet/featured.jpg" />
@@ -172,7 +305,7 @@
       <title>Transformers &amp; Attention</title>
       <link>https://aestheticvoyager.github.io/posts/attention-transformer/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/attention-transformer/</guid>
       <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/attention-transformer/featured.jpg" />
@@ -182,7 +315,7 @@
       <title>Diffusion VS Auto-Regressive Models</title>
       <link>https://aestheticvoyager.github.io/posts/diffusion-vs-auto-regressive/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/diffusion-vs-auto-regressive/</guid>
       <description>Generative AI has come a long way, producing stunning images from simple text prompts. But how do Diffusion and Auto-Regressive models work, and why are diffusion models preferred.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/diffusion-vs-auto-regressive/featured.jpg" />
@@ -192,7 +325,7 @@
       <title>Mathematics of Risk</title>
       <link>https://aestheticvoyager.github.io/posts/black-scholes/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/black-scholes/</guid>
       <description>The Black-Scholes-Merton equation is a model for pricing options. This equation revolutionized finance by providing a precise method for determining fair option prices, improving risk management and trading efficiency.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/black-scholes/featured.jpg" />
@@ -202,7 +335,7 @@
       <title>PageRank</title>
       <link>https://aestheticvoyager.github.io/posts/pagerank/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/pagerank/</guid>
       <description>PageRank, created by Google founders Larry Page and Sergey Brin, changed the web by ranking pages based on the quality and quantity of their links, rather than just keywords. It evaluates a page’s authority through its endorsements, improving the relevance and trustworthiness of search results.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/pagerank/featured.jpg" />
@@ -212,7 +345,7 @@
       <title>Keynesian vs. Austrian vs. Monetarist Economics</title>
       <link>https://aestheticvoyager.github.io/posts/ecnomics/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/ecnomics/</guid>
       <description>This article compares Keynesian, Austrian, and Monetarist economic theories, discussing their core principles, historical origins, and key figures. It highlights Austrian economics as the closest to libertarian values and examines the influence of these theories on modern global economic policies.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/ecnomics/featured.jpg" />
@@ -222,7 +355,7 @@
       <title>Diverse Roles in Data Science</title>
       <link>https://aestheticvoyager.github.io/posts/datanerd/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/datanerd/</guid>
       <description>In the rapidly evolving field of data science, several specialized roles have emerged to tackle various aspects of data management, analysis, and implementation. Among these roles, data scientists, data analysts, and data engineers are some of the most prominent.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/datanerd/featured.webp" />
@@ -232,7 +365,7 @@
       <title>Context vs Content</title>
       <link>https://aestheticvoyager.github.io/posts/context/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/context/</guid>
       <description>In the bustling world of digital media, the term content is ubiquitous. While content creation is about generating material, context creation involves crafting the setting and conditions that allow the content to be meaningful and impactful.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/context/featured.webp" />
@@ -242,7 +375,7 @@
       <title>AlexNet Revolution</title>
       <link>https://aestheticvoyager.github.io/posts/alexnet/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/alexnet/</guid>
       <description>In 2012, the field of artificial intelligence witnessed a seismic shift. The catalyst for this transformation was a deep learning model known as AlexNet.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/alexnet/featured.webp" />
@@ -252,7 +385,7 @@
       <title>Generative Adversarial Network</title>
       <link>https://aestheticvoyager.github.io/posts/generative-adversarial-network/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/generative-adversarial-network/</guid>
       <description>A neural network is like a highly sophisticated, multi-layered calculator that learns from data. It consists of numerous “neurons” (tiny calculators) connected in layers, with each layer performing a unique function to help the network make predictions or decisions.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/generative-adversarial-network/featured.jpeg" />
@@ -262,7 +395,7 @@
       <title>Variational-Auto-Encoder</title>
       <link>https://aestheticvoyager.github.io/posts/variational-auto-encoder/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/variational-auto-encoder/</guid>
       <description>The beauty of VAEs lies in their ability to generate new samples by randomly sampling vectors from this known region and then passing them through the generator part of our model.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/variational-auto-encoder/featured.jpeg" />
@@ -272,7 +405,7 @@
       <title>Auto-Encoder</title>
       <link>https://aestheticvoyager.github.io/posts/auto-encoder/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/auto-encoder/</guid>
       <description>An autoencoder begins its journey by compressing input data into a lower dimension. It then endeavors to reconstruct the original input from this compressed representation.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/auto-encoder/featured.jpeg" />
@@ -282,7 +415,7 @@
       <title>Delaunay Triangulation</title>
       <link>https://aestheticvoyager.github.io/posts/delaunay-triangulation/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/delaunay-triangulation/</guid>
       <description>Delaunay triangulation is a process that takes a set of points in n-dimensional space as input and returns a network of triangles connecting these points. The resulting structure is called a triangulation or mesh.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/delaunay-triangulation/featured.jpg" />
@@ -292,7 +425,7 @@
       <title>Paltering</title>
       <link>https://aestheticvoyager.github.io/posts/paltering/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/paltering/</guid>
       <description>Paltering reminds us that even truthful statements can be used to mislead. Understanding the context and limitations of facts, and the role of scientific method in informing but not dictating actions, is essential.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/paltering/featured.jpg" />
@@ -302,7 +435,7 @@
       <title>Done Manifesto</title>
       <link>https://aestheticvoyager.github.io/posts/done-manifesto/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/done-manifesto/</guid>
       <description>In today&amp;rsquo;s fast-paced world, getting things done is crucial. The Done manifesto is all about embracing this mindset and applying it to your work.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/done-manifesto/featured.jpg" />
@@ -312,7 +445,7 @@
       <title>Weighted Voronoi Stippling</title>
       <link>https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/</guid>
       <description>Stippling, a timeless artistic technique, traces its origins back through the annals of art history, where it emerged as a method of creating texture, depth, and form through the precise placement of dots.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/weigthed-voronoi-stippling/featured.jpg" />
@@ -322,7 +455,7 @@
       <title>Hidden Markov Models</title>
       <link>https://aestheticvoyager.github.io/posts/hidden-markov-models/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/hidden-markov-models/</guid>
       <description>Hidden Markov Models (HMMs) are statistical models used for sequential data analysis, where underlying states are inferred from observed data. Employed in speech recognition, bioinformatics, and more.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/hidden-markov-models/featured.jpg" />
@@ -332,7 +465,7 @@
       <title>Voronoi Diagram</title>
       <link>https://aestheticvoyager.github.io/posts/voronoi-diagram/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/voronoi-diagram/</guid>
       <description>Voronoi diagrams, also known as Dirichlet tessellation or Thiessen polygons, are everywhere in nature. You’ve likely encountered them thousands of times, but perhaps didn’t know what they were called.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/voronoi-diagram/featured.png" />
@@ -342,7 +475,7 @@
       <title>Less is More Paper Review</title>
       <link>https://aestheticvoyager.github.io/posts/less-is-more/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/less-is-more/</guid>
       <description>Less is More: Parameter-Free Text Classification with Gzip offers a novel text classification method using gzip compression, eliminating manual parameter tuning.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/less-is-more/featured.jpeg" />
@@ -352,7 +485,7 @@
       <title>Difference of Gaussians(DoG) Algorithm</title>
       <link>https://aestheticvoyager.github.io/posts/difference-of-gaussians/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/difference-of-gaussians/</guid>
       <description>The Difference of Gaussians (DoG) algorithm is a technique in image processing used for edge detection and feature enhancement.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/difference-of-gaussians/featured.jpg" />
@@ -362,7 +495,7 @@
       <title>Infini-Attention Paper Review</title>
       <link>https://aestheticvoyager.github.io/posts/infini-attention/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/infini-attention/</guid>
       <description>Infini-Attention introduces a novel approach to scaling Transformer models for infinitely long inputs while managing memory and computation.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/infini-attention/featured.png" />
@@ -372,7 +505,7 @@
       <title>Kuwahara</title>
       <link>https://aestheticvoyager.github.io/posts/kuwahara/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/kuwahara/</guid>
       <description>Kuwahara was the world&amp;rsquo;s first edge preserving de-noising image processing algorithm.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/kuwahara/featured.png" />
@@ -382,7 +515,7 @@
       <title>Dither</title>
       <link>https://aestheticvoyager.github.io/posts/dither/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/dither/</guid>
       <description>In the realm of digital image processing, dithering algorithms play a crucial role in reducing the color palette of an image while maintaining visual quality.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/dither/featured.png" />
@@ -392,7 +525,7 @@
       <title>Softmax</title>
       <link>https://aestheticvoyager.github.io/posts/softmax/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/softmax/</guid>
       <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/softmax/featured.png" />

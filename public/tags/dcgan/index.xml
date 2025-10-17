@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DCGAN on AesVoy</title>
+    <title>DCGAN on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/dcgan/</link>
-    <description>Recent content in DCGAN on AesVoy</description>
+    <description>Recent content in DCGAN on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/dcgan/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Generative Adversarial Network</title>
       <link>https://aestheticvoyager.github.io/posts/generative-adversarial-network/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/generative-adversarial-network/</guid>
       <description>A neural network is like a highly sophisticated, multi-layered calculator that learns from data. It consists of numerous “neurons” (tiny calculators) connected in layers, with each layer performing a unique function to help the network make predictions or decisions.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/generative-adversarial-network/featured.jpeg" />

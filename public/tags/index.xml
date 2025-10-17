@@ -1,19 +1,1412 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on AesVoy</title>
+    <title>Tags on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/</link>
-    <description>Recent content in Tags on AesVoy</description>
+    <description>Recent content in Tags on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
-    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Clock</title>
+      <link>https://aestheticvoyager.github.io/tags/clock/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/clock/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Engineering</title>
+      <link>https://aestheticvoyager.github.io/tags/engineering/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/engineering/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GPS</title>
+      <link>https://aestheticvoyager.github.io/tags/gps/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/gps/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Location</title>
+      <link>https://aestheticvoyager.github.io/tags/location/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/location/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Phone</title>
+      <link>https://aestheticvoyager.github.io/tags/phone/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/phone/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Physics</title>
+      <link>https://aestheticvoyager.github.io/tags/physics/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/physics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Positioning</title>
+      <link>https://aestheticvoyager.github.io/tags/positioning/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/positioning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Relativity</title>
+      <link>https://aestheticvoyager.github.io/tags/relativity/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/relativity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Satellite</title>
+      <link>https://aestheticvoyager.github.io/tags/satellite/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/satellite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spheres</title>
+      <link>https://aestheticvoyager.github.io/tags/spheres/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/spheres/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Triangulation</title>
+      <link>https://aestheticvoyager.github.io/tags/triangulation/</link>
+      <pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/triangulation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Attention</title>
+      <link>https://aestheticvoyager.github.io/tags/attention/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/attention/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Channel Compression</title>
+      <link>https://aestheticvoyager.github.io/tags/channel-compression/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/channel-compression/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>https://aestheticvoyager.github.io/tags/cnn/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/cnn/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computer Vision</title>
+      <link>https://aestheticvoyager.github.io/tags/computer-vision/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/computer-vision/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Convolutional Self-Attention</title>
+      <link>https://aestheticvoyager.github.io/tags/convolutional-self-attention/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/convolutional-self-attention/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Convolutional Stem With Transformer</title>
+      <link>https://aestheticvoyager.github.io/tags/convolutional-stem-with-transformer/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/convolutional-stem-with-transformer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/deep-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dilated Convolutions</title>
+      <link>https://aestheticvoyager.github.io/tags/dilated-convolutions/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/dilated-convolutions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Efficient Transformers</title>
+      <link>https://aestheticvoyager.github.io/tags/efficient-transformers/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/efficient-transformers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gradient Checkpointing</title>
+      <link>https://aestheticvoyager.github.io/tags/gradient-checkpointing/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/gradient-checkpointing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Grouped Convolutions</title>
+      <link>https://aestheticvoyager.github.io/tags/grouped-convolutions/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/grouped-convolutions/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hybrid Approaches</title>
+      <link>https://aestheticvoyager.github.io/tags/hybrid-approaches/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/hybrid-approaches/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Memory Efficiency</title>
+      <link>https://aestheticvoyager.github.io/tags/memory-efficiency/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/memory-efficiency/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Memory-Efficient Implementations</title>
+      <link>https://aestheticvoyager.github.io/tags/memory-efficient-implementations/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/memory-efficient-implementations/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neural Architecture Search</title>
+      <link>https://aestheticvoyager.github.io/tags/neural-architecture-search/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/neural-architecture-search/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neural Networks</title>
+      <link>https://aestheticvoyager.github.io/tags/neural-networks/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/neural-networks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Non-Local Blocks</title>
+      <link>https://aestheticvoyager.github.io/tags/non-local-blocks/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/non-local-blocks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Partial Dense Connections</title>
+      <link>https://aestheticvoyager.github.io/tags/partial-dense-connections/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/partial-dense-connections/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pyramid Pooling</title>
+      <link>https://aestheticvoyager.github.io/tags/pyramid-pooling/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/pyramid-pooling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://aestheticvoyager.github.io/tags/pytorch/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/pytorch/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Self-Supervised Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/self-supervised-learning/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/self-supervised-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/semi-supervised-learning/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/semi-supervised-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sparse Connections</title>
+      <link>https://aestheticvoyager.github.io/tags/sparse-connections/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/sparse-connections/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transfer Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/transfer-learning/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/transfer-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Transformer</title>
+      <link>https://aestheticvoyager.github.io/tags/transformer/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/transformer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Unified Architectures</title>
+      <link>https://aestheticvoyager.github.io/tags/unified-architectures/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/unified-architectures/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vanishing Gradients</title>
+      <link>https://aestheticvoyager.github.io/tags/vanishing-gradients/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/vanishing-gradients/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ViT</title>
+      <link>https://aestheticvoyager.github.io/tags/vit/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/vit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ackermann</title>
+      <link>https://aestheticvoyager.github.io/tags/ackermann/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/ackermann/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Algorithm</title>
+      <link>https://aestheticvoyager.github.io/tags/algorithm/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/algorithm/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Computer Science</title>
       <link>https://aestheticvoyager.github.io/tags/computer-science/</link>
-      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/computer-science/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Implementation</title>
+      <link>https://aestheticvoyager.github.io/tags/implementation/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/implementation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Math</title>
+      <link>https://aestheticvoyager.github.io/tags/math/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/math/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Recursion</title>
+      <link>https://aestheticvoyager.github.io/tags/recursion/</link>
+      <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/recursion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CIFAR-100</title>
+      <link>https://aestheticvoyager.github.io/tags/cifar-100/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/cifar-100/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Image Recognition</title>
+      <link>https://aestheticvoyager.github.io/tags/image-recognition/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/image-recognition/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paper</title>
+      <link>https://aestheticvoyager.github.io/tags/paper/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/paper/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ResNet-18</title>
+      <link>https://aestheticvoyager.github.io/tags/resnet-18/</link>
+      <pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/resnet-18/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>https://aestheticvoyager.github.io/tags/artificial-intelligence/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/artificial-intelligence/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Foundation Models</title>
+      <link>https://aestheticvoyager.github.io/tags/foundation-models/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/foundation-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/machine-learning/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/machine-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://aestheticvoyager.github.io/tags/ml/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/ml/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VGGNet</title>
+      <link>https://aestheticvoyager.github.io/tags/vggnet/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/vggnet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI</title>
+      <link>https://aestheticvoyager.github.io/tags/ai/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Backpropagation</title>
+      <link>https://aestheticvoyager.github.io/tags/backpropagation/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/backpropagation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Convolutional Neural Networks</title>
+      <link>https://aestheticvoyager.github.io/tags/convolutional-neural-networks/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/convolutional-neural-networks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gradient Descent</title>
+      <link>https://aestheticvoyager.github.io/tags/gradient-descent/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/gradient-descent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>LeNet-5</title>
+      <link>https://aestheticvoyager.github.io/tags/lenet-5/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/lenet-5/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MNIST</title>
+      <link>https://aestheticvoyager.github.io/tags/mnist/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/mnist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pooling Layers</title>
+      <link>https://aestheticvoyager.github.io/tags/pooling-layers/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/pooling-layers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Yann LeCun</title>
+      <link>https://aestheticvoyager.github.io/tags/yann-lecun/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/yann-lecun/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Claude Shannon</title>
+      <link>https://aestheticvoyager.github.io/tags/claude-shannon/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/claude-shannon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ed Thorp</title>
+      <link>https://aestheticvoyager.github.io/tags/ed-thorp/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/ed-thorp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gambling</title>
+      <link>https://aestheticvoyager.github.io/tags/gambling/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/gambling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>John Kelly</title>
+      <link>https://aestheticvoyager.github.io/tags/john-kelly/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/john-kelly/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kelly Criterion</title>
+      <link>https://aestheticvoyager.github.io/tags/kelly-criterion/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/kelly-criterion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mathematics</title>
+      <link>https://aestheticvoyager.github.io/tags/mathematics/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/mathematics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Risk</title>
+      <link>https://aestheticvoyager.github.io/tags/risk/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/risk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://aestheticvoyager.github.io/tags/statistics/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/statistics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AdamW</title>
+      <link>https://aestheticvoyager.github.io/tags/adamw/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/adamw/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Data Parallelism</title>
+      <link>https://aestheticvoyager.github.io/tags/data-parallelism/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/data-parallelism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Decoupled Weight Decay</title>
+      <link>https://aestheticvoyager.github.io/tags/decoupled-weight-decay/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/decoupled-weight-decay/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Distributed Computing</title>
+      <link>https://aestheticvoyager.github.io/tags/distributed-computing/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/distributed-computing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Efficient Training</title>
+      <link>https://aestheticvoyager.github.io/tags/efficient-training/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/efficient-training/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hessian Computation</title>
+      <link>https://aestheticvoyager.github.io/tags/hessian-computation/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/hessian-computation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Inversion</title>
+      <link>https://aestheticvoyager.github.io/tags/inversion/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/inversion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Large Language Models</title>
+      <link>https://aestheticvoyager.github.io/tags/large-language-models/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/large-language-models/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Model Parallelism</title>
+      <link>https://aestheticvoyager.github.io/tags/model-parallelism/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/model-parallelism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Momentum</title>
+      <link>https://aestheticvoyager.github.io/tags/momentum/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/momentum/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Muon</title>
+      <link>https://aestheticvoyager.github.io/tags/muon/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/muon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Newton-Schulz</title>
+      <link>https://aestheticvoyager.github.io/tags/newton-schulz/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/newton-schulz/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Optimizer</title>
+      <link>https://aestheticvoyager.github.io/tags/optimizer/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/optimizer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Orthogonalization</title>
+      <link>https://aestheticvoyager.github.io/tags/orthogonalization/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/orthogonalization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Parallelism</title>
+      <link>https://aestheticvoyager.github.io/tags/parallelism/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/parallelism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pipeline Optimization</title>
+      <link>https://aestheticvoyager.github.io/tags/pipeline-optimization/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/pipeline-optimization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Second Derivatives</title>
+      <link>https://aestheticvoyager.github.io/tags/second-derivatives/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/second-derivatives/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Second Order Optimization</title>
+      <link>https://aestheticvoyager.github.io/tags/second-order-optimization/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/second-order-optimization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stochastic Gradient Descent</title>
+      <link>https://aestheticvoyager.github.io/tags/stochastic-gradient-descent/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/stochastic-gradient-descent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tensor Parallelism</title>
+      <link>https://aestheticvoyager.github.io/tags/tensor-parallelism/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/tensor-parallelism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Weight Scaling</title>
+      <link>https://aestheticvoyager.github.io/tags/weight-scaling/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/weight-scaling/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ZeRO-1</title>
+      <link>https://aestheticvoyager.github.io/tags/zero-1/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/zero-1/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Acc</title>
+      <link>https://aestheticvoyager.github.io/tags/acc/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/acc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accelerationism</title>
+      <link>https://aestheticvoyager.github.io/tags/accelerationism/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/accelerationism/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Alex Karp</title>
+      <link>https://aestheticvoyager.github.io/tags/alex-karp/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/alex-karp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Baudrillard</title>
+      <link>https://aestheticvoyager.github.io/tags/baudrillard/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/baudrillard/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>CEO</title>
+      <link>https://aestheticvoyager.github.io/tags/ceo/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/ceo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Curtis Yarvin</title>
+      <link>https://aestheticvoyager.github.io/tags/curtis-yarvin/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/curtis-yarvin/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cyberpunk</title>
+      <link>https://aestheticvoyager.github.io/tags/cyberpunk/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/cyberpunk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Elon Musk</title>
+      <link>https://aestheticvoyager.github.io/tags/elon-musk/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/elon-musk/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mencius</title>
+      <link>https://aestheticvoyager.github.io/tags/mencius/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/mencius/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mencius Moldbug</title>
+      <link>https://aestheticvoyager.github.io/tags/mencius-moldbug/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/mencius-moldbug/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Moldbug</title>
+      <link>https://aestheticvoyager.github.io/tags/moldbug/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/moldbug/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Nick Land</title>
+      <link>https://aestheticvoyager.github.io/tags/nick-land/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/nick-land/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NRx</title>
+      <link>https://aestheticvoyager.github.io/tags/nrx/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/nrx/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paypal</title>
+      <link>https://aestheticvoyager.github.io/tags/paypal/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/paypal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Peter Thiel</title>
+      <link>https://aestheticvoyager.github.io/tags/peter-thiel/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/peter-thiel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech-Right</title>
+      <link>https://aestheticvoyager.github.io/tags/tech-right/</link>
+      <pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/tech-right/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Affect</title>
+      <link>https://aestheticvoyager.github.io/tags/affect/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/affect/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Graph</title>
+      <link>https://aestheticvoyager.github.io/tags/graph/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/graph/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Graph Theory</title>
+      <link>https://aestheticvoyager.github.io/tags/graph-theory/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/graph-theory/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>https://aestheticvoyager.github.io/tags/networks/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/networks/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shrinking World</title>
+      <link>https://aestheticvoyager.github.io/tags/shrinking-world/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/shrinking-world/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Small-World</title>
+      <link>https://aestheticvoyager.github.io/tags/small-world/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/small-world/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Social Distance</title>
+      <link>https://aestheticvoyager.github.io/tags/social-distance/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/social-distance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Spread of Ideas</title>
+      <link>https://aestheticvoyager.github.io/tags/spread-of-ideas/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/spread-of-ideas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Advanced Prosthetics</title>
+      <link>https://aestheticvoyager.github.io/tags/advanced-prosthetics/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/advanced-prosthetics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Amphibious Vehicles</title>
+      <link>https://aestheticvoyager.github.io/tags/amphibious-vehicles/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/amphibious-vehicles/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Brain-Computer Interfaces</title>
+      <link>https://aestheticvoyager.github.io/tags/brain-computer-interfaces/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/brain-computer-interfaces/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cargo Pants</title>
+      <link>https://aestheticvoyager.github.io/tags/cargo-pants/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/cargo-pants/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Computer Mouse</title>
+      <link>https://aestheticvoyager.github.io/tags/computer-mouse/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/computer-mouse/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DARPA</title>
+      <link>https://aestheticvoyager.github.io/tags/darpa/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/darpa/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>DARPANET</title>
+      <link>https://aestheticvoyager.github.io/tags/darpanet/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/darpanet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Drones</title>
+      <link>https://aestheticvoyager.github.io/tags/drones/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/drones/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>ENIAC</title>
+      <link>https://aestheticvoyager.github.io/tags/eniac/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/eniac/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>FiberOptics</title>
+      <link>https://aestheticvoyager.github.io/tags/fiberoptics/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/fiberoptics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Flat-Screen Displays</title>
+      <link>https://aestheticvoyager.github.io/tags/flat-screen-displays/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/flat-screen-displays/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Graphical User Interface</title>
+      <link>https://aestheticvoyager.github.io/tags/graphical-user-interface/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/graphical-user-interface/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://aestheticvoyager.github.io/tags/internet/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/internet/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jeep</title>
+      <link>https://aestheticvoyager.github.io/tags/jeep/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/jeep/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jet Engines</title>
+      <link>https://aestheticvoyager.github.io/tags/jet-engines/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/jet-engines/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kevlar</title>
+      <link>https://aestheticvoyager.github.io/tags/kevlar/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/kevlar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Medical and Health Innovations</title>
+      <link>https://aestheticvoyager.github.io/tags/medical-and-health-innovations/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/medical-and-health-innovations/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Microwave Oven</title>
+      <link>https://aestheticvoyager.github.io/tags/microwave-oven/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/microwave-oven/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>NanoTech</title>
+      <link>https://aestheticvoyager.github.io/tags/nanotech/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/nanotech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Night Vision Goggles</title>
+      <link>https://aestheticvoyager.github.io/tags/night-vision-goggles/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/night-vision-goggles/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Radar</title>
+      <link>https://aestheticvoyager.github.io/tags/radar/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/radar/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Satellite Communications</title>
+      <link>https://aestheticvoyager.github.io/tags/satellite-communications/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/satellite-communications/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Super Glue</title>
+      <link>https://aestheticvoyager.github.io/tags/super-glue/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/super-glue/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>United States</title>
+      <link>https://aestheticvoyager.github.io/tags/united-states/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/united-states/</guid>
       <description></description>
       
     </item>
@@ -22,7 +1415,7 @@
       <title>Continuity/Semi-Continuity</title>
       <link>https://aestheticvoyager.github.io/tags/continuity/semi-continuity/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/continuity/semi-continuity/</guid>
       <description></description>
       
@@ -32,7 +1425,7 @@
       <title>Convex Analysis</title>
       <link>https://aestheticvoyager.github.io/tags/convex-analysis/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/convex-analysis/</guid>
       <description></description>
       
@@ -42,7 +1435,7 @@
       <title>Differential Equations</title>
       <link>https://aestheticvoyager.github.io/tags/differential-equations/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/differential-equations/</guid>
       <description></description>
       
@@ -52,7 +1445,7 @@
       <title>Dynamical Systems</title>
       <link>https://aestheticvoyager.github.io/tags/dynamical-systems/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/dynamical-systems/</guid>
       <description></description>
       
@@ -62,7 +1455,7 @@
       <title>Economics</title>
       <link>https://aestheticvoyager.github.io/tags/economics/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/economics/</guid>
       <description></description>
       
@@ -72,7 +1465,7 @@
       <title>Equilibrium Concepts</title>
       <link>https://aestheticvoyager.github.io/tags/equilibrium-concepts/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/equilibrium-concepts/</guid>
       <description></description>
       
@@ -82,7 +1475,7 @@
       <title>Fixed-Point Theorems</title>
       <link>https://aestheticvoyager.github.io/tags/fixed-point-theorems/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/fixed-point-theorems/</guid>
       <description></description>
       
@@ -92,7 +1485,7 @@
       <title>Game Theory</title>
       <link>https://aestheticvoyager.github.io/tags/game-theory/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/game-theory/</guid>
       <description></description>
       
@@ -102,7 +1495,7 @@
       <title>John Nash</title>
       <link>https://aestheticvoyager.github.io/tags/john-nash/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/john-nash/</guid>
       <description></description>
       
@@ -112,7 +1505,7 @@
       <title>John Von Neumann</title>
       <link>https://aestheticvoyager.github.io/tags/john-von-neumann/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/john-von-neumann/</guid>
       <description></description>
       
@@ -122,18 +1515,8 @@
       <title>Mathematical Foundations</title>
       <link>https://aestheticvoyager.github.io/tags/mathematical-foundations/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/mathematical-foundations/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Mathematics</title>
-      <link>https://aestheticvoyager.github.io/tags/mathematics/</link>
-      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/mathematics/</guid>
       <description></description>
       
     </item>
@@ -142,7 +1525,7 @@
       <title>Nash Equilibrium</title>
       <link>https://aestheticvoyager.github.io/tags/nash-equilibrium/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/nash-equilibrium/</guid>
       <description></description>
       
@@ -152,7 +1535,7 @@
       <title>Non-Zero-Sum Games</title>
       <link>https://aestheticvoyager.github.io/tags/non-zero-sum-games/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/non-zero-sum-games/</guid>
       <description></description>
       
@@ -162,7 +1545,7 @@
       <title>Operator Theory</title>
       <link>https://aestheticvoyager.github.io/tags/operator-theory/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/operator-theory/</guid>
       <description></description>
       
@@ -172,7 +1555,7 @@
       <title>Optimization Theory</title>
       <link>https://aestheticvoyager.github.io/tags/optimization-theory/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/optimization-theory/</guid>
       <description></description>
       
@@ -182,7 +1565,7 @@
       <title>Oskar Morgenstern</title>
       <link>https://aestheticvoyager.github.io/tags/oskar-morgenstern/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/oskar-morgenstern/</guid>
       <description></description>
       
@@ -192,7 +1575,7 @@
       <title>Topology</title>
       <link>https://aestheticvoyager.github.io/tags/topology/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/topology/</guid>
       <description></description>
       
@@ -202,7 +1585,7 @@
       <title>Variational Inequalities</title>
       <link>https://aestheticvoyager.github.io/tags/variational-inequalities/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/variational-inequalities/</guid>
       <description></description>
       
@@ -212,7 +1595,7 @@
       <title>Zero-Sum Games</title>
       <link>https://aestheticvoyager.github.io/tags/zero-sum-games/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/zero-sum-games/</guid>
       <description></description>
       
@@ -222,7 +1605,7 @@
       <title>Active Learning</title>
       <link>https://aestheticvoyager.github.io/tags/active-learning/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/active-learning/</guid>
       <description></description>
       
@@ -232,7 +1615,7 @@
       <title>Classification</title>
       <link>https://aestheticvoyager.github.io/tags/classification/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/classification/</guid>
       <description></description>
       
@@ -242,7 +1625,7 @@
       <title>Consumer Society</title>
       <link>https://aestheticvoyager.github.io/tags/consumer-society/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/consumer-society/</guid>
       <description></description>
       
@@ -252,7 +1635,7 @@
       <title>Cultural Theory</title>
       <link>https://aestheticvoyager.github.io/tags/cultural-theory/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/cultural-theory/</guid>
       <description></description>
       
@@ -262,7 +1645,7 @@
       <title>Data Science</title>
       <link>https://aestheticvoyager.github.io/tags/data-science/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/data-science/</guid>
       <description></description>
       
@@ -272,7 +1655,7 @@
       <title>Film</title>
       <link>https://aestheticvoyager.github.io/tags/film/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/film/</guid>
       <description></description>
       
@@ -282,7 +1665,7 @@
       <title>Gulf War</title>
       <link>https://aestheticvoyager.github.io/tags/gulf-war/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/gulf-war/</guid>
       <description></description>
       
@@ -292,7 +1675,7 @@
       <title>Hyperreality</title>
       <link>https://aestheticvoyager.github.io/tags/hyperreality/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/hyperreality/</guid>
       <description></description>
       
@@ -302,18 +1685,8 @@
       <title>Image Classification</title>
       <link>https://aestheticvoyager.github.io/tags/image-classification/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/image-classification/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://aestheticvoyager.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/machine-learning/</guid>
       <description></description>
       
     </item>
@@ -322,7 +1695,7 @@
       <title>Marxism</title>
       <link>https://aestheticvoyager.github.io/tags/marxism/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/marxism/</guid>
       <description></description>
       
@@ -332,7 +1705,7 @@
       <title>Media</title>
       <link>https://aestheticvoyager.github.io/tags/media/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/media/</guid>
       <description></description>
       
@@ -342,7 +1715,7 @@
       <title>Philosophy</title>
       <link>https://aestheticvoyager.github.io/tags/philosophy/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/philosophy/</guid>
       <description></description>
       
@@ -352,7 +1725,7 @@
       <title>Postmodernism</title>
       <link>https://aestheticvoyager.github.io/tags/postmodernism/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/postmodernism/</guid>
       <description></description>
       
@@ -362,7 +1735,7 @@
       <title>Python</title>
       <link>https://aestheticvoyager.github.io/tags/python/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/python/</guid>
       <description></description>
       
@@ -372,7 +1745,7 @@
       <title>Semiotics</title>
       <link>https://aestheticvoyager.github.io/tags/semiotics/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/semiotics/</guid>
       <description></description>
       
@@ -382,7 +1755,7 @@
       <title>Simulacrum</title>
       <link>https://aestheticvoyager.github.io/tags/simulacrum/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/simulacrum/</guid>
       <description></description>
       
@@ -392,7 +1765,7 @@
       <title>Simulation</title>
       <link>https://aestheticvoyager.github.io/tags/simulation/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/simulation/</guid>
       <description></description>
       
@@ -402,7 +1775,7 @@
       <title>Sociology</title>
       <link>https://aestheticvoyager.github.io/tags/sociology/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/sociology/</guid>
       <description></description>
       
@@ -412,7 +1785,7 @@
       <title>Text Classification</title>
       <link>https://aestheticvoyager.github.io/tags/text-classification/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/text-classification/</guid>
       <description></description>
       
@@ -422,7 +1795,7 @@
       <title>The Matrix</title>
       <link>https://aestheticvoyager.github.io/tags/the-matrix/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/the-matrix/</guid>
       <description></description>
       
@@ -432,7 +1805,7 @@
       <title>Time Series Classification</title>
       <link>https://aestheticvoyager.github.io/tags/time-series-classification/</link>
       <pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/time-series-classification/</guid>
       <description></description>
       
@@ -442,7 +1815,7 @@
       <title>Adam Smith</title>
       <link>https://aestheticvoyager.github.io/tags/adam-smith/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/adam-smith/</guid>
       <description></description>
       
@@ -452,7 +1825,7 @@
       <title>David Hume</title>
       <link>https://aestheticvoyager.github.io/tags/david-hume/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/david-hume/</guid>
       <description></description>
       
@@ -462,7 +1835,7 @@
       <title>Georgism</title>
       <link>https://aestheticvoyager.github.io/tags/georgism/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/georgism/</guid>
       <description></description>
       
@@ -472,7 +1845,7 @@
       <title>Henry George</title>
       <link>https://aestheticvoyager.github.io/tags/henry-george/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/henry-george/</guid>
       <description></description>
       
@@ -482,7 +1855,7 @@
       <title>John Locke</title>
       <link>https://aestheticvoyager.github.io/tags/john-locke/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/john-locke/</guid>
       <description></description>
       
@@ -492,7 +1865,7 @@
       <title>Land Value Tax</title>
       <link>https://aestheticvoyager.github.io/tags/land-value-tax/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/land-value-tax/</guid>
       <description></description>
       
@@ -502,7 +1875,7 @@
       <title>LVT</title>
       <link>https://aestheticvoyager.github.io/tags/lvt/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/lvt/</guid>
       <description></description>
       
@@ -512,7 +1885,7 @@
       <title>Progress &amp; Poverty</title>
       <link>https://aestheticvoyager.github.io/tags/progress--poverty/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/progress--poverty/</guid>
       <description></description>
       
@@ -522,7 +1895,7 @@
       <title>Thomas Paine</title>
       <link>https://aestheticvoyager.github.io/tags/thomas-paine/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/thomas-paine/</guid>
       <description></description>
       
@@ -532,7 +1905,7 @@
       <title>Babalon</title>
       <link>https://aestheticvoyager.github.io/tags/babalon/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/babalon/</guid>
       <description></description>
       
@@ -542,7 +1915,7 @@
       <title>Jack Parsons</title>
       <link>https://aestheticvoyager.github.io/tags/jack-parsons/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/jack-parsons/</guid>
       <description></description>
       
@@ -552,7 +1925,7 @@
       <title>JPL</title>
       <link>https://aestheticvoyager.github.io/tags/jpl/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/jpl/</guid>
       <description></description>
       
@@ -562,7 +1935,7 @@
       <title>L.Ron Hubbard</title>
       <link>https://aestheticvoyager.github.io/tags/l.ron-hubbard/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/l.ron-hubbard/</guid>
       <description></description>
       
@@ -572,7 +1945,7 @@
       <title>NASA</title>
       <link>https://aestheticvoyager.github.io/tags/nasa/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/nasa/</guid>
       <description></description>
       
@@ -582,7 +1955,7 @@
       <title>Occult</title>
       <link>https://aestheticvoyager.github.io/tags/occult/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/occult/</guid>
       <description></description>
       
@@ -592,7 +1965,7 @@
       <title>Rocket</title>
       <link>https://aestheticvoyager.github.io/tags/rocket/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/rocket/</guid>
       <description></description>
       
@@ -602,7 +1975,7 @@
       <title>Rocket Science</title>
       <link>https://aestheticvoyager.github.io/tags/rocket-science/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/rocket-science/</guid>
       <description></description>
       
@@ -612,7 +1985,7 @@
       <title>Sex Magic</title>
       <link>https://aestheticvoyager.github.io/tags/sex-magic/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/sex-magic/</guid>
       <description></description>
       
@@ -622,7 +1995,7 @@
       <title>Suicide Squad</title>
       <link>https://aestheticvoyager.github.io/tags/suicide-squad/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/suicide-squad/</guid>
       <description></description>
       
@@ -632,7 +2005,7 @@
       <title>Thelema</title>
       <link>https://aestheticvoyager.github.io/tags/thelema/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/thelema/</guid>
       <description></description>
       
@@ -642,7 +2015,7 @@
       <title>Alchemy</title>
       <link>https://aestheticvoyager.github.io/tags/alchemy/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/alchemy/</guid>
       <description></description>
       
@@ -652,7 +2025,7 @@
       <title>Astronomy</title>
       <link>https://aestheticvoyager.github.io/tags/astronomy/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/astronomy/</guid>
       <description></description>
       
@@ -662,7 +2035,7 @@
       <title>Calculus</title>
       <link>https://aestheticvoyager.github.io/tags/calculus/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/calculus/</guid>
       <description></description>
       
@@ -672,7 +2045,7 @@
       <title>Code</title>
       <link>https://aestheticvoyager.github.io/tags/code/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/code/</guid>
       <description></description>
       
@@ -682,7 +2055,7 @@
       <title>CodeBreaking</title>
       <link>https://aestheticvoyager.github.io/tags/codebreaking/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/codebreaking/</guid>
       <description></description>
       
@@ -692,7 +2065,7 @@
       <title>Crucial Role of Alchemy in His Scientific Methods</title>
       <link>https://aestheticvoyager.github.io/tags/crucial-role-of-alchemy-in-his-scientific-methods/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/crucial-role-of-alchemy-in-his-scientific-methods/</guid>
       <description></description>
       
@@ -702,7 +2075,7 @@
       <title>Experimental Methodology</title>
       <link>https://aestheticvoyager.github.io/tags/experimental-methodology/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/experimental-methodology/</guid>
       <description></description>
       
@@ -712,7 +2085,7 @@
       <title>Laws of Motion</title>
       <link>https://aestheticvoyager.github.io/tags/laws-of-motion/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/laws-of-motion/</guid>
       <description></description>
       
@@ -722,7 +2095,7 @@
       <title>Legacy</title>
       <link>https://aestheticvoyager.github.io/tags/legacy/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/legacy/</guid>
       <description></description>
       
@@ -732,7 +2105,7 @@
       <title>Optics</title>
       <link>https://aestheticvoyager.github.io/tags/optics/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/optics/</guid>
       <description></description>
       
@@ -742,18 +2115,8 @@
       <title>Philosophical Context</title>
       <link>https://aestheticvoyager.github.io/tags/philosophical-context/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/philosophical-context/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Physics</title>
-      <link>https://aestheticvoyager.github.io/tags/physics/</link>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/physics/</guid>
       <description></description>
       
     </item>
@@ -762,7 +2125,7 @@
       <title>Sir Isaac Newton</title>
       <link>https://aestheticvoyager.github.io/tags/sir-isaac-newton/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/sir-isaac-newton/</guid>
       <description></description>
       
@@ -772,7 +2135,7 @@
       <title>Universal Gravitation</title>
       <link>https://aestheticvoyager.github.io/tags/universal-gravitation/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/universal-gravitation/</guid>
       <description></description>
       
@@ -782,7 +2145,7 @@
       <title>Anarchism</title>
       <link>https://aestheticvoyager.github.io/tags/anarchism/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/anarchism/</guid>
       <description></description>
       
@@ -792,7 +2155,7 @@
       <title>Anarchist</title>
       <link>https://aestheticvoyager.github.io/tags/anarchist/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/anarchist/</guid>
       <description></description>
       
@@ -802,7 +2165,7 @@
       <title>Anarchy</title>
       <link>https://aestheticvoyager.github.io/tags/anarchy/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/anarchy/</guid>
       <description></description>
       
@@ -812,7 +2175,7 @@
       <title>Decentralization</title>
       <link>https://aestheticvoyager.github.io/tags/decentralization/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/decentralization/</guid>
       <description></description>
       
@@ -822,7 +2185,7 @@
       <title>Libertarian</title>
       <link>https://aestheticvoyager.github.io/tags/libertarian/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/libertarian/</guid>
       <description></description>
       
@@ -832,7 +2195,7 @@
       <title>Manifesto</title>
       <link>https://aestheticvoyager.github.io/tags/manifesto/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/manifesto/</guid>
       <description></description>
       
@@ -842,7 +2205,7 @@
       <title>Politics</title>
       <link>https://aestheticvoyager.github.io/tags/politics/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/politics/</guid>
       <description></description>
       
@@ -852,58 +2215,8 @@
       <title>The Seasteading Institute</title>
       <link>https://aestheticvoyager.github.io/tags/the-seasteading-institute/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/the-seasteading-institute/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AI</title>
-      <link>https://aestheticvoyager.github.io/tags/ai/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/ai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>https://aestheticvoyager.github.io/tags/artificial-intelligence/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/artificial-intelligence/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://aestheticvoyager.github.io/tags/deep-learning/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/deep-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ML</title>
-      <link>https://aestheticvoyager.github.io/tags/ml/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/ml/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Neural Networks</title>
-      <link>https://aestheticvoyager.github.io/tags/neural-networks/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/neural-networks/</guid>
       <description></description>
       
     </item>
@@ -912,7 +2225,7 @@
       <title>Pioneers</title>
       <link>https://aestheticvoyager.github.io/tags/pioneers/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/pioneers/</guid>
       <description></description>
       
@@ -922,7 +2235,7 @@
       <title>Behavioral Design Patterns</title>
       <link>https://aestheticvoyager.github.io/tags/behavioral-design-patterns/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/behavioral-design-patterns/</guid>
       <description></description>
       
@@ -932,7 +2245,7 @@
       <title>C&#43;&#43;</title>
       <link>https://aestheticvoyager.github.io/tags/c&#43;&#43;/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/c&#43;&#43;/</guid>
       <description></description>
       
@@ -942,7 +2255,7 @@
       <title>Creational Design Patterns</title>
       <link>https://aestheticvoyager.github.io/tags/creational-design-patterns/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/creational-design-patterns/</guid>
       <description></description>
       
@@ -952,7 +2265,7 @@
       <title>Design Patterns</title>
       <link>https://aestheticvoyager.github.io/tags/design-patterns/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/design-patterns/</guid>
       <description></description>
       
@@ -962,7 +2275,7 @@
       <title>Gang of Four</title>
       <link>https://aestheticvoyager.github.io/tags/gang-of-four/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/gang-of-four/</guid>
       <description></description>
       
@@ -972,7 +2285,7 @@
       <title>GoF</title>
       <link>https://aestheticvoyager.github.io/tags/gof/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/gof/</guid>
       <description></description>
       
@@ -982,7 +2295,7 @@
       <title>OOP</title>
       <link>https://aestheticvoyager.github.io/tags/oop/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/oop/</guid>
       <description></description>
       
@@ -992,7 +2305,7 @@
       <title>Software Design</title>
       <link>https://aestheticvoyager.github.io/tags/software-design/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/software-design/</guid>
       <description></description>
       
@@ -1002,7 +2315,7 @@
       <title>Structural Design Patterns</title>
       <link>https://aestheticvoyager.github.io/tags/structural-design-patterns/</link>
       <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/structural-design-patterns/</guid>
       <description></description>
       
@@ -1012,7 +2325,7 @@
       <title>LLMs</title>
       <link>https://aestheticvoyager.github.io/tags/llms/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/llms/</guid>
       <description></description>
       
@@ -1022,7 +2335,7 @@
       <title>NLP</title>
       <link>https://aestheticvoyager.github.io/tags/nlp/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/nlp/</guid>
       <description></description>
       
@@ -1032,8 +2345,78 @@
       <title>SLMs</title>
       <link>https://aestheticvoyager.github.io/tags/slms/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/slms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>F3Net</title>
+      <link>https://aestheticvoyager.github.io/tags/f3net/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/f3net/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Object Detection</title>
+      <link>https://aestheticvoyager.github.io/tags/object-detection/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/object-detection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Salient</title>
+      <link>https://aestheticvoyager.github.io/tags/salient/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/salient/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Salient Object Detection</title>
+      <link>https://aestheticvoyager.github.io/tags/salient-object-detection/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/salient-object-detection/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SDD</title>
+      <link>https://aestheticvoyager.github.io/tags/sdd/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/sdd/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Segmentation</title>
+      <link>https://aestheticvoyager.github.io/tags/segmentation/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/segmentation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Segmenting</title>
+      <link>https://aestheticvoyager.github.io/tags/segmenting/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/segmenting/</guid>
       <description></description>
       
     </item>
@@ -1041,8 +2424,8 @@
     <item>
       <title>Cognitive</title>
       <link>https://aestheticvoyager.github.io/tags/cognitive/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/cognitive/</guid>
       <description></description>
       
@@ -1051,8 +2434,8 @@
     <item>
       <title>Eye-Tracking</title>
       <link>https://aestheticvoyager.github.io/tags/eye-tracking/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/eye-tracking/</guid>
       <description></description>
       
@@ -1061,8 +2444,8 @@
     <item>
       <title>Image Processing</title>
       <link>https://aestheticvoyager.github.io/tags/image-processing/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/image-processing/</guid>
       <description></description>
       
@@ -1071,8 +2454,8 @@
     <item>
       <title>Medical Image Processing</title>
       <link>https://aestheticvoyager.github.io/tags/medical-image-processing/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/medical-image-processing/</guid>
       <description></description>
       
@@ -1081,8 +2464,8 @@
     <item>
       <title>QE</title>
       <link>https://aestheticvoyager.github.io/tags/qe/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/qe/</guid>
       <description></description>
       
@@ -1091,8 +2474,8 @@
     <item>
       <title>Quiet Eye</title>
       <link>https://aestheticvoyager.github.io/tags/quiet-eye/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/quiet-eye/</guid>
       <description></description>
       
@@ -1101,9 +2484,129 @@
     <item>
       <title>Research</title>
       <link>https://aestheticvoyager.github.io/tags/research/</link>
-      <pubDate>Tue, 24 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/research/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Driving Dynamics</title>
+      <link>https://aestheticvoyager.github.io/tags/driving-dynamics/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/driving-dynamics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gaming</title>
+      <link>https://aestheticvoyager.github.io/tags/gaming/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/gaming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gran Turismo</title>
+      <link>https://aestheticvoyager.github.io/tags/gran-turismo/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/gran-turismo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Innovative</title>
+      <link>https://aestheticvoyager.github.io/tags/innovative/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/innovative/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Polyphony Digital</title>
+      <link>https://aestheticvoyager.github.io/tags/polyphony-digital/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/polyphony-digital/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Q-Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/q-learning/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/q-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Race Track</title>
+      <link>https://aestheticvoyager.github.io/tags/race-track/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/race-track/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Racing</title>
+      <link>https://aestheticvoyager.github.io/tags/racing/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/racing/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning</title>
+      <link>https://aestheticvoyager.github.io/tags/reinforcement-learning/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/reinforcement-learning/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>RL</title>
+      <link>https://aestheticvoyager.github.io/tags/rl/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/rl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>SONY</title>
+      <link>https://aestheticvoyager.github.io/tags/sony/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/sony/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sophy</title>
+      <link>https://aestheticvoyager.github.io/tags/sophy/</link>
+      <pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/tags/sophy/</guid>
       <description></description>
       
     </item>
@@ -1112,18 +2615,8 @@
       <title>Backgammon</title>
       <link>https://aestheticvoyager.github.io/tags/backgammon/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/backgammon/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Reinforcement Learning</title>
-      <link>https://aestheticvoyager.github.io/tags/reinforcement-learning/</link>
-      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/reinforcement-learning/</guid>
       <description></description>
       
     </item>
@@ -1132,7 +2625,7 @@
       <title>TD-Gammon</title>
       <link>https://aestheticvoyager.github.io/tags/td-gammon/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/td-gammon/</guid>
       <description></description>
       
@@ -1142,18 +2635,8 @@
       <title>Temporal Difference Learning</title>
       <link>https://aestheticvoyager.github.io/tags/temporal-difference-learning/</link>
       <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/temporal-difference-learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Computer Vision</title>
-      <link>https://aestheticvoyager.github.io/tags/computer-vision/</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/computer-vision/</guid>
       <description></description>
       
     </item>
@@ -1162,7 +2645,7 @@
       <title>DeepFake</title>
       <link>https://aestheticvoyager.github.io/tags/deepfake/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/deepfake/</guid>
       <description></description>
       
@@ -1172,7 +2655,7 @@
       <title>Detection</title>
       <link>https://aestheticvoyager.github.io/tags/detection/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/detection/</guid>
       <description></description>
       
@@ -1182,28 +2665,8 @@
       <title>Meta-Data</title>
       <link>https://aestheticvoyager.github.io/tags/meta-data/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/meta-data/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>CNN</title>
-      <link>https://aestheticvoyager.github.io/tags/cnn/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/cnn/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Image Recognition</title>
-      <link>https://aestheticvoyager.github.io/tags/image-recognition/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/image-recognition/</guid>
       <description></description>
       
     </item>
@@ -1212,18 +2675,8 @@
       <title>Medical Image</title>
       <link>https://aestheticvoyager.github.io/tags/medical-image/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/medical-image/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Transformer</title>
-      <link>https://aestheticvoyager.github.io/tags/transformer/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/transformer/</guid>
       <description></description>
       
     </item>
@@ -1232,18 +2685,8 @@
       <title>Vision Transformer</title>
       <link>https://aestheticvoyager.github.io/tags/vision-transformer/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/vision-transformer/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>ViT</title>
-      <link>https://aestheticvoyager.github.io/tags/vit/</link>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/vit/</guid>
       <description></description>
       
     </item>
@@ -1252,7 +2695,7 @@
       <title>C</title>
       <link>https://aestheticvoyager.github.io/tags/c/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/c/</guid>
       <description></description>
       
@@ -1262,7 +2705,7 @@
       <title>FP</title>
       <link>https://aestheticvoyager.github.io/tags/fp/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/fp/</guid>
       <description></description>
       
@@ -1272,7 +2715,7 @@
       <title>Functional</title>
       <link>https://aestheticvoyager.github.io/tags/functional/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/functional/</guid>
       <description></description>
       
@@ -1282,7 +2725,7 @@
       <title>Paradigms</title>
       <link>https://aestheticvoyager.github.io/tags/paradigms/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/paradigms/</guid>
       <description></description>
       
@@ -1292,7 +2735,7 @@
       <title>Programming</title>
       <link>https://aestheticvoyager.github.io/tags/programming/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/programming/</guid>
       <description></description>
       
@@ -1302,7 +2745,7 @@
       <title>Prolog</title>
       <link>https://aestheticvoyager.github.io/tags/prolog/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/prolog/</guid>
       <description></description>
       
@@ -1312,7 +2755,7 @@
       <title>Rust</title>
       <link>https://aestheticvoyager.github.io/tags/rust/</link>
       <pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/rust/</guid>
       <description></description>
       
@@ -1322,7 +2765,7 @@
       <title>AlexNet</title>
       <link>https://aestheticvoyager.github.io/tags/alexnet/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/alexnet/</guid>
       <description></description>
       
@@ -1332,7 +2775,7 @@
       <title>CV</title>
       <link>https://aestheticvoyager.github.io/tags/cv/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/cv/</guid>
       <description></description>
       
@@ -1342,18 +2785,8 @@
       <title>Learning</title>
       <link>https://aestheticvoyager.github.io/tags/learning/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/learning/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Attention</title>
-      <link>https://aestheticvoyager.github.io/tags/attention/</link>
-      <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/attention/</guid>
       <description></description>
       
     </item>
@@ -1362,7 +2795,7 @@
       <title>RNN</title>
       <link>https://aestheticvoyager.github.io/tags/rnn/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/rnn/</guid>
       <description></description>
       
@@ -1372,7 +2805,7 @@
       <title>Softmax</title>
       <link>https://aestheticvoyager.github.io/tags/softmax/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/softmax/</guid>
       <description></description>
       
@@ -1382,7 +2815,7 @@
       <title>Diffusion</title>
       <link>https://aestheticvoyager.github.io/tags/diffusion/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/diffusion/</guid>
       <description></description>
       
@@ -1392,7 +2825,7 @@
       <title>GAN</title>
       <link>https://aestheticvoyager.github.io/tags/gan/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/gan/</guid>
       <description></description>
       
@@ -1402,7 +2835,7 @@
       <title>Noise</title>
       <link>https://aestheticvoyager.github.io/tags/noise/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/noise/</guid>
       <description></description>
       
@@ -1412,7 +2845,7 @@
       <title>Black-Scholes</title>
       <link>https://aestheticvoyager.github.io/tags/black-scholes/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/black-scholes/</guid>
       <description></description>
       
@@ -1422,7 +2855,7 @@
       <title>Black-Scholes-Merton</title>
       <link>https://aestheticvoyager.github.io/tags/black-scholes-merton/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/black-scholes-merton/</guid>
       <description></description>
       
@@ -1432,7 +2865,7 @@
       <title>Economy</title>
       <link>https://aestheticvoyager.github.io/tags/economy/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/economy/</guid>
       <description></description>
       
@@ -1442,18 +2875,8 @@
       <title>HMM</title>
       <link>https://aestheticvoyager.github.io/tags/hmm/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/hmm/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Risk</title>
-      <link>https://aestheticvoyager.github.io/tags/risk/</link>
-      <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/risk/</guid>
       <description></description>
       
     </item>
@@ -1462,18 +2885,8 @@
       <title>Volatility</title>
       <link>https://aestheticvoyager.github.io/tags/volatility/</link>
       <pubDate>Sat, 03 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/volatility/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Algorithm</title>
-      <link>https://aestheticvoyager.github.io/tags/algorithm/</link>
-      <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/algorithm/</guid>
       <description></description>
       
     </item>
@@ -1482,7 +2895,7 @@
       <title>Google</title>
       <link>https://aestheticvoyager.github.io/tags/google/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/google/</guid>
       <description></description>
       
@@ -1492,7 +2905,7 @@
       <title>Linear Algebra</title>
       <link>https://aestheticvoyager.github.io/tags/linear-algebra/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/linear-algebra/</guid>
       <description></description>
       
@@ -1502,7 +2915,7 @@
       <title>PageRank</title>
       <link>https://aestheticvoyager.github.io/tags/pagerank/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/pagerank/</guid>
       <description></description>
       
@@ -1512,7 +2925,7 @@
       <title>Search Engine</title>
       <link>https://aestheticvoyager.github.io/tags/search-engine/</link>
       <pubDate>Fri, 02 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/search-engine/</guid>
       <description></description>
       
@@ -1522,7 +2935,7 @@
       <title>Austrian</title>
       <link>https://aestheticvoyager.github.io/tags/austrian/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/austrian/</guid>
       <description></description>
       
@@ -1532,7 +2945,7 @@
       <title>Keynesian</title>
       <link>https://aestheticvoyager.github.io/tags/keynesian/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/keynesian/</guid>
       <description></description>
       
@@ -1542,7 +2955,7 @@
       <title>Monetarist</title>
       <link>https://aestheticvoyager.github.io/tags/monetarist/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/monetarist/</guid>
       <description></description>
       
@@ -1552,7 +2965,7 @@
       <title>Supply</title>
       <link>https://aestheticvoyager.github.io/tags/supply/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/supply/</guid>
       <description></description>
       
@@ -1562,7 +2975,7 @@
       <title>Theory</title>
       <link>https://aestheticvoyager.github.io/tags/theory/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/theory/</guid>
       <description></description>
       
@@ -1572,7 +2985,7 @@
       <title>Data</title>
       <link>https://aestheticvoyager.github.io/tags/data/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/data/</guid>
       <description></description>
       
@@ -1582,7 +2995,7 @@
       <title>Data Analysis</title>
       <link>https://aestheticvoyager.github.io/tags/data-analysis/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/data-analysis/</guid>
       <description></description>
       
@@ -1592,7 +3005,7 @@
       <title>Data Engineer</title>
       <link>https://aestheticvoyager.github.io/tags/data-engineer/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/data-engineer/</guid>
       <description></description>
       
@@ -1602,7 +3015,7 @@
       <title>Content</title>
       <link>https://aestheticvoyager.github.io/tags/content/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/content/</guid>
       <description></description>
       
@@ -1612,7 +3025,7 @@
       <title>Context</title>
       <link>https://aestheticvoyager.github.io/tags/context/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/context/</guid>
       <description></description>
       
@@ -1622,7 +3035,7 @@
       <title>Creation</title>
       <link>https://aestheticvoyager.github.io/tags/creation/</link>
       <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/creation/</guid>
       <description></description>
       
@@ -1632,7 +3045,7 @@
       <title>CoGAN</title>
       <link>https://aestheticvoyager.github.io/tags/cogan/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/cogan/</guid>
       <description></description>
       
@@ -1642,7 +3055,7 @@
       <title>DCGAN</title>
       <link>https://aestheticvoyager.github.io/tags/dcgan/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/dcgan/</guid>
       <description></description>
       
@@ -1652,7 +3065,7 @@
       <title>Decoder</title>
       <link>https://aestheticvoyager.github.io/tags/decoder/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/decoder/</guid>
       <description></description>
       
@@ -1662,7 +3075,7 @@
       <title>Encoder</title>
       <link>https://aestheticvoyager.github.io/tags/encoder/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/encoder/</guid>
       <description></description>
       
@@ -1672,7 +3085,7 @@
       <title>PGGAN</title>
       <link>https://aestheticvoyager.github.io/tags/pggan/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/pggan/</guid>
       <description></description>
       
@@ -1682,7 +3095,7 @@
       <title>SGAN</title>
       <link>https://aestheticvoyager.github.io/tags/sgan/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/sgan/</guid>
       <description></description>
       
@@ -1692,7 +3105,7 @@
       <title>Vector</title>
       <link>https://aestheticvoyager.github.io/tags/vector/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/vector/</guid>
       <description></description>
       
@@ -1702,7 +3115,7 @@
       <title>AE</title>
       <link>https://aestheticvoyager.github.io/tags/ae/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/ae/</guid>
       <description></description>
       
@@ -1712,7 +3125,7 @@
       <title>Auto-Encoder</title>
       <link>https://aestheticvoyager.github.io/tags/auto-encoder/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/auto-encoder/</guid>
       <description></description>
       
@@ -1722,7 +3135,7 @@
       <title>Compression</title>
       <link>https://aestheticvoyager.github.io/tags/compression/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/compression/</guid>
       <description></description>
       
@@ -1732,7 +3145,7 @@
       <title>Supervised Learning</title>
       <link>https://aestheticvoyager.github.io/tags/supervised-learning/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/supervised-learning/</guid>
       <description></description>
       
@@ -1742,7 +3155,7 @@
       <title>VAE</title>
       <link>https://aestheticvoyager.github.io/tags/vae/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/vae/</guid>
       <description></description>
       
@@ -1752,7 +3165,7 @@
       <title>Variational-Auto-Encoder</title>
       <link>https://aestheticvoyager.github.io/tags/variational-auto-encoder/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/variational-auto-encoder/</guid>
       <description></description>
       
@@ -1762,7 +3175,7 @@
       <title>CG</title>
       <link>https://aestheticvoyager.github.io/tags/cg/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/cg/</guid>
       <description></description>
       
@@ -1772,7 +3185,7 @@
       <title>Computational Geometry</title>
       <link>https://aestheticvoyager.github.io/tags/computational-geometry/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/computational-geometry/</guid>
       <description></description>
       
@@ -1782,18 +3195,8 @@
       <title>Graphics</title>
       <link>https://aestheticvoyager.github.io/tags/graphics/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/graphics/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Triangulation</title>
-      <link>https://aestheticvoyager.github.io/tags/triangulation/</link>
-      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/triangulation/</guid>
       <description></description>
       
     </item>
@@ -1802,7 +3205,7 @@
       <title>Voronoi</title>
       <link>https://aestheticvoyager.github.io/tags/voronoi/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/voronoi/</guid>
       <description></description>
       
@@ -1812,7 +3215,7 @@
       <title>Mislead</title>
       <link>https://aestheticvoyager.github.io/tags/mislead/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/mislead/</guid>
       <description></description>
       
@@ -1822,7 +3225,7 @@
       <title>Paltering</title>
       <link>https://aestheticvoyager.github.io/tags/paltering/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/paltering/</guid>
       <description></description>
       
@@ -1832,7 +3235,7 @@
       <title>Done</title>
       <link>https://aestheticvoyager.github.io/tags/done/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/done/</guid>
       <description></description>
       
@@ -1842,18 +3245,8 @@
       <title>Image</title>
       <link>https://aestheticvoyager.github.io/tags/image/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/image/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Paper</title>
-      <link>https://aestheticvoyager.github.io/tags/paper/</link>
-      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/paper/</guid>
       <description></description>
       
     </item>
@@ -1862,7 +3255,7 @@
       <title>Stipple</title>
       <link>https://aestheticvoyager.github.io/tags/stipple/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/stipple/</guid>
       <description></description>
       
@@ -1872,7 +3265,7 @@
       <title>Hidden</title>
       <link>https://aestheticvoyager.github.io/tags/hidden/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/hidden/</guid>
       <description></description>
       
@@ -1882,7 +3275,7 @@
       <title>Hidden Markov Models</title>
       <link>https://aestheticvoyager.github.io/tags/hidden-markov-models/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/hidden-markov-models/</guid>
       <description></description>
       
@@ -1892,18 +3285,8 @@
       <title>Pattern</title>
       <link>https://aestheticvoyager.github.io/tags/pattern/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/pattern/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Statistics</title>
-      <link>https://aestheticvoyager.github.io/tags/statistics/</link>
-      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://aestheticvoyager.github.io/tags/statistics/</guid>
       <description></description>
       
     </item>
@@ -1912,7 +3295,7 @@
       <title>Diagram</title>
       <link>https://aestheticvoyager.github.io/tags/diagram/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/diagram/</guid>
       <description></description>
       
@@ -1922,7 +3305,7 @@
       <title>Explanation</title>
       <link>https://aestheticvoyager.github.io/tags/explanation/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/explanation/</guid>
       <description></description>
       
@@ -1932,7 +3315,7 @@
       <title>Gzip</title>
       <link>https://aestheticvoyager.github.io/tags/gzip/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/gzip/</guid>
       <description></description>
       
@@ -1942,7 +3325,7 @@
       <title>Kolmogorov</title>
       <link>https://aestheticvoyager.github.io/tags/kolmogorov/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/kolmogorov/</guid>
       <description></description>
       
@@ -1952,7 +3335,7 @@
       <title>Text</title>
       <link>https://aestheticvoyager.github.io/tags/text/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/text/</guid>
       <description></description>
       
@@ -1962,7 +3345,7 @@
       <title>Edge Detection</title>
       <link>https://aestheticvoyager.github.io/tags/edge-detection/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/edge-detection/</guid>
       <description></description>
       
@@ -1972,7 +3355,7 @@
       <title>Gaussian</title>
       <link>https://aestheticvoyager.github.io/tags/gaussian/</link>
       <pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/gaussian/</guid>
       <description></description>
       
@@ -1982,7 +3365,7 @@
       <title>LLM</title>
       <link>https://aestheticvoyager.github.io/tags/llm/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/llm/</guid>
       <description></description>
       
@@ -1992,7 +3375,7 @@
       <title>Filter</title>
       <link>https://aestheticvoyager.github.io/tags/filter/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/filter/</guid>
       <description></description>
       
@@ -2002,7 +3385,7 @@
       <title>Kuwahara</title>
       <link>https://aestheticvoyager.github.io/tags/kuwahara/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/kuwahara/</guid>
       <description></description>
       
@@ -2012,7 +3395,7 @@
       <title>Dither</title>
       <link>https://aestheticvoyager.github.io/tags/dither/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/dither/</guid>
       <description></description>
       
@@ -2022,7 +3405,7 @@
       <title>Fitler</title>
       <link>https://aestheticvoyager.github.io/tags/fitler/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/tags/fitler/</guid>
       <description></description>
       

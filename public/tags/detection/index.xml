@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Detection on AesVoy</title>
+    <title>Detection on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/detection/</link>
-    <description>Recent content in Detection on AesVoy</description>
+    <description>Recent content in Detection on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/detection/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>DeepFake Detection Methods</title>
       <link>https://aestheticvoyager.github.io/posts/deepfakedetection/</link>
       <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/deepfakedetection/</guid>
       <description>In this blog post, we explore the topic of image generators and their detection techniques. I&amp;rsquo;ll discuss various methods for detecting image generators and their manipulations. These include analyzing the visual content of an image, examining its metadata, and using machine learning algorithms to identify patterns in the data.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/deepfakedetection/featured.png" />

@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Analysis on AesVoy</title>
+    <title>Data Analysis on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/data-analysis/</link>
-    <description>Recent content in Data Analysis on AesVoy</description>
+    <description>Recent content in Data Analysis on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Diverse Roles in Data Science</title>
       <link>https://aestheticvoyager.github.io/posts/datanerd/</link>
       <pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/datanerd/</guid>
       <description>In the rapidly evolving field of data science, several specialized roles have emerged to tackle various aspects of data management, analysis, and implementation. Among these roles, data scientists, data analysts, and data engineers are some of the most prominent.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/datanerd/featured.webp" />
@@ -22,7 +25,7 @@
       <title>Hidden Markov Models</title>
       <link>https://aestheticvoyager.github.io/posts/hidden-markov-models/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/hidden-markov-models/</guid>
       <description>Hidden Markov Models (HMMs) are statistical models used for sequential data analysis, where underlying states are inferred from observed data. Employed in speech recognition, bioinformatics, and more.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/hidden-markov-models/featured.jpg" />

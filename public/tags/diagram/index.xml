@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Diagram on AesVoy</title>
+    <title>Diagram on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/diagram/</link>
-    <description>Recent content in Diagram on AesVoy</description>
+    <description>Recent content in Diagram on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/diagram/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Voronoi Diagram</title>
       <link>https://aestheticvoyager.github.io/posts/voronoi-diagram/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/voronoi-diagram/</guid>
       <description>Voronoi diagrams, also known as Dirichlet tessellation or Thiessen polygons, are everywhere in nature. You’ve likely encountered them thousands of times, but perhaps didn’t know what they were called.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/voronoi-diagram/featured.png" />

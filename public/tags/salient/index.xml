@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salient on Aesvoy</title>
+    <link>https://aestheticvoyager.github.io/tags/salient/</link>
+    <description>Recent content in Salient on Aesvoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
+    <copyright>© 2025 Mahan</copyright>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/salient/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Salient Object Detection</title>
+      <link>https://aestheticvoyager.github.io/posts/salientobjectdetection/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/salientobjectdetection/</guid>
+      <description>Salient object detection (SOD) is a crucial task in computer vision that focuses on identifying and segmenting the most visually distinctive objects or regions within an image. The primary aim of SOD is to mimic human visual attention, allowing algorithms to highlight areas that are likely to attract a viewer&amp;rsquo;s focus.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/salientobjectdetection/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

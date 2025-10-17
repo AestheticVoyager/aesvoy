@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mathematics on AesVoy</title>
+    <title>Mathematics on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/mathematics/</link>
-    <description>Recent content in Mathematics on AesVoy</description>
+    <description>Recent content in Mathematics on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
-    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ironic Life of John Kelly</title>
+      <link>https://aestheticvoyager.github.io/posts/jokelly/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/jokelly/</guid>
+      <description>John Larry Kelly Jr. (December 26, 1923 – March 18, 1965), was an American scientist who worked at Bell Labs. From a system he&amp;rsquo;d developed to analyze information transmitted over networks, he created the Kelly Criterion, a formula that predicts the best way to bet or invest money. He was also a pioneer in the field of computer science and artificial intelligence.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/jokelly/feature.png" />
+    </item>
+    
+    <item>
+      <title>Six Degrees of Seperation</title>
+      <link>https://aestheticvoyager.github.io/posts/sds/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/sds/</guid>
+      <description>The &lt;strong&gt;six degrees of separation&lt;/strong&gt; hypothesis proposes that &lt;strong&gt;any two people on Earth can be connected through a chain involving no more than six social connections (five intermediaries)&lt;/strong&gt;. In other words, you are only six introductions away from knowing anyone in the world, no matter how distant or different they may seem.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/sds/feature.jpeg" />
+    </item>
+    
     <item>
       <title>Game Theory-Mathematical Approach to Strategic Decision-Making</title>
       <link>https://aestheticvoyager.github.io/posts/game-theory/</link>
       <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/game-theory/</guid>
       <description>Game theory is a fascinating field that studies strategic interactions where the outcome for each participant depends not only on their own decisions but also on the decisions of others. It originated in 1928 when John von Neumann analyzed parlour games and quickly realized that his mathematical approaches could be applied to economic problems and beyond. Von Neumann, along with Oskar Morgenstern, formalized these ideas in their seminal 1944 work, Theory of Games and Economic Behavior, laying the foundation for modern game theory.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/game-theory/feature.jpeg" />
@@ -22,7 +45,7 @@
       <title>Sir Isaac Newton</title>
       <link>https://aestheticvoyager.github.io/posts/isaacnewton/</link>
       <pubDate>Tue, 04 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/isaacnewton/</guid>
       <description>Sir Isaac Newton, born on December 25, 1642, in Woolsthorpe, England, is often regarded as one of the most influential scientists in history. His interest in Alchemy and Theology led him to explore the intersection of science and philosophy, ultimately shaping the scientific methodology and philosophical outlook.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/isaacnewton/feature.png" />

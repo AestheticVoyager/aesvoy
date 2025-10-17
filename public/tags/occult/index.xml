@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Occult on AesVoy</title>
+    <title>Occult on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/occult/</link>
-    <description>Recent content in Occult on AesVoy</description>
+    <description>Recent content in Occult on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/occult/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Jack Parsons-Rockets &amp; SexMagic</title>
       <link>https://aestheticvoyager.github.io/posts/jackparsons/</link>
       <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/jackparsons/</guid>
       <description>This blog post explores the extraordinary life of Jack Parsons, a pioneering rocket scientist and occultist. Parsons co-founded the Jet Propulsion Laboratory (JPL) and developed crucial technologies like JATO, laying the groundwork for NASA&amp;rsquo;s success. His personal life was marked by intense involvement in Thelema and sex magic rituals, adding a layer of intrigue to his legacy.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/jackparsons/feature.jpeg" />

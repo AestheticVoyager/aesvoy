@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spread of Ideas on Aesvoy</title>
+    <link>https://aestheticvoyager.github.io/tags/spread-of-ideas/</link>
+    <description>Recent content in Spread of Ideas on Aesvoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
+    <copyright>© 2025 Mahan</copyright>
+    <lastBuildDate>Wed, 16 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/spread-of-ideas/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Six Degrees of Seperation</title>
+      <link>https://aestheticvoyager.github.io/posts/sds/</link>
+      <pubDate>Wed, 16 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/sds/</guid>
+      <description>The &lt;strong&gt;six degrees of separation&lt;/strong&gt; hypothesis proposes that &lt;strong&gt;any two people on Earth can be connected through a chain involving no more than six social connections (five intermediaries)&lt;/strong&gt;. In other words, you are only six introductions away from knowing anyone in the world, no matter how distant or different they may seem.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/sds/feature.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LeNet-5 on Aesvoy</title>
+    <link>https://aestheticvoyager.github.io/tags/lenet-5/</link>
+    <description>Recent content in LeNet-5 on Aesvoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
+    <copyright>© 2025 Mahan</copyright>
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/lenet-5/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gradient-Based Learning Applied to Document Recognition</title>
+      <link>https://aestheticvoyager.github.io/posts/lenet-5/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/lenet-5/</guid>
+      <description>LeNet-5 is an early and very influential type of convolutional neural network (CNN) developed by Yann LeCun and his colleagues in 1998, designed mainly to recognize handwritten digits like those in the MNIST dataset. What makes LeNet-5 special is how it combines several clever ideas that allow it to efficiently and accurately understand images despite their complexity—ideas that were crucial stepping stones for today’s deep learning revolution.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/lenet-5/feature.jpeg" />
+    </item>
+    
+  </channel>
+</rss>

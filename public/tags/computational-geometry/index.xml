@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computational Geometry on AesVoy</title>
+    <title>Computational Geometry on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/computational-geometry/</link>
-    <description>Recent content in Computational Geometry on AesVoy</description>
+    <description>Recent content in Computational Geometry on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Sun, 26 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/computational-geometry/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Delaunay Triangulation</title>
       <link>https://aestheticvoyager.github.io/posts/delaunay-triangulation/</link>
       <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/delaunay-triangulation/</guid>
       <description>Delaunay triangulation is a process that takes a set of points in n-dimensional space as input and returns a network of triangles connecting these points. The resulting structure is called a triangulation or mesh.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/delaunay-triangulation/featured.jpg" />
@@ -22,7 +25,7 @@
       <title>Voronoi Diagram</title>
       <link>https://aestheticvoyager.github.io/posts/voronoi-diagram/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/voronoi-diagram/</guid>
       <description>Voronoi diagrams, also known as Dirichlet tessellation or Thiessen polygons, are everywhere in nature. You’ve likely encountered them thousands of times, but perhaps didn’t know what they were called.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/voronoi-diagram/featured.png" />

@@ -1,18 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI on AesVoy</title>
+    <title>AI on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/ai/</link>
-    <description>Recent content in AI on AesVoy</description>
+    <description>Recent content in AI on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
-    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gradient-Based Learning Applied to Document Recognition</title>
+      <link>https://aestheticvoyager.github.io/posts/lenet-5/</link>
+      <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/lenet-5/</guid>
+      <description>LeNet-5 is an early and very influential type of convolutional neural network (CNN) developed by Yann LeCun and his colleagues in 1998, designed mainly to recognize handwritten digits like those in the MNIST dataset. What makes LeNet-5 special is how it combines several clever ideas that allow it to efficiently and accurately understand images despite their complexity—ideas that were crucial stepping stones for today’s deep learning revolution.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/lenet-5/feature.jpeg" />
+    </item>
+    
+    <item>
+      <title>Ironic Life of John Kelly</title>
+      <link>https://aestheticvoyager.github.io/posts/jokelly/</link>
+      <pubDate>Tue, 22 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/jokelly/</guid>
+      <description>John Larry Kelly Jr. (December 26, 1923 – March 18, 1965), was an American scientist who worked at Bell Labs. From a system he&amp;rsquo;d developed to analyze information transmitted over networks, he created the Kelly Criterion, a formula that predicts the best way to bet or invest money. He was also a pioneer in the field of computer science and artificial intelligence.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/jokelly/feature.png" />
+    </item>
+    
     <item>
       <title>Pioneers of Machine Learning and Artificial Intelligence</title>
       <link>https://aestheticvoyager.github.io/posts/ai_pioneers/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/ai_pioneers/</guid>
       <description>The journey of pioneers in Machine Learning (ML) and Artificial Intelligence (AI) is a remarkable tale of innovation, collaboration, and the relentless pursuit of knowledge.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/ai_pioneers/feature.png" />
@@ -22,7 +45,7 @@
       <title>Small Language Models</title>
       <link>https://aestheticvoyager.github.io/posts/smalllanguagemodels/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/smalllanguagemodels/</guid>
       <description>Small Language Models (SLMs) are a specialized type of artificial intelligence designed for natural language processing (NLP) tasks. Unlike Large Language Models (LLMs), which are characterized by their vast size and extensive training datasets, SLMs are built to be more efficient and effective for specific applications.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/smalllanguagemodels/featured.jpg" />
@@ -32,7 +55,7 @@
       <title>From CNNs to Vision Transformers: The Future of Image Recognition</title>
       <link>https://aestheticvoyager.github.io/posts/vit/</link>
       <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/vit/</guid>
       <description>Vision Transformers (ViTs) are redefining image recognition by using Transformer models to capture global context, unlike traditional Convolutional Neural Networks (CNNs) that focus on local features. ViTs excel with large datasets and show impressive scalability and performance.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/vit/featured.png" />
@@ -42,7 +65,7 @@
       <title>imageNet-Computer Vision Backbone</title>
       <link>https://aestheticvoyager.github.io/posts/imagenet/</link>
       <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/imagenet/</guid>
       <description>ImageNet is more than just a dataset. The sheer scale of ImageNet, combined with its detailed labeling, made it essentially the backbone of Computer Vision.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/imagenet/featured.jpg" />
@@ -52,7 +75,7 @@
       <title>Transformers &amp; Attention</title>
       <link>https://aestheticvoyager.github.io/posts/attention-transformer/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/attention-transformer/</guid>
       <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/attention-transformer/featured.jpg" />
@@ -62,7 +85,7 @@
       <title>Diffusion VS Auto-Regressive Models</title>
       <link>https://aestheticvoyager.github.io/posts/diffusion-vs-auto-regressive/</link>
       <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/diffusion-vs-auto-regressive/</guid>
       <description>Generative AI has come a long way, producing stunning images from simple text prompts. But how do Diffusion and Auto-Regressive models work, and why are diffusion models preferred.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/diffusion-vs-auto-regressive/featured.jpg" />
@@ -72,7 +95,7 @@
       <title>AlexNet Revolution</title>
       <link>https://aestheticvoyager.github.io/posts/alexnet/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/alexnet/</guid>
       <description>In 2012, the field of artificial intelligence witnessed a seismic shift. The catalyst for this transformation was a deep learning model known as AlexNet.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/alexnet/featured.webp" />
@@ -82,7 +105,7 @@
       <title>Generative Adversarial Network</title>
       <link>https://aestheticvoyager.github.io/posts/generative-adversarial-network/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/generative-adversarial-network/</guid>
       <description>A neural network is like a highly sophisticated, multi-layered calculator that learns from data. It consists of numerous “neurons” (tiny calculators) connected in layers, with each layer performing a unique function to help the network make predictions or decisions.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/generative-adversarial-network/featured.jpeg" />
@@ -92,7 +115,7 @@
       <title>Variational-Auto-Encoder</title>
       <link>https://aestheticvoyager.github.io/posts/variational-auto-encoder/</link>
       <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/variational-auto-encoder/</guid>
       <description>The beauty of VAEs lies in their ability to generate new samples by randomly sampling vectors from this known region and then passing them through the generator part of our model.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/variational-auto-encoder/featured.jpeg" />
@@ -102,7 +125,7 @@
       <title>Auto-Encoder</title>
       <link>https://aestheticvoyager.github.io/posts/auto-encoder/</link>
       <pubDate>Mon, 27 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/auto-encoder/</guid>
       <description>An autoencoder begins its journey by compressing input data into a lower dimension. It then endeavors to reconstruct the original input from this compressed representation.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/auto-encoder/featured.jpeg" />
@@ -112,7 +135,7 @@
       <title>Softmax</title>
       <link>https://aestheticvoyager.github.io/posts/softmax/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/softmax/</guid>
       <description>Softmax stands as a pivotal component in neural network architectures, offering a means to convert raw scores into interpretable probabilities.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/softmax/featured.png" />

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Efficient Training on Aesvoy</title>
+    <link>https://aestheticvoyager.github.io/tags/efficient-training/</link>
+    <description>Recent content in Efficient Training on Aesvoy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
+    <copyright>© 2025 Mahan</copyright>
+    <lastBuildDate>Fri, 18 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/efficient-training/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Muon: Second Order Optimizer for Hidden Layers</title>
+      <link>https://aestheticvoyager.github.io/posts/muon/</link>
+      <pubDate>Fri, 18 Jul 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/muon/</guid>
+      <description>Muon is a second-order optimizer for deep learning models, designed to accelerate training and reduce memory usage. It leverages information about the curvature of the loss landscape to achieve faster convergence and more efficient memory utilization. By overcoming historical computational barriers and standardizing its usage, Muon brings the theoretical advantages of second-order optimization to the scale required for LLMs, potentially reshaping both practice and expectations in deep learning.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/muon/feature.png" />
+    </item>
+    
+  </channel>
+</rss>

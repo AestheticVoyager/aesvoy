@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Done on AesVoy</title>
+    <title>Done on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/done/</link>
-    <description>Recent content in Done on AesVoy</description>
+    <description>Recent content in Done on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
     <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/done/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Done Manifesto</title>
       <link>https://aestheticvoyager.github.io/posts/done-manifesto/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/done-manifesto/</guid>
       <description>In today&amp;rsquo;s fast-paced world, getting things done is crucial. The Done manifesto is all about embracing this mindset and applying it to your work.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/done-manifesto/featured.jpg" />

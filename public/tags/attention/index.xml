@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Attention on AesVoy</title>
+    <title>Attention on Aesvoy</title>
     <link>https://aestheticvoyager.github.io/tags/attention/</link>
-    <description>Recent content in Attention on AesVoy</description>
+    <description>Recent content in Attention on Aesvoy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
+    <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
-    <lastBuildDate>Mon, 05 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/attention/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/tags/attention/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>DenseNet: How Connections Revolutionized Deep Learning</title>
+      <link>https://aestheticvoyager.github.io/posts/densenet/</link>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/densenet/</guid>
+      <description>This series explores DenseNet&amp;rsquo;s revolutionary approach to neural connectivity that solved vanishing gradients and improved feature reuse, examines its mathematical foundations and practical implementation, and discusses how its limitations eventually paved the way for Vision Transformers. We trace the evolution from convolutional networks to hybrid architectures, showing how each innovation built upon previous breakthroughs while addressing their shortcomings in the endless pursuit of more efficient and powerful deep learning models.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/densenet/feature.jpg" />
+    </item>
+    
     <item>
       <title>Transformers &amp; Attention</title>
       <link>https://aestheticvoyager.github.io/posts/attention-transformer/</link>
       <pubDate>Mon, 05 Aug 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/attention-transformer/</guid>
       <description>This blog post explains how self-attention and softmax function in Transformer models, crucial for modern NLP. It breaks down how self-attention helps models understand relationships between tokens and how softmax ensures efficient computation and numerical stability.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/attention-transformer/featured.jpg" />
@@ -22,7 +35,7 @@
       <title>Infini-Attention Paper Review</title>
       <link>https://aestheticvoyager.github.io/posts/infini-attention/</link>
       <pubDate>Fri, 03 May 2024 00:00:00 +0000</pubDate>
-      
+      <author>sciredomir@tutanota.com (Mahan)</author>
       <guid>https://aestheticvoyager.github.io/posts/infini-attention/</guid>
       <description>Infini-Attention introduces a novel approach to scaling Transformer models for infinitely long inputs while managing memory and computation.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/infini-attention/featured.png" />
