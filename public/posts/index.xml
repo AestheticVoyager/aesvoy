@@ -9,7 +9,17 @@
     <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
     <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reductions in Algorithms</title>
+      <link>https://aestheticvoyager.github.io/posts/reduction/</link>
+      <pubDate>Fri, 24 Oct 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/reduction/</guid>
+      <description>In logic and computer science, the Boolean satisfiability problem (sometimes called propositional satisfiability problem and abbreviated SATISFIABILITY, SAT or B-SAT) asks whether there exists an interpretation that satisfies a given Boolean formula. In other words, it asks whether the formula&amp;rsquo;s variables can be consistently replaced by the values TRUE or FALSE to make the formula evaluate to TRUE.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/reduction/test-feature.jpg" />
+    </item>
     
     <item>
       <title>Recursive Block Transfers: An Elegant Approach to Image Rotation</title>
