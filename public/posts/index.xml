@@ -9,7 +9,17 @@
     <managingEditor>sciredomir@tutanota.com (Mahan)</managingEditor>
     <webMaster>sciredomir@tutanota.com (Mahan)</webMaster>
     <copyright>© 2025 Mahan</copyright>
-    <lastBuildDate>Fri, 24 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://aestheticvoyager.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Seam Carving Algorithm &amp; Implementation</title>
+      <link>https://aestheticvoyager.github.io/posts/seamcarving/</link>
+      <pubDate>Tue, 18 Nov 2025 00:00:00 +0000</pubDate>
+      <author>sciredomir@tutanota.com (Mahan)</author>
+      <guid>https://aestheticvoyager.github.io/posts/seamcarving/</guid>
+      <description>Seam carving is a revolutionary approach to resizing images that removes the &amp;rsquo;least important&amp;rsquo; paths of pixels, preserving the visual essence while changing the dimensions.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://aestheticvoyager.github.io/posts/seamcarving/feature.png" />
+    </item>
     
     <item>
       <title>Reductions in Algorithms</title>
