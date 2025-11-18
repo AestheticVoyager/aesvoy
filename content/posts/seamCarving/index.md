@@ -215,7 +215,10 @@ What I find most inspiring about seam carving is how it demonstrates that someti
 
 ## Try It Yourself
 
-I've implemented the complete seam carving algorithm in Python, available in our GitHub repository: [https://github.com/AestheticVoyager/seamCarving/](https://github.com/AestheticVoyager/seamCarving/)
+I've implemented the complete seam carving algorithm in Python, available in our GitHub repository: 
+
+{{< github repo="aestheticvoyager/seamCarving" >}}
+
 ## References and Further Reading
 
 1. **Original Paper**: Avidan, S., & Shamir, A. (2007). "Seam Carving for Content-Aware Image Resizing". ACM Transactions on Graphics, 26(3). [Link](https://dl.acm.org/doi/10.1145/1276377.1276390)
